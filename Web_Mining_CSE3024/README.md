@@ -22,3 +22,7 @@ We write a program to extract contact details from a website and save it in file
 #### 5. [Index Compression](./Index_Compression_Lab_5)
 
 We construct an inverted index to a set of 3 documents and also perform index compression.
+
+#### 6. [Page Ranking](./Page_Ranking_Lab_6)
+
+We build a page ranking algorithm using the networkX library, and then validate the results by implementing the same using Random Walk Method.
