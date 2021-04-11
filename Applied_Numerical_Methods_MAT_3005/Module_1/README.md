@@ -4,7 +4,7 @@
 
 
 
-### 1  [Iterative Method](./Module_1/iterative_method.m)
+### 1  [Iterative Method](./iterative_method.m)
 
 * If we have a function `f(x)`, we will have to manually find a form `x = phi(x)`. This `phi(x)` is the function that is to be entered in the code.
 * It is assumed that the function `phi(x)` passes the convergence condition in the provided interval.
@@ -15,7 +15,7 @@
 * The code prints the `estimated value at the end of every iteration`.
 
 
-### 2 [Secant Method](./Module_1/secant_method.m)
+### 2 [Secant Method](./secant_method.m)
 
 * If we have an equation of the form `f(x) = 0`, we will have to enter the `f(x)` into the code.
 * We will have to ensure that the function `f(x)` passes the convergence condition in the provided interval.
@@ -25,7 +25,7 @@
 * The code prints the `estimated value and the corresponding f(x) value at the end of every iteration`.
 
 
-### 3 [Newton Raphson Method](./Module_1/newton_raphson_method.m)
+### 3 [Newton Raphson Method](./newton_raphson_method.m)
 
 * If we have an equation of the form `f(x) = 0`, we will have to enter the `f(x)` into the code.
 * We will have to ensure that the function `f(x)` passes the convergence condition in the provided interval.

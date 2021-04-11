@@ -13,7 +13,15 @@
 | 4 | Newton Method for System of Non-Linear Equations |
 
 
-#### 2. [](./)
+#### 2. [Module 2](./Module_2)
+
+| S.no | Name of the Technique |
+| ---- | --------------------- |
+| 1 | [Gauss Seidal Method](./Module_2/gauss_seidal_method.m) |
+| 2 | [Triangulation (LU Decomposition) Method](./Module_2/lu_decomposition_method.m) |
+| 3 | [Thomas (Tri-diagonal) Method](./Module_2/thomas_method.m) |
+| 4 | [Power Method](./Module_2/power_method.m) |
+| 5 | Jacobi Method |
 
 
 #### 3. [](./)
