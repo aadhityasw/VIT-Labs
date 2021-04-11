@@ -26,3 +26,7 @@ We construct an inverted index to a set of 3 documents and also perform index co
 #### 6. [Page Ranking](./Page_Ranking_Lab_6)
 
 We build a page ranking algorithm using the networkX library, and then validate the results by implementing the same using Random Walk Method.
+
+#### 7. [HITS Algorithm](./HITS_Algorithm_Lab_7)
+
+We build a HITS algorithm for ranking and indexing pages across the web.
