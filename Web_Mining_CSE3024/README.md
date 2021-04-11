@@ -30,3 +30,7 @@ We build a page ranking algorithm using the networkX library, and then validate 
 #### 7. [HITS Algorithm](./HITS_Algorithm_Lab_7)
 
 We build a HITS algorithm for ranking and indexing pages across the web.
+
+#### 8. [Decision Tree](./Decision_Tree_Lab_8)
+
+We build a `ID3` and a `CART` decision trees, after exploring the `Cleveland Heart Disease` Dataset from the UCI Repository.
