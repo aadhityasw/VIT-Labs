@@ -44,9 +44,19 @@
 | 1 | Differentiation by Newton's Forward Difference Formula |
 | 2 | Differentiation by Newton's Backward Difference Formula |
 | 3 | Differentiation by Newton's Divided Difference Formula |
-| 4 | [Trapezoidal Rule Integration](./Module_4/trapezoidal_rule) |
-| 5 | [Simpson's One Third Rule Integration](./Module_4/simpson_one_third) |
-| 6 | [Simpson's Three Eighth Rule Integration](./Module_4/simpson_three_eighth) |
-| 7 | [Romberg's Method Integration](./Module_4/romberg_method) |
+| 4 | [Trapezoidal Rule Integration](./Module_4/trapezoidal_rule.m) |
+| 5 | [Simpson's One Third Rule Integration](./Module_4/simpson_one_third.m) |
+| 6 | [Simpson's Three Eighth Rule Integration](./Module_4/simpson_three_eighth.m) |
+| 7 | [Romberg's Method Integration](./Module_4/romberg_method.m) |
 | 8 | Two Point Gaussian Quadrature Formula Integration |
 | 9 | Three Point Gaussian Quadrature Formula Integration |
+
+
+#### 5. [Numerical Solution of Ordinary Differential Equation](./Module_5)
+
+| S.no | Name of the Method |
+| ---- | --------------------- |
+| 1 | [Fourth Order Runge Kutta Method for First order ODE](./Module_5/runke_kutta.m) |
+| 2 | [Fourth Order Runge Kutta Method for Second order or Simultaneous First order ODE](./Module_5/simultaneous_runke_kutta.m) |
+| 3 | [Adams Bashforth Moulton Predictor Corrector Method](./Module_5/adams_bashforth.m) |
+| 4 | [](./Module_5/) |

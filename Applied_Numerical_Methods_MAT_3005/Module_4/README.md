@@ -18,7 +18,7 @@
 `Coming Soon`
 
 
-## 4. [Trapezoidal Rule Integration](./trapezoidal_rule)
+## 4. [Trapezoidal Rule Integration](./trapezoidal_rule.m)
 
 * We will have to enter the function `f` in terms of the variable `x`.
 * We will have to enter the lower (`a`), and the upper (`b`) limits of the function where the integral value needs to be calculated.
@@ -29,7 +29,7 @@
 * The code displays this final integral value, the `h` value, the values in the table, and the trapezoidal equation with the values substituted in their appropriate places.
 
 
-## 5. [Simpson's One Third Rule Integration](./simpson_one_third)
+## 5. [Simpson's One Third Rule Integration](./simpson_one_third.m)
 
 * We will have to enter the function `f` in terms of the variable `x`.
 * We will have to enter the lower (`a`), and the upper (`b`) limits of the function where the integral value needs to be calculated.
@@ -40,7 +40,7 @@
 * The code displays this final integral value, the `h` value, the values in the table, and the trapezoidal equation with the values substituted in their appropriate places.
 
 
-## 6. [Simpson's Three Eighth Rule Integration](./simpson_three_eighth)
+## 6. [Simpson's Three Eighth Rule Integration](./simpson_three_eighth.m)
 
 * We will have to enter the function `f` in terms of the variable `x`.
 * We will have to enter the lower (`a`), and the upper (`b`) limits of the function where the integral value needs to be calculated.
@@ -51,7 +51,7 @@
 * The code displays this final integral value, the `h` value, the values in the table, and the trapezoidal equation with the values substituted in their appropriate places.
 
 
-## 7. [Romberg's Method Integration](./romberg_method)
+## 7. [Romberg's Method Integration](./romberg_method.m)
 
 * We will have to enter the function `f` in terms of the variable `x`.
 * We will have to enter the lower (`a`), and the upper (`b`) limits of the function where the integral value needs to be calculated.
