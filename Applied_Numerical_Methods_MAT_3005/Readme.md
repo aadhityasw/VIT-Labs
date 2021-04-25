@@ -35,3 +35,18 @@
 | 5 | [Newton's Divided Difference Interpolation Method](./Module_3/newton_divided_difference_interpolation.m) |
 | 6 | [Stirling's Central Interpolation Method](./Module_3/stirling_interpolation.m) |
 | 7 | [Cubic Spline Interpolation Method](./Module_3/cubic_spline_interpolation.m) |
+
+
+#### 4. [Numerical Differentiation and Integration](./Module_4)
+
+| S.no | Name of the Method |
+| ---- | --------------------- |
+| 1 | Differentiation by Newton's Forward Difference Formula |
+| 2 | Differentiation by Newton's Backward Difference Formula |
+| 3 | Differentiation by Newton's Divided Difference Formula |
+| 4 | [Trapezoidal Rule Integration](./Module_4/trapezoidal_rule) |
+| 5 | [Simpson's One Third Rule Integration](./Module_4/simpson_one_third) |
+| 6 | [Simpson's Three Eighth Rule Integration](./Module_4/simpson_three_eighth) |
+| 7 | [Romberg's Method Integration](./Module_4/romberg_method) |
+| 8 | Two Point Gaussian Quadrature Formula Integration |
+| 9 | Three Point Gaussian Quadrature Formula Integration |

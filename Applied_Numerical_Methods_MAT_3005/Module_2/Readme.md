@@ -1,6 +1,6 @@
 # System of Linear Equations and Eigen Value Problems
 
-* Module 2
+**Module 2**
 
 
 ## 1. [Gauss Seidal Method](./gauss_seidal_method.m)

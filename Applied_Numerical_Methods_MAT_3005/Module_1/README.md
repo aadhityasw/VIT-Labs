@@ -1,6 +1,6 @@
 # Algebraic and Trancedental Equations
 
-* Module 1
+**Module 1**
 
 
 

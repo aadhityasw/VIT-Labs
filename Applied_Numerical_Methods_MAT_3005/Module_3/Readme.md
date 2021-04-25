@@ -1,6 +1,6 @@
 # Interpolation
 
-* Module 3
+**Module 3**
 
 
 ## 1 [Newton's Forward Interpolation Method](./newton_forward_interpolation.m)
