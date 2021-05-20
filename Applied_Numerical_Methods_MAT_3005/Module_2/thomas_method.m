@@ -81,7 +81,7 @@ end
 
 fprintf("Step 4 :\n")
 
-x(n) = r(4);
+x(n) = r(n);
 fprintf("x%d = %f\n", n, x(n))
 
 for i = n-1:-1:1
