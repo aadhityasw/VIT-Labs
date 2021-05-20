@@ -6,10 +6,10 @@ clear all;
 %%
 
 % Coefficient Matrix
-A = [2 -1 0 0; -1 2 -1 0; 0 -1 2 -1; 0 0 -1 2];
+A = [-31 16 0; 16 -31 16; 0 16 -31];
 
 % rhs
-r = [1 2 3 4]';
+r = [0.25 0.5 -31.25]';
 
 
 %%
@@ -67,9 +67,9 @@ for i = 2:n
     a(i) = a(i) / (d(i) - (b(i) * a(i-1)));
     fprintf("a%d = (%f / (%f - (%f * %f))) = %f \n", i, a_old, d(i), b(i), a(i-1), a(i))
 
-    r_old = r(1);
-    r(1) = (r(i) - (b(i) * r(i-1))) / (d(i) - (b(i) * a(i-1)));
-    fprintf("a%d = ((%f - (%f * %f)) / (%f - (%f * %f))) = %f \n\n", i, r_old, b(i), r(i-1), d(i), b(i), a(i-1), r(i))
+    r_old = r(i);
+    r(i) = (r(i) - (b(i) * r(i-1))) / (d(i) - (b(i) * a(i-1)));
+    fprintf("r%d = ((%f - (%f * %f)) / (%f - (%f * %f))) = %f \n\n", i, r_old, b(i), r(i-1), d(i), b(i), a(i-1), r(i))
 end
 
 
