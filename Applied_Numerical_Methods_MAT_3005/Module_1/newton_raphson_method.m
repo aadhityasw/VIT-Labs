@@ -7,17 +7,17 @@ syms x;
 %%
 
 % enter f(x)=0
-f = (x * tan(x)) + 1;
+f = 2*x^3 -2.5*x -5;
 
 % enter the number of occurance of root to be found, (double root = 2),
 % (triple root = 3), etc
 m = 1;
 
 % Enter the interval (closed) where the root is to be found
-I = [2, 3];
+I = [1 2];
 
 % Enter the accuracy needed
-accuracy_decimal = 5;
+accuracy_decimal = 3;
 
 
 %%

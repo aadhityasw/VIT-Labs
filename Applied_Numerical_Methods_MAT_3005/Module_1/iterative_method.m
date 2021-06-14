@@ -7,9 +7,9 @@ syms x;
 %%
 % User Inputs
 
-phi_x = tan(x) - (2 / sin(2*x));
+phi_x = (7 + log10(x)) / 2;
 
-x_ini = 2.5;
+x_ini = 3.5;
 
 accuracy_decimal = 5;
 

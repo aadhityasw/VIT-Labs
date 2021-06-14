@@ -1,4 +1,5 @@
 %% Cubic Spline Interpolation Method
+% @Author : Aadhitya Swarnesh
 
 clc;
 clear all;
@@ -8,13 +9,13 @@ clear all;
 
 % Array of dependent and independent values
 % We will have to check and ensure that the interval of X is uniform
-X = [-1, 0, 1, 2];
-Y = [-1, 1, 3, 35];
+X = [0 1 2 3];
+Y = [1 2 33 244];
 
 % Enter the values of x whose function value is needed to be found
 % We would have to ensure that these values fall under the intervals of x
 % in the previous array
-x_query = [-0.5, 0.5];
+x_query = [0.5];
 
 
 %% Initialization

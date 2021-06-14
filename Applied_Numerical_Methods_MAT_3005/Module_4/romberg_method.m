@@ -13,7 +13,7 @@ syms x;
 %% Input Values
 
 % Function
-f = exp(-x^2);
+f = 0.2 + 25*x - 200*x^2 + 675*x^3 -900*x^4 + 400*x^5
 
 % Lower Limit
 a = 0;
@@ -27,10 +27,10 @@ b = 0.8;
 choice = 0;
 
 % Number of iterations
-num_iterations = 2;
+num_iterations = 3;
 
 % Enter the initial h value
-h = 0.2;
+h = 0.8;
 
 
 %% Initialization

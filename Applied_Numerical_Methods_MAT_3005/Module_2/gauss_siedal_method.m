@@ -7,13 +7,13 @@ clear all;
 
 % Coefficient Matrix
 % We will have to check and ensure that this is diagonally dominant
-A = [28 4 -1; 2 17 4; 1 3 10];
+A = [28 4 -1 ; 2 17 4 ; 1 3 10];
 
 % rhs values
 b = [32 35 24]';
 
 % initial assumed solution
-x = [1, 1, 1]';
+x = [1 0 1]';
 
 % Enter the accuracy needed
 accuracy_decimal = 5;

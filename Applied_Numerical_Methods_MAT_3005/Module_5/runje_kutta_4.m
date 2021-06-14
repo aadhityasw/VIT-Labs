@@ -13,19 +13,19 @@ syms x y;
 %% Input Values
 
 % Function
-diff_f = x + (x^2)*y;
+diff_f = (4-y^2)/(5*x);
 
 % Enter the h value
 h = 0.1;
 
 % Enter the x0 value
-x0 = 0;
+x0 = 4.2;
 
 % Enter its corresponding function value
-y0 = 1;
+y0 = 1.0097;
 
 % Enter the x_query value
-x_query = 0.2;
+x_query = 4.4;
 
 
 %% Initialization

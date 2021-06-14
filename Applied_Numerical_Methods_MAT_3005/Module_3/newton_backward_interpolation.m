@@ -7,13 +7,14 @@ clear all;
 
 % Array of dependent and independent values
 % We will have to check and ensure that the interval of X is uniform
-X = [0, 0.1, 0.2, 0.3, 0.4];
-Y = [1, 1.1052, 1.2214, 1.3499, 1.4918];
+
+X = [20 25 30 35 40 45];
+Y = [354 332 291 260 231 204];
 
 % The x value whose corresponding function value needs to be interpolated
 % We have to ensure that this x value falls in the later half of the X
 % values
-x = 0.38;
+x = 42;
 
 %% Initialization
 

@@ -7,13 +7,13 @@ syms x;
 %%
 
 % enter f(x)=0
-f = (x * tan(x)) + 1;
+f = 5*sin(x)^2 - 8*cos(x)^5
 
 % Enter the interval (closed) where the root is to be found
-I = [2, 3];
+I = [0.5, 1.5];
 
 % Enter the accuracy needed
-accuracy_decimal = 5;
+accuracy_decimal = 3;
 
 
 %%

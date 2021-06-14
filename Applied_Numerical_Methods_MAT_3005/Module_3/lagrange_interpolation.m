@@ -12,8 +12,8 @@ syms x;
 
 % Array of dependent and independent values
 % We will have to check and ensure that the interval of X is uniform
-X = [5, 7, 11, 13, 17];
-Y = [150, 392, 1452, 2366, 5202];
+X = [5 7 11 13 17];
+Y = [150 392 1452 2366 5202];
 
 % The x value whose corresponding function value needs to be interpolated
 x_query = 9;

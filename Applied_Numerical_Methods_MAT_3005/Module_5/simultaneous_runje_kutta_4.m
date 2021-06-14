@@ -14,22 +14,22 @@ syms x y z;
 %% Input Values
 
 % Function f(x, y, z)
-diff_f = x + z;
+diff_f = z;
 
 % Function g(x, y, z)
-diff_g = x - y;
+diff_g = 2*z - 2*y + exp(2*x)*sin(x);
 
 % Enter the h value
-h = 0.1;
+h = 0.2;
 
 % Enter the x0 value
 x0 = 0;
 
 % Enter its corresponding f value
-y0 = 0;
+y0 = -0.4;
 
 % Enter its corresponding g value
-z0 = 1;
+z0 = -0.6;
 
 % Enter the x_query value
 x_query = 0.2;
