@@ -62,7 +62,7 @@ for i=1:num_elements-1
     % Find the sum
     s = s + coeff(i+1);
     % Compute the next term's coefficient
-    t = t * ((n - i) / (i + 1));
+    t = t * ((n + i) / (i + 1));
 end
 
 %% Results Display
