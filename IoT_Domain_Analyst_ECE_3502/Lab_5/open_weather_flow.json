@@ -1,0 +1,247 @@
+[
+    {
+        "id": "d182654b.751478",
+        "type": "tab",
+        "label": "Open Weather",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "9d5f97d9.479b18",
+        "type": "inject",
+        "z": "d182654b.751478",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 120,
+        "wires": [
+            [
+                "a40dfda8.7b396"
+            ]
+        ]
+    },
+    {
+        "id": "a40dfda8.7b396",
+        "type": "openweathermap",
+        "z": "d182654b.751478",
+        "name": "weather",
+        "wtype": "current",
+        "lon": "",
+        "lat": "",
+        "city": "London",
+        "country": "United Kingdom",
+        "language": "en",
+        "x": 370,
+        "y": 120,
+        "wires": [
+            [
+                "f4672b9a.7653a8",
+                "a4fdd718.1c8268"
+            ]
+        ]
+    },
+    {
+        "id": "f4672b9a.7653a8",
+        "type": "ui_gauge",
+        "z": "d182654b.751478",
+        "name": "Inject Weather",
+        "group": "48675baa.b4fee4",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "compass",
+        "title": "Compass",
+        "label": "degrees",
+        "format": "{{msg.payload.tempc}}",
+        "min": "-50",
+        "max": "50",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 750,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "a4fdd718.1c8268",
+        "type": "debug",
+        "z": "d182654b.751478",
+        "name": "Weather Debug",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 740,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "19e61cfd.be55c3",
+        "type": "openweathermap in",
+        "z": "d182654b.751478",
+        "name": "",
+        "wtype": "current",
+        "lon": "",
+        "lat": "",
+        "city": "London",
+        "country": "United Kingdom",
+        "language": "en",
+        "x": 110,
+        "y": 400,
+        "wires": [
+            [
+                "15f2259e.8ec14a",
+                "70812946.94aba8",
+                "e5759ec0.92575"
+            ]
+        ]
+    },
+    {
+        "id": "15f2259e.8ec14a",
+        "type": "function",
+        "z": "d182654b.751478",
+        "name": "",
+        "func": "if (msg.payload.weather.weather==\"clear\")\n{\nmsg.payload = (\"Good day !! have a pleasant stay\")\nreturn msg;\n}\n{\nmsg.payload = \"stay home !! stay safe it is raining !! Have a cup of tea\"\nreturn msg ;\n}\nreturn null;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 350,
+        "y": 460,
+        "wires": [
+            [
+                "4c431cc1.e88944",
+                "9b6b6a04.af5968",
+                "6cf07add.0c1ec4"
+            ]
+        ]
+    },
+    {
+        "id": "e5759ec0.92575",
+        "type": "ui_gauge",
+        "z": "d182654b.751478",
+        "name": "Weather",
+        "group": "48675baa.b4fee4",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Gauge",
+        "label": "degrees",
+        "format": "{{msg.payload.tempc}}",
+        "min": "-50",
+        "max": "50",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 720,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "4c431cc1.e88944",
+        "type": "debug",
+        "z": "d182654b.751478",
+        "name": "Weather Debug",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 690,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "70812946.94aba8",
+        "type": "debug",
+        "z": "d182654b.751478",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 720,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "9b6b6a04.af5968",
+        "type": "ui_text",
+        "z": "d182654b.751478",
+        "group": "48675baa.b4fee4",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "x": 680,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "6cf07add.0c1ec4",
+        "type": "ui_audio",
+        "z": "d182654b.751478",
+        "name": "",
+        "group": "48675baa.b4fee4",
+        "voice": "",
+        "always": "",
+        "x": 690,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "48675baa.b4fee4",
+        "type": "ui_group",
+        "name": "Weather",
+        "tab": "425bc1d8.74f61",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "425bc1d8.74f61",
+        "type": "ui_tab",
+        "name": "Climate",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]

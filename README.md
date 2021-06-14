@@ -9,3 +9,6 @@ A bunch of codes done in the labs of various courses during Undergrad.
 
 
 2. [Applied Numerical Methods - MAT3005](./Applied_Numerical_Methods_MAT_3005)
+
+
+3. [IoT Domain Analyst - ECE3502](./IoT_Domain_Analyst_ECE_3502)

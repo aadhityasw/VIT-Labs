@@ -1,0 +1,186 @@
+[
+    {
+        "id": "7878fcda.875374",
+        "type": "tab",
+        "label": "OTP Generator",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "a1fc6591.178a38",
+        "type": "inject",
+        "z": "7878fcda.875374",
+        "name": "OTP Generator",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "v": "",
+                "vt": "date"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "OTP Generator",
+        "payloadType": "str",
+        "x": 170,
+        "y": 360,
+        "wires": [
+            [
+                "43be2f2d.2e54b"
+            ]
+        ]
+    },
+    {
+        "id": "43be2f2d.2e54b",
+        "type": "function",
+        "z": "7878fcda.875374",
+        "name": "OTP Generator",
+        "func": "msg.payload = Math.round(Math.random()*1000000)\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 360,
+        "y": 440,
+        "wires": [
+            [
+                "ca502468.0ca858",
+                "2cdf4347.68367c",
+                "428f4bf1.752284",
+                "48960184.1eec4"
+            ]
+        ]
+    },
+    {
+        "id": "ca502468.0ca858",
+        "type": "debug",
+        "z": "7878fcda.875374",
+        "name": "OTP",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 630,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "2cdf4347.68367c",
+        "type": "ui_chart",
+        "z": "7878fcda.875374",
+        "name": "",
+        "group": "e10bd09.38e273",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "label": "OTP Generation Chart",
+        "chartType": "pie",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "99",
+        "ymax": "9999999",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "x": 660,
+        "y": 520,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "380e73d5.e1828c",
+        "type": "ui_audio",
+        "z": "7878fcda.875374",
+        "name": "Audio",
+        "group": "e10bd09.38e273",
+        "voice": "",
+        "always": true,
+        "x": 750,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "428f4bf1.752284",
+        "type": "ui_text_input",
+        "z": "7878fcda.875374",
+        "name": "",
+        "label": "",
+        "tooltip": "",
+        "group": "e10bd09.38e273",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "mode": "tel",
+        "delay": 300,
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 580,
+        "y": 340,
+        "wires": [
+            [
+                "380e73d5.e1828c"
+            ]
+        ]
+    },
+    {
+        "id": "48960184.1eec4",
+        "type": "ui_audio",
+        "z": "7878fcda.875374",
+        "name": "OTP Audio",
+        "group": "e10bd09.38e273",
+        "voice": "",
+        "always": "",
+        "x": 630,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "e10bd09.38e273",
+        "type": "ui_group",
+        "name": "Climate Condition",
+        "tab": "425bc1d8.74f61",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "425bc1d8.74f61",
+        "type": "ui_tab",
+        "name": "Climate",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]

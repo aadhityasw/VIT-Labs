@@ -1,0 +1,89 @@
+[
+    {
+        "id": "c6fdbd6c.3ec3a",
+        "type": "tab",
+        "label": "News Feed Parser",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "3c9c239a.c7facc",
+        "type": "feedparse",
+        "z": "c6fdbd6c.3ec3a",
+        "name": "NY Post",
+        "url": "https://nypost.com/feed/",
+        "interval": "5",
+        "x": 280,
+        "y": 220,
+        "wires": [
+            [
+                "230db435.cec3cc",
+                "2cf1dfba.684ec",
+                "c1e38dbc.213d4"
+            ]
+        ]
+    },
+    {
+        "id": "2cf1dfba.684ec",
+        "type": "ui_text",
+        "z": "c6fdbd6c.3ec3a",
+        "group": "4de58985.f7d798",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "name": "News Display",
+        "label": "text",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "x": 640,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "230db435.cec3cc",
+        "type": "debug",
+        "z": "c6fdbd6c.3ec3a",
+        "name": "Mews Reader",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 640,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "c1e38dbc.213d4",
+        "type": "ui_audio",
+        "z": "c6fdbd6c.3ec3a",
+        "name": "",
+        "group": "4de58985.f7d798",
+        "voice": "",
+        "always": "",
+        "x": 630,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "4de58985.f7d798",
+        "type": "ui_group",
+        "name": "News Reader",
+        "tab": "fd2416a.b24cbe8",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "fd2416a.b24cbe8",
+        "type": "ui_tab",
+        "name": "News",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]

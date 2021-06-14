@@ -1,0 +1,133 @@
+[
+    {
+        "id": "39937c51.63da94",
+        "type": "tab",
+        "label": "Solar Power",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "ae1a653.a4eb098",
+        "type": "solar power forecast",
+        "z": "39937c51.63da94",
+        "name": "Chennai",
+        "lat": "13.0827",
+        "lon": "80.2707",
+        "tilt": "0",
+        "orientation": "0",
+        "altitude": "6.7",
+        "area": "100",
+        "number": "75",
+        "efficiency": "0.15",
+        "x": 440,
+        "y": 220,
+        "wires": [
+            [
+                "2c1b8.d95a7e482",
+                "9bbe304c.8787a",
+                "1315732f.7ae00d"
+            ]
+        ]
+    },
+    {
+        "id": "4bd42ca5.d5c794",
+        "type": "inject",
+        "z": "39937c51.63da94",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 190,
+        "y": 180,
+        "wires": [
+            [
+                "ae1a653.a4eb098"
+            ]
+        ]
+    },
+    {
+        "id": "2c1b8.d95a7e482",
+        "type": "debug",
+        "z": "39937c51.63da94",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 790,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "9bbe304c.8787a",
+        "type": "ui_gauge",
+        "z": "39937c51.63da94",
+        "name": "",
+        "group": "a02f2097.6c68b",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "gauge",
+        "label": "Watts",
+        "format": "{{msg.payload.powerforecast}}",
+        "min": 0,
+        "max": "1000",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 770,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "1315732f.7ae00d",
+        "type": "ui_audio",
+        "z": "39937c51.63da94",
+        "name": "",
+        "group": "a02f2097.6c68b",
+        "voice": "",
+        "always": "",
+        "x": 780,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "a02f2097.6c68b",
+        "type": "ui_group",
+        "name": "Solar",
+        "tab": "425bc1d8.74f61",
+        "order": 3,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "425bc1d8.74f61",
+        "type": "ui_tab",
+        "name": "Climate",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]

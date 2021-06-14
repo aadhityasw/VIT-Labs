@@ -1,0 +1,84 @@
+[
+    {
+        "id": "acc36d5c.99121",
+        "type": "tab",
+        "label": "Fred",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "3e7322a.c6b60de",
+        "type": "fred in",
+        "z": "acc36d5c.99121",
+        "name": "Recieve from FRED",
+        "server": "",
+        "client": "575b915a.478cf",
+        "x": 650,
+        "y": 240,
+        "wires": [
+            [
+                "ff07dea.7d0702"
+            ]
+        ]
+    },
+    {
+        "id": "f8d149a7.d8dbe8",
+        "type": "fred out",
+        "z": "acc36d5c.99121",
+        "name": "Send to FRED",
+        "server": "",
+        "client": "575b915a.478cf",
+        "x": 560,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "ff07dea.7d0702",
+        "type": "debug",
+        "z": "acc36d5c.99121",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 810,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "dc065c31.f0ad6",
+        "type": "inject",
+        "z": "acc36d5c.99121",
+        "name": "Hello from Local",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "Hello from Local Desktop",
+        "payloadType": "str",
+        "x": 340,
+        "y": 400,
+        "wires": [
+            [
+                "f8d149a7.d8dbe8"
+            ]
+        ]
+    },
+    {
+        "id": "575b915a.478cf",
+        "type": "fred-client",
+        "endpoint": "lab7",
+        "private": false,
+        "username": "kabsuki",
+        "wholemsg": "false"
+    }
+]

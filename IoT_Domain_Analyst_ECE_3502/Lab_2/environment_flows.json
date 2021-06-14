@@ -1,0 +1,231 @@
+[
+    {
+        "id": "47eed771.2f0a58",
+        "type": "tab",
+        "label": "Environmental Conditions",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "a3873fe9.7514c",
+        "type": "rpi-sensehatsim in",
+        "z": "47eed771.2f0a58",
+        "name": "",
+        "motion": false,
+        "env": true,
+        "stick": false,
+        "x": 230,
+        "y": 220,
+        "wires": [
+            [
+                "4a6ba1f2.c8299",
+                "38b425a3.78ea8a",
+                "29122cd2.aba0d4"
+            ]
+        ]
+    },
+    {
+        "id": "4a6ba1f2.c8299",
+        "type": "function",
+        "z": "47eed771.2f0a58",
+        "name": "Temperature",
+        "func": "msg.payload = msg.payload.temperature\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 540,
+        "y": 180,
+        "wires": [
+            [
+                "76e67d4d.1127e4",
+                "b00bb0d.a4dcf5"
+            ]
+        ]
+    },
+    {
+        "id": "38b425a3.78ea8a",
+        "type": "function",
+        "z": "47eed771.2f0a58",
+        "name": "Pressure",
+        "func": "msg.payload = msg.payload.pressure\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 540,
+        "y": 320,
+        "wires": [
+            [
+                "621892f5.2dfc0c",
+                "5735e22.43abc1c"
+            ]
+        ]
+    },
+    {
+        "id": "29122cd2.aba0d4",
+        "type": "function",
+        "z": "47eed771.2f0a58",
+        "name": "Humidity",
+        "func": "msg.payload = msg.payload.humidity\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 520,
+        "y": 440,
+        "wires": [
+            [
+                "9be94d1e.93683",
+                "8a33c2cf.11db8"
+            ]
+        ]
+    },
+    {
+        "id": "76e67d4d.1127e4",
+        "type": "debug",
+        "z": "47eed771.2f0a58",
+        "name": "temperature",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 840,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "621892f5.2dfc0c",
+        "type": "debug",
+        "z": "47eed771.2f0a58",
+        "name": "pressure",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 830,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "9be94d1e.93683",
+        "type": "debug",
+        "z": "47eed771.2f0a58",
+        "name": "humidity",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 850,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "b00bb0d.a4dcf5",
+        "type": "ui_gauge",
+        "z": "47eed771.2f0a58",
+        "name": "",
+        "group": "e10bd09.38e273",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Temperature",
+        "label": "units",
+        "format": "{{value}}",
+        "min": "-100",
+        "max": "100",
+        "colors": [
+            "#9eb300",
+            "#26e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 860,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "5735e22.43abc1c",
+        "type": "ui_gauge",
+        "z": "47eed771.2f0a58",
+        "name": "",
+        "group": "e10bd09.38e273",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "pressure",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "2000",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 850,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "8a33c2cf.11db8",
+        "type": "ui_gauge",
+        "z": "47eed771.2f0a58",
+        "name": "",
+        "group": "e10bd09.38e273",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "humidity",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 840,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "e10bd09.38e273",
+        "type": "ui_group",
+        "name": "Climate Condition",
+        "tab": "425bc1d8.74f61",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "425bc1d8.74f61",
+        "type": "ui_tab",
+        "name": "Climate",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": "b8620c5.84b99f",
+        "type": "tab",
+        "label": "Thingsboard",
+        "disabled": true,
+        "info": ""
+    },
+    {
+        "id": "99460d88.ebb48",
+        "type": "inject",
+        "z": "b8620c5.84b99f",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{\"temperature\" :15, \"Humidity\" : 20, \"Pressure\" : 100}",
+        "payloadType": "json",
+        "x": 310,
+        "y": 300,
+        "wires": [
+            [
+                "656a67d6.456828"
+            ]
+        ]
+    },
+    {
+        "id": "221d3f43.70931",
+        "type": "debug",
+        "z": "b8620c5.84b99f",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 780,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "656a67d6.456828",
+        "type": "http request",
+        "z": "b8620c5.84b99f",
+        "name": "",
+        "method": "POST",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "http://demo.thingsboard.io/api/v1/tMwBS6cA9Gtx8Qku7bol/telemetry",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 540,
+        "y": 240,
+        "wires": [
+            [
+                "221d3f43.70931"
+            ]
+        ]
+    }
+]
