@@ -37,5 +37,10 @@
 * The code prints the `estimated value and the corresponding f(x) value at the end of every iteration`.
 
 
-### 4 Newton Method for System of Non-Linear Equations
-`Coming Soon`
+### 4 [Newton Method for System of Non-Linear Equations](./non_linear_system.m)
+
+* Given a system of multiple non-linear equations, we solve them.
+* We enter the system of functions, and the initial values of these variables `x`, `y`, etc.
+* We then find the `Jacobian Matrix` and use it for the iteration in finding a better estimate for the values of the variables.
+* In each iteration, the code will display the substituted `Jacobian matrix`, its inverse and the values of the variables.
+* The code will display the solution to the system of equations.

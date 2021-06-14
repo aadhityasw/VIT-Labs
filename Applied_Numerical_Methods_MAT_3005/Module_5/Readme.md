@@ -30,6 +30,9 @@
 * The final `y_cur` value displayed by the code is our final result or the function value corresponding to the entered `x_query` value.
 
 
-## 3 Adams Bashforth Moulton Predictor Corrector Method
+## 3 [Adams Bashforth Moulton Predictor Corrector Method](./adam_bashforth_method.m)
 
-`Coming Soon`
+* This method is used for finding the function value of any point given the function values of a few points before and the function of the differential `y'` in terms of `x` and `y`.
+* This Method follows two steps -- `Predictor` and `Corrector` steps which take place in the same order.
+* The corrector step is used to provide a more accurate function value of the point.
+* Both these steps use the `y'` values found using the provided function, to find the required function values.

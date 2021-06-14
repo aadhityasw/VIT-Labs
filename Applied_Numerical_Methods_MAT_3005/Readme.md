@@ -10,7 +10,7 @@
 | 1 | [Iterative Method](./Module_1/iterative_method.m) |
 | 2 | [Secant Method](./Module_1/secant_method.m) |
 | 3 | [Newton Raphson Method](./Module_1/newton_raphson_method.m) |
-| 4 | Newton Method for System of Non-Linear Equations |
+| 4 | [Newton Method for System of Non-Linear Equations](./Module_1/non_linear_system.m) |
 
 
 #### 2. [System of Linear Equations and Eigen Value Problems](./Module_2)
@@ -41,15 +41,15 @@
 
 | S.no | Name of the Method |
 | ---- | --------------------- |
-| 1 | Differentiation by Newton's Forward Difference Formula |
-| 2 | Differentiation by Newton's Backward Difference Formula |
-| 3 | Differentiation by Newton's Divided Difference Formula |
+| 1 | [Differentiation by Newton's Forward Difference Formula](./Module_4/newton_forward_differentiation.m) |
+| 2 | [Differentiation by Newton's Backward Difference Formula](./Module_4/newton_backward_differentiation.m) |
+| 3 | [Differentiation by Newton's Divided Difference Formula](./Module_4/newton_divided_differentiation.m) |
 | 4 | [Trapezoidal Rule Integration](./Module_4/trapezoidal_rule.m) |
 | 5 | [Simpson's One Third Rule Integration](./Module_4/simpson_one_third.m) |
 | 6 | [Simpson's Three Eighth Rule Integration](./Module_4/simpson_three_eighth.m) |
 | 7 | [Romberg's Method Integration](./Module_4/romberg_method.m) |
-| 8 | Two Point Gaussian Quadrature Formula Integration |
-| 9 | Three Point Gaussian Quadrature Formula Integration |
+| 8 | [Two Point Gaussian Quadrature Formula Integration](./Module_4/gauss_legrande_two_point.m) |
+| 9 | [Three Point Gaussian Quadrature Formula Integration](./Module_4/gauss_legrande_three_point.m) |
 
 
 #### 5. [Numerical Solution of Ordinary Differential Equation](./Module_5)
@@ -58,5 +58,12 @@
 | ---- | --------------------- |
 | 1 | [Fourth Order Runge Kutta Method for First order ODE](./Module_5/runke_kutta.m) |
 | 2 | [Fourth Order Runge Kutta Method for Second order or Simultaneous First order ODE](./Module_5/simultaneous_runke_kutta.m) |
-| 3 | [Adams Bashforth Moulton Predictor Corrector Method](./Module_5/adams_bashforth.m) |
-| 4 | [](./Module_5/) |
+| 3 | [Adams Bashforth Moulton Predictor Corrector Method](./Module_5/adam_bashforth_method.m) |
+
+
+#### 6. [Numerical Solutions to Partial Differential Equation](./Module_6)
+
+| S.no | Name of the Method |
+| ---- | --------------------- |
+| 1 | [Solving Second Order PDE of Elliptic Nature](./Module_6/solving_elliptic_equation.m) |
+
