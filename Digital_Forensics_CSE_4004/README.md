@@ -1,0 +1,15 @@
+# IoT Domain Analyst - ECE3502
+
+
+## Setup
+
+The setup procedure followed here is a Windows 7 Professional edition with a list of tools installed which have been stated within the corresponding lab directory. This Operating system in my case is run inside a virtual box environment. You can do the same process, or follow any other version of the Windows operating system.
+
+There are also certain virtual machines available which can be used for a maximum of 90 days, and depending on the version they can be renewed for another term too.
+
+* [Windows 10 virtual machines to test Microsoft Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
+* [Get a Windows 10 development environment](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
+
+
+## List of Programs
+
