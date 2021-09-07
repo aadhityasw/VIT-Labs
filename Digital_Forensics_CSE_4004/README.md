@@ -1,4 +1,4 @@
-# IoT Domain Analyst - ECE3502
+# Digital Forensics - CSE4004
 
 
 ## Setup
@@ -16,3 +16,11 @@ There are also certain virtual machines available which can be used for a maximu
 #### 1. [Lab 1](./Lab_1)
 
 We here deal with the concept of hashing text, files of different formats using various hashing algorithms, their properties, and also the general necessary qualifications and qualities of a good hash function, and also we have seen what makes a hash function have collisions. We also demonstrate a hash collision of the `MD5` hashing algorithm.
+
+
+#### 2. [Lab 2](./Lab_2)
+
+We have in this experiment, analysed directories on the hard disk using `Microsoft’s Log Parser Tool`, and performed tasks like knowing the top 10 largest or smallest files in a directory, etc.
+
+* [Microsoft’s Log Parser Tool](https://www.microsoft.com/en-us/download/details.aspx?id=24659)
+
