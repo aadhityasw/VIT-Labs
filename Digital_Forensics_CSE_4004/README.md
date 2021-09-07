@@ -17,6 +17,8 @@ There are also certain virtual machines available which can be used for a maximu
 
 We here deal with the concept of hashing text, files of different formats using various hashing algorithms, their properties, and also the general necessary qualifications and qualities of a good hash function, and also we have seen what makes a hash function have collisions. We also demonstrate a hash collision of the `MD5` hashing algorithm.
 
+* [An online Hashing Web Application](http://www.fileformat.info/tool/hash.htm)
+
 
 #### 2. [Lab 2](./Lab_2)
 
