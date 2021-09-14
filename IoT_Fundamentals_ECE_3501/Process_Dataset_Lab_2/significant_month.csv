@@ -1,0 +1,12 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-07-22T20:07:19.540Z,33.1313,86.8397,10,6.3,mww,,15,5.155,0.96,us,us6000b26j,2020-07-23T20:41:49.040Z,"western Xizang",earthquake,7.9,1.8,0.052,35,reviewed,us,us
+2020-07-22T06:12:44.593Z,55.0298,-158.5217,28,7.8,mww,,64,0.647,1.27,us,us7000asvb,2020-07-24T00:03:06.231Z,"105 km SSE of Perryville, Alaska",earthquake,2.3,1.8,0.04,60,reviewed,us,us
+2020-07-17T05:40:36.322Z,-20.2353,-70.1399,73.82,5.9,mww,,32,0.635,1.22,us,us7000aq5p,2020-07-22T23:36:50.107Z,"2 km SSE of Iquique, Chile",earthquake,4,4.3,0.093,11,reviewed,us,us
+2020-07-17T02:50:23.017Z,-7.8428,147.7656,79.79,7,mww,,18,1.663,1.14,us,us7000aq3e,2020-07-23T16:27:42.279Z,"114 km NNW of Popondetta, Papua New Guinea",earthquake,6.7,3.4,0.054,33,reviewed,us,us
+2020-07-06T22:54:47.897Z,-5.5956,110.6952,538.73,6.7,mww,,14,1.466,1.29,us,us7000aj3w,2020-07-13T02:05:52.482Z,"98 km N of Batang, Indonesia",earthquake,7.3,3,0.052,36,reviewed,us,us
+2020-07-03T20:49:45.110Z,17.8995,-67.0048,3,5.3,mwp,24,232,0.0803,0.53,pr,pr2020185017,2020-07-19T15:59:59.366Z,"9 km SSE of La Parguera, Puerto Rico",earthquake,1.26,0.98,0.32,21,reviewed,pr,pr
+2020-07-03T09:20:01.540Z,19.3258333333333,-155.115333333333,7.02,4.64,ml,62,144,,0.11,hv,hv72027572,2020-07-08T00:40:01.857Z,"15 km S of Fern Forest, Hawaii",earthquake,0.23,0.28,0.154611125803525,33,reviewed,hv,hv
+2020-06-25T21:05:18.155Z,35.5948,82.4158,10,6.3,mww,,24,6.134,0.63,us,us7000abmk,2020-07-19T04:30:51.557Z,"278 km SE of Hotan, China",earthquake,7,1.7,0.062,25,reviewed,us,us
+2020-06-25T05:20:59.627Z,44.3989,-115.1814,7.54,4.6,mwr,,75,0.34,0.64,us,us7000aanf,2020-07-19T16:20:39.917Z,"27 km NW of Stanley, Idaho",earthquake,2.6,4.7,0.028,119,reviewed,us,us
+2020-06-24T19:47:44.889Z,35.4661,141.1005,28.88,5.9,mww,,37,0.661,0.95,us,us7000aabt,2020-07-04T17:45:02.689Z,"38 km SE of Hasaki, Japan",earthquake,5.9,2.9,0.05,39,reviewed,us,us
+2020-06-24T17:40:49.240Z,36.4468333,-117.9751667,4.66,5.8,mw,48,67,0.08494,0.19,ci,ci39493944,2020-07-22T17:51:00.488Z,"18km SSE of Lone Pine, CA",earthquake,0.18,0.66,,6,reviewed,ci,ci

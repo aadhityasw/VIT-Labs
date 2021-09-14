@@ -14,3 +14,10 @@ Refer to the [contributing.md](./Contributing.md) file for the setup procedure.
 | S.no | Name of the Method |
 | ---- | --------------------- |
 | 1 | [Display Time with Node Red](./Display_Time_Lab_1/display_time.json) |
+
+
+#### 2. [Lab 2](./Process_Dataset_Lab_2)
+
+| S.no | Name of the Method |
+| ---- | --------------------- |
+| 1 | [Process_Dataset with Node Red (Earthquake Alert)](./Process_Dataset_Lab_2/earthquake_alerts.json) |
