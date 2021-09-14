@@ -21,3 +21,10 @@ Refer to the [contributing.md](./Contributing.md) file for the setup procedure.
 | S.no | Name of the Method |
 | ---- | --------------------- |
 | 1 | [Process_Dataset with Node Red (Earthquake Alert)](./Process_Dataset_Lab_2/earthquake_alerts.json) |
+
+
+#### 3. [Lab 3](./Motion_Detector_Lab_3)
+
+| S.no | Name of the Method |
+| ---- | --------------------- |
+| 1 | [Motion Detector with Tinker CAD](./Motion_Detector_Lab_3) |
