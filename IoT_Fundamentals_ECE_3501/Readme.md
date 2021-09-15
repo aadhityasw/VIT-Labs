@@ -60,3 +60,10 @@ Refer to the [contributing.md](./Contributing.md) file for the setup procedure.
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
 | 1 | [Simulate IoT Protocols with Contiki](./Simulate_IoT_Protocols_Lab_7) |
+
+
+#### 8. [Lab 8](./Database_Support_Lab_8)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Databases with Node Red](./Database_Support_Lab_8/database.json) |

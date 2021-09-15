@@ -1,0 +1,183 @@
+[
+    {
+        "id": "84c45e74.bf407",
+        "type": "tab",
+        "label": "Retrieving data from Local database Lab 8",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "75fd569c.a94d58",
+        "type": "http in",
+        "z": "84c45e74.bf407",
+        "name": "",
+        "url": "/testdata",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 150,
+        "y": 100,
+        "wires": [
+            [
+                "993bbc17.05381"
+            ]
+        ]
+    },
+    {
+        "id": "6b4f8b34.87a484",
+        "type": "http response",
+        "z": "84c45e74.bf407",
+        "name": "Data Display",
+        "statusCode": "",
+        "headers": {},
+        "x": 570,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "f93b47cf.19eef8",
+        "type": "debug",
+        "z": "84c45e74.bf407",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 570,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "993bbc17.05381",
+        "type": "alafile in",
+        "z": "84c45e74.bf407",
+        "name": "",
+        "filename": "/Users/aadhitya/Documents/VS-Code/VIT LAB/IOT Lab/9Oct2020/testdata",
+        "format": "xlsx",
+        "columns": "*",
+        "headers": true,
+        "x": 320,
+        "y": 180,
+        "wires": [
+            [
+                "f93b47cf.19eef8",
+                "6b4f8b34.87a484"
+            ]
+        ]
+    },
+    {
+        "id": "6af9cc07.854fc4",
+        "type": "alafile in",
+        "z": "84c45e74.bf407",
+        "name": "",
+        "filename": "/Users/aadhitya/Documents/VS-Code/VIT LAB/IOT Lab/9Oct2020/testdata",
+        "format": "xlsx",
+        "columns": "*",
+        "headers": true,
+        "x": 310,
+        "y": 480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "50d979c3.5f1bc8",
+        "type": "ui_form",
+        "z": "84c45e74.bf407",
+        "name": "",
+        "label": "",
+        "group": "11faacd5.8521a3",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "options": [
+            {
+                "label": "Registration Number",
+                "value": "Regno",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Name",
+                "value": "Name",
+                "type": "text",
+                "required": true,
+                "rows": null
+            },
+            {
+                "label": "Mobile",
+                "value": "Mobile",
+                "type": "number",
+                "required": false,
+                "rows": null
+            },
+            {
+                "label": "Email",
+                "value": "email",
+                "type": "email",
+                "required": false,
+                "rows": null
+            }
+        ],
+        "formValue": {
+            "Regno": "",
+            "Name": "",
+            "Mobile": "",
+            "email": ""
+        },
+        "payload": "",
+        "submit": "submit",
+        "cancel": "cancel",
+        "topic": "",
+        "x": 180,
+        "y": 380,
+        "wires": [
+            [
+                "6af9cc07.854fc4",
+                "f784a99b.507e08"
+            ]
+        ]
+    },
+    {
+        "id": "f784a99b.507e08",
+        "type": "debug",
+        "z": "84c45e74.bf407",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 410,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "11faacd5.8521a3",
+        "type": "ui_group",
+        "z": "",
+        "name": "Personal Details",
+        "tab": "de3976af.2e6cd8",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "de3976af.2e6cd8",
+        "type": "ui_tab",
+        "z": "",
+        "name": "College",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
