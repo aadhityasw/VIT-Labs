@@ -1,0 +1,86 @@
+[
+    {
+        "id": "bc86bee7.50062",
+        "type": "tab",
+        "label": "SVG FloorPlan Lab 5",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "3e4997bb.e0e468",
+        "type": "debug",
+        "z": "bc86bee7.50062",
+        "name": "Floorplan output",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 400,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "261ad2a2.e3620e",
+        "type": "ui_svg_graphics",
+        "z": "bc86bee7.50062",
+        "group": "93c97f47.fbcb2",
+        "order": 1,
+        "width": "14",
+        "height": "10",
+        "svgString": "<svg preserveAspectRatio=\"none\" x=\"0\" y=\"0\" viewBox=\"0 0 900 710\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n  <image width=\"889\" height=\"703\" id=\"background\" xlink:href=\"https://www.roomsketcher.com/wp-content/uploads/2016/10/1-Bedroom-Floor-Plans.jpg\"/>\n  <circle id=\"pir_living\" cx=\"310\" cy=\"45\" r=\"5\" stroke-width=\"0\" fill=\"#FF0000\"/>\n  <text id=\"camera_living\" x=\"310\" y=\"45\" font-family=\"FontAwesome\" fill=\"blue\" stroke=\"black\" font-size=\"35\" text-anchor=\"middle\" alignment-baseline=\"middle\" stroke-width=\"1\"></text>\n</svg>",
+        "clickableShapes": [
+            {
+                "targetId": "#camera_living",
+                "action": "click",
+                "payload": "camera_living",
+                "payloadType": "str",
+                "topic": "camera_living"
+            }
+        ],
+        "smilAnimations": [],
+        "bindings": [],
+        "showCoordinates": false,
+        "autoFormatAfterEdit": false,
+        "showBrowserErrors": false,
+        "outputField": "",
+        "editorUrl": "http://drawsvg.org/drawsvg.html",
+        "directory": "",
+        "panning": "disabled",
+        "zooming": "disabled",
+        "panOnlyWhenZoomed": false,
+        "doubleClickZoomEnabled": false,
+        "mouseWheelZoomEnabled": false,
+        "name": "",
+        "x": 200,
+        "y": 200,
+        "wires": [
+            [
+                "3e4997bb.e0e468"
+            ]
+        ]
+    },
+    {
+        "id": "93c97f47.fbcb2",
+        "type": "ui_group",
+        "z": "",
+        "name": "Floorplan test",
+        "tab": "aa5afd0a.7ffb5",
+        "order": 1,
+        "disp": true,
+        "width": "14",
+        "collapse": false
+    },
+    {
+        "id": "aa5afd0a.7ffb5",
+        "type": "ui_tab",
+        "z": "",
+        "name": "SVG",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
