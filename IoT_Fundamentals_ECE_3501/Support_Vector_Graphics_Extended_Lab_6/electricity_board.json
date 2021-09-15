@@ -1,0 +1,103 @@
+[
+    {
+        "id": "c6efbfa4.7d085",
+        "type": "tab",
+        "label": "lab 6 electricity board",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "fc678b88.8d9f78",
+        "type": "ui_svg_graphics",
+        "z": "c6efbfa4.7d085",
+        "group": "16c53fcc.777ba",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "svgString": "<svg x=\"0\" y=\"0\" height=\"200\" viewBox=\"0 0 100 100\" width=\"100\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:svg=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<circle id=\"cir\" cx=\"50\" cy=\"100\" r=\"40\" stroke=\"black\" stroke-width=\"3\" fill=\"red\" />\n<text x=\"10\" y=\"20\" fill=\"red\"> Power Station </text>\n</svg>",
+        "clickableShapes": [
+            {
+                "targetId": "#cir",
+                "action": "click",
+                "payload": "Power On",
+                "payloadType": "str",
+                "topic": "#cir"
+            }
+        ],
+        "smilAnimations": [],
+        "bindings": [],
+        "showCoordinates": false,
+        "autoFormatAfterEdit": false,
+        "showBrowserErrors": false,
+        "outputField": "payload",
+        "editorUrl": "//drawsvg.org/drawsvg.html",
+        "directory": "",
+        "panning": "disabled",
+        "zooming": "disabled",
+        "panOnlyWhenZoomed": false,
+        "doubleClickZoomEnabled": false,
+        "mouseWheelZoomEnabled": false,
+        "name": "",
+        "x": 280,
+        "y": 220,
+        "wires": [
+            [
+                "3e814d13.e80872",
+                "37ee986f.f85ce8"
+            ]
+        ]
+    },
+    {
+        "id": "37ee986f.f85ce8",
+        "type": "debug",
+        "z": "c6efbfa4.7d085",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 510,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "3e814d13.e80872",
+        "type": "ui_text",
+        "z": "c6efbfa4.7d085",
+        "group": "16c53fcc.777ba",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Power Status",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "x": 520,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "16c53fcc.777ba",
+        "type": "ui_group",
+        "z": "",
+        "name": "Electricity Board",
+        "tab": "d4af2056.81534",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "d4af2056.81534",
+        "type": "ui_tab",
+        "z": "",
+        "name": "EB",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]

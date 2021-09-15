@@ -1,0 +1,132 @@
+[
+    {
+        "id": "878ab3de.901b5",
+        "type": "tab",
+        "label": "IoT Automation Change Color Lab 6",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "8f85068.d719af8",
+        "type": "inject",
+        "z": "878ab3de.901b5",
+        "name": "inject",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 140,
+        "y": 100,
+        "wires": [
+            [
+                "4d4a7393.11f124"
+            ]
+        ]
+    },
+    {
+        "id": "88a4f730.b2187",
+        "type": "debug",
+        "z": "878ab3de.901b5",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 470,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "4d4a7393.11f124",
+        "type": "function",
+        "z": "878ab3de.901b5",
+        "name": "",
+        "func": "var msg;\nmsg.icon_fill = \"green\";\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 300,
+        "y": 160,
+        "wires": [
+            [
+                "88a4f730.b2187",
+                "170c4d40.1908c3"
+            ]
+        ]
+    },
+    {
+        "id": "170c4d40.1908c3",
+        "type": "ui_svg_graphics",
+        "z": "878ab3de.901b5",
+        "group": "6fe8be1b.6eff4",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "svgString": "<svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0\" y=\"0\" height=\"100\" viewBox=\"0 0 100 100\" width=\"100\"><rect id=\"svgEditorBackground\" x=\"0\" y=\"0\" width=\"100\" height=\"100\" style=\"fill: none; stroke: none;\"/><defs id=\"svgEditorDefs\">\n    <polygon id=\"svgEditorIconDefs\" style=\"fill:rosybrown;\"/><polygon id=\"svgEditorShapeDefs\" style=\"fill:rosybrown;stroke:black;vector-effect:non-scaling-stroke;stroke-width:1px;\"/></defs><path d=\"M13.84615421295166,2.769233465194702v-1.5a2,2,0,0,0,-2,-2h-4a2,2,0,0,0,-2,2v3a2,2,0,0,0,2,2h4a2,2,0,0,0,2,-2Z\" style=\"fill:{{msg.icon_fill}}; stroke:black; vector-effect:non-scaling-stroke;stroke-width:1px;\" id=\"switch\" transform=\"matrix(4.86829 0 0 4.86829 -4.45652 26.2383)\"/>\n</svg>",
+        "clickableShapes": [
+            {
+                "targetId": "#switch",
+                "action": "click",
+                "payload": "Power On",
+                "payloadType": "str",
+                "topic": "#switch"
+            }
+        ],
+        "smilAnimations": [],
+        "bindings": [],
+        "showCoordinates": false,
+        "autoFormatAfterEdit": false,
+        "showBrowserErrors": false,
+        "outputField": "payload",
+        "editorUrl": "//drawsvg.org/drawsvg.html",
+        "directory": "",
+        "panning": "disabled",
+        "zooming": "disabled",
+        "panOnlyWhenZoomed": false,
+        "doubleClickZoomEnabled": false,
+        "mouseWheelZoomEnabled": false,
+        "name": "",
+        "x": 480,
+        "y": 220,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6fe8be1b.6eff4",
+        "type": "ui_group",
+        "z": "",
+        "name": "EB2",
+        "tab": "e4ad83f4.147fc8",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "e4ad83f4.147fc8",
+        "type": "ui_tab",
+        "z": "",
+        "name": "Electricity Board",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
