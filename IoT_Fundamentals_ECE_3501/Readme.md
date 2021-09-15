@@ -53,3 +53,10 @@ Refer to the [contributing.md](./Contributing.md) file for the setup procedure.
 | 1 | [Manipulate Text with SVG](./Support_Vector_Graphics_Extended_Lab_6/electricity_board.json) |
 | 2 | [Manipulate Shapes with SVG](./Support_Vector_Graphics_Extended_Lab_6/change_color.json) |
 | 3 | [Maps with SVG](./Support_Vector_Graphics_Extended_Lab_6/maps.json) |
+
+
+#### 7. [Lab 7](./Simulate_IoT_Protocols_Lab_7)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Simulate IoT Protocols with Contiki](./Simulate_IoT_Protocols_Lab_7) |
