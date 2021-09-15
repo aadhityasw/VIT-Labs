@@ -28,3 +28,11 @@ Refer to the [contributing.md](./Contributing.md) file for the setup procedure.
 | S.no | Name of the Method |
 | ---- | --------------------- |
 | 1 | [Motion Detector with Tinker CAD](./Motion_Detector_Lab_3) |
+
+
+#### 3. [Lab 4](./Speedometer_and_OTP_Generator_Lab_4)
+
+| S.no | Name of the Method |
+| ---- | --------------------- |
+| 1 | [Speedometer with Node Red Dashboard](./Speedometer_and_OTP_Generator_Lab_4/speedommeter.json) |
+| 2 | [OTP Generator with Node Red](./Speedometer_and_OTP_Generator_Lab_4/otp_generator.json) |

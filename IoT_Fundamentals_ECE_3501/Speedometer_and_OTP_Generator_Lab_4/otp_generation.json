@@ -1,0 +1,225 @@
+[
+    {
+        "id": "8b8c5e95.4b069",
+        "type": "tab",
+        "label": "UI based OTP generation Lab 4",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "4c7a850b.d954cc",
+        "type": "inject",
+        "z": "8b8c5e95.4b069",
+        "name": "OTP Generator",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "v": "",
+                "vt": "date"
+            }
+        ],
+        "repeat": "3",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "OTP Generator",
+        "payloadType": "str",
+        "x": 150,
+        "y": 120,
+        "wires": [
+            [
+                "8a3a18ec.897f98"
+            ]
+        ]
+    },
+    {
+        "id": "8a3a18ec.897f98",
+        "type": "function",
+        "z": "8b8c5e95.4b069",
+        "name": "OTP Generator",
+        "func": "msg.payload = Math.round(Math.random()*10000)\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 390,
+        "y": 220,
+        "wires": [
+            [
+                "52bf8116.813d",
+                "1b1a2be.619f7d4",
+                "9fc59c4f.ea7b68",
+                "3e7a7a9d.484176",
+                "a0a281b4.753508"
+            ]
+        ]
+    },
+    {
+        "id": "52bf8116.813d",
+        "type": "debug",
+        "z": "8b8c5e95.4b069",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 650,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "1b1a2be.619f7d4",
+        "type": "ui_chart",
+        "z": "8b8c5e95.4b069",
+        "name": "OTP Generation Chart",
+        "group": "e0d06160.00286",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "label": "OTP Generation Chart",
+        "chartType": "pie",
+        "legend": "true",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "3600",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "useOldStyle": false,
+        "outputs": 1,
+        "x": 680,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9fc59c4f.ea7b68",
+        "type": "ui_slider",
+        "z": "8b8c5e95.4b069",
+        "name": "",
+        "label": "Slider Node",
+        "tooltip": "",
+        "group": "e0d06160.00286",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "outs": "all",
+        "topic": "",
+        "min": 0,
+        "max": 10,
+        "step": 1,
+        "x": 650,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a0a281b4.753508",
+        "type": "ui_artlessgauge",
+        "z": "8b8c5e95.4b069",
+        "group": "e0d06160.00286",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "icon": "",
+        "label": "Artless Gauge Node",
+        "unit": "",
+        "layout": "linear",
+        "decimals": 0,
+        "differential": false,
+        "minmax": false,
+        "colorTrack": "#555555",
+        "colorFromTheme": true,
+        "property": "payload",
+        "sectors": [
+            {
+                "val": 0,
+                "col": "#ff9900",
+                "t": "min",
+                "dot": 0
+            },
+            {
+                "val": 10,
+                "col": "#ff9900",
+                "t": "max",
+                "dot": 0
+            }
+        ],
+        "lineWidth": 3,
+        "bgcolorFromTheme": true,
+        "diffCenter": "",
+        "x": 660,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "3e7a7a9d.484176",
+        "type": "ui_text_input",
+        "z": "8b8c5e95.4b069",
+        "name": "Text Node",
+        "label": "Text Node",
+        "tooltip": "",
+        "group": "e0d06160.00286",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "mode": "text",
+        "delay": 300,
+        "topic": "",
+        "x": 650,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e0d06160.00286",
+        "type": "ui_group",
+        "z": "",
+        "name": "Bank",
+        "tab": "5bd54464.e82afc",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "5bd54464.e82afc",
+        "type": "ui_tab",
+        "z": "",
+        "name": "IoT Banking",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
