@@ -76,3 +76,17 @@ Refer to the [contributing.md](./Contributing.md) file for the setup procedure.
 | 1 | [RFID Scanner](./MQTT_Support_Lab_9/rfid_scanner.json) |
 | 2 | [Speedometer](./MQTT_Support_Lab_9/speedometer.json) |
 | 3 | [Refrigerator sensor](./MQTT_Support_Lab_9/refrigerator.json) |
+
+
+#### 10. [Brightness Detection Simulator with Tinker CAD](./Brightness_Detection_Lab_10)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Brightness detector with Tinker CAD](./Brightness_Detection_Lab_10) |
+
+
+#### 11. [Distance Monitor Simulation with Tinker CAD](./Distance_Monitor_Lab_11)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Distance Monitor with Tinker CAD](./Distance_Monitor_Lab_11) |
