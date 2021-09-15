@@ -1,0 +1,81 @@
+[
+    {
+        "id": "3a2877a0.3a12b8",
+        "type": "tab",
+        "label": "RFID Scanner",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "c6bf52d5.82e86",
+        "type": "mqtt in",
+        "z": "3a2877a0.3a12b8",
+        "name": "RFID Reader",
+        "topic": "RFID Reader",
+        "qos": "2",
+        "datatype": "auto",
+        "broker": "7d9cbc85.412e24",
+        "x": 240,
+        "y": 140,
+        "wires": [
+            [
+                "3e74b8c6.94c8c8"
+            ]
+        ]
+    },
+    {
+        "id": "3e74b8c6.94c8c8",
+        "type": "json",
+        "z": "3a2877a0.3a12b8",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 440,
+        "y": 120,
+        "wires": [
+            [
+                "5ef106ab.7245b8"
+            ]
+        ]
+    },
+    {
+        "id": "5ef106ab.7245b8",
+        "type": "debug",
+        "z": "3a2877a0.3a12b8",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 600,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "7d9cbc85.412e24",
+        "type": "mqtt-broker",
+        "z": "",
+        "name": "",
+        "broker": "broker.mqttdashboard.com",
+        "port": "1883",
+        "clientid": "RFID Reader",
+        "usetls": false,
+        "compatmode": false,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    }
+]

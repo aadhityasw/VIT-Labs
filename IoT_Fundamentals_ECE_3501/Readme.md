@@ -67,3 +67,12 @@ Refer to the [contributing.md](./Contributing.md) file for the setup procedure.
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
 | 1 | [Databases with Node Red](./Database_Support_Lab_8/database.json) |
+
+
+#### 9. [MQTT Protocol with Node Red & HiveMQ](./MQTT_Support_Lab_9)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [RFID Scanner](./MQTT_Support_Lab_9/rfid_scanner.json) |
+| 2 | [Speedometer](./MQTT_Support_Lab_9/speedometer.json) |
+| 3 | [Refrigerator sensor](./MQTT_Support_Lab_9/refrigerator.json) |

@@ -1,0 +1,150 @@
+[
+    {
+        "id": "5bb40bc2.5f7b94",
+        "type": "tab",
+        "label": "Refrigerator ",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "51f9f6c8.c31fb8",
+        "type": "inject",
+        "z": "5bb40bc2.5f7b94",
+        "name": "Vegetable Controller",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "Fridge Sensor",
+        "payload": "Tomatoes not available",
+        "payloadType": "str",
+        "x": 160,
+        "y": 100,
+        "wires": [
+            [
+                "c52fe37.0882b2",
+                "a36731d5.8a1ba"
+            ]
+        ]
+    },
+    {
+        "id": "98d45325.9a81e",
+        "type": "inject",
+        "z": "5bb40bc2.5f7b94",
+        "name": "Milk Controller",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "Fridge Sensor",
+        "payload": "Three Packets of milk available",
+        "payloadType": "str",
+        "x": 160,
+        "y": 160,
+        "wires": [
+            [
+                "c52fe37.0882b2",
+                "a36731d5.8a1ba"
+            ]
+        ]
+    },
+    {
+        "id": "af6fb88.ab7eb48",
+        "type": "inject",
+        "z": "5bb40bc2.5f7b94",
+        "name": "Egg Controller",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.2",
+        "topic": "Fridge Sensor",
+        "payload": "12",
+        "payloadType": "num",
+        "x": 180,
+        "y": 220,
+        "wires": [
+            [
+                "c52fe37.0882b2",
+                "a36731d5.8a1ba"
+            ]
+        ]
+    },
+    {
+        "id": "a36731d5.8a1ba",
+        "type": "debug",
+        "z": "5bb40bc2.5f7b94",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 490,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "c52fe37.0882b2",
+        "type": "mqtt out",
+        "z": "5bb40bc2.5f7b94",
+        "name": "",
+        "topic": "Fridge Sensor",
+        "qos": "",
+        "retain": "",
+        "broker": "7d9cbc85.412e24",
+        "x": 500,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "7d9cbc85.412e24",
+        "type": "mqtt-broker",
+        "z": "",
+        "name": "Refrigerator",
+        "broker": "broker.mqttdashboard.com",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": false,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    }
+]

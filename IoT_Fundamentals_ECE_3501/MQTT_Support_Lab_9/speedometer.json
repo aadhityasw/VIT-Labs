@@ -1,0 +1,173 @@
+[
+    {
+        "id": "34557bbc.d95494",
+        "type": "tab",
+        "label": "Speed Sensor",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "865124dc.fa4818",
+        "type": "mqtt in",
+        "z": "34557bbc.d95494",
+        "name": "Speed Sensor",
+        "topic": "Speed Sensor",
+        "qos": "2",
+        "datatype": "auto",
+        "broker": "7c19841a.1ec52c",
+        "x": 210,
+        "y": 180,
+        "wires": [
+            [
+                "1644041c.69b39c"
+            ]
+        ]
+    },
+    {
+        "id": "1644041c.69b39c",
+        "type": "json",
+        "z": "34557bbc.d95494",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 390,
+        "y": 100,
+        "wires": [
+            [
+                "7a011c5f.3874d4",
+                "d1ec4bd2.1099e8",
+                "765821bb.f3efc",
+                "431c0808.65b448"
+            ]
+        ]
+    },
+    {
+        "id": "431c0808.65b448",
+        "type": "debug",
+        "z": "34557bbc.d95494",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 390,
+        "y": 280,
+        "wires": []
+    },
+    {
+        "id": "7a011c5f.3874d4",
+        "type": "ui_gauge",
+        "z": "34557bbc.d95494",
+        "name": "Speedometer",
+        "group": "16c53fcc.777ba",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "Speedometer",
+        "label": "units",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 610,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "d1ec4bd2.1099e8",
+        "type": "ui_text_input",
+        "z": "34557bbc.d95494",
+        "name": "Speed Slider",
+        "label": "Speed Slider",
+        "tooltip": "",
+        "group": "16c53fcc.777ba",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "mode": "text",
+        "delay": 300,
+        "topic": "",
+        "x": 600,
+        "y": 200,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "765821bb.f3efc",
+        "type": "ui_slider",
+        "z": "34557bbc.d95494",
+        "name": "Speed Indicator",
+        "label": "Speed Indicator",
+        "tooltip": "",
+        "group": "16c53fcc.777ba",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "outs": "all",
+        "topic": "",
+        "min": 0,
+        "max": "100",
+        "step": 1,
+        "x": 610,
+        "y": 280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "7c19841a.1ec52c",
+        "type": "mqtt-broker",
+        "z": "",
+        "name": "Speed Sensor",
+        "broker": "broker.mqttdashboard.com",
+        "port": "1883",
+        "clientid": "Speed Sensor",
+        "usetls": false,
+        "compatmode": false,
+        "keepalive": "60",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "closeTopic": "",
+        "closeQos": "0",
+        "closePayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "16c53fcc.777ba",
+        "type": "ui_group",
+        "z": "",
+        "name": "Bike",
+        "tab": "d4af2056.81534",
+        "order": 2,
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "d4af2056.81534",
+        "type": "ui_tab",
+        "z": "",
+        "name": "Bike UI",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
