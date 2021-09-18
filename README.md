@@ -18,3 +18,6 @@ A bunch of codes done in the labs of various courses during Undergrad.
 
 
 5. [IoT Fundamentals - ECE3501](./IoT_Fundamentals_ECE_3501)
+
+
+6. [Parallel and Distributed Computing - CSE4001](./Parallel_Distributed_Computing_CSE_4001)
