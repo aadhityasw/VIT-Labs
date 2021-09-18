@@ -56,3 +56,9 @@ mpirun -np <number_of_processors> <output_file_name>
 
 ## List of Programs
 
+#### 1. [Open MP - Introduction](./OpenMP_Introduction_Lab_1)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Hello World Parallelization](./OpenMP_Introduction_Lab_1/hello_world.cpp) |
+| 2 | [Array Sum](./OpenMP_Introduction_Lab_1/array_sum.cpp) |
