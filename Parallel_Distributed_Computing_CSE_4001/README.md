@@ -91,3 +91,12 @@ mpirun -np <number_of_processors> <output_file_name>
 | ---- | --------------------- |
 | 1 | [Word Tokenizer -- Producer & Consumer](./OpenMP_Practical_Puzzles_Lab_4/word_tokenizer.c) |
 | 2 | [Search Engine -- Master & Slave](./OpenMP_Practical_Puzzles_Lab_4/search_engine.c) |
+
+
+#### 5. [MPI - Introduction](./MPI_Introduction_Lab_5)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Hello World with MPI](./MPI_Introduction_Lab_5/hello_world.c) |
+| 2 | [Message Passing with MPI](./MPI_Introduction_Lab_5/message_passing.c) |
+| 3 | [Observe MPI Connection Details](./MPI_Introduction_Lab_5/mpi_info.c) |
