@@ -73,3 +73,13 @@ mpirun -np <number_of_processors> <output_file_name>
 | 3 | [Array Sum](./OpenMP_Constructs_Lab_2/array_sum.c) |
 | 4 | [Matrix Multiplication](./OpenMP_Constructs_Lab_2/matrix_multiply.c) |
 | 5 | [Exploring Sections Construct](./OpenMP_Constructs_Lab_2/sections_construct.c) |
+
+
+#### 3. [Open MP - Barriers & Reductions](./OpenMP_Barriers_Reductions_Lab_3)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Swap two Arrays](./OpenMP_Barriers_Reductions_Lab_3/array_swap.c) |
+| 2 | [Array Sum](./OpenMP_Barriers_Reductions_Lab_3/array_sum.c) |
+| 3 | [OpenMP Barriers](./OpenMP_Barriers_Reductions_Lab_3/omp_barrier.c) |
+| 4 | [Matrix Multiplication](./OpenMP_Barriers_Reductions_Lab_3/matrix_multiply.c) |
