@@ -83,3 +83,11 @@ mpirun -np <number_of_processors> <output_file_name>
 | 2 | [Array Sum](./OpenMP_Barriers_Reductions_Lab_3/array_sum.c) |
 | 3 | [OpenMP Barriers](./OpenMP_Barriers_Reductions_Lab_3/omp_barrier.c) |
 | 4 | [Matrix Multiplication](./OpenMP_Barriers_Reductions_Lab_3/matrix_multiply.c) |
+
+
+#### 4. [Open MP Producer-Consumer & Master-Slave Construct](./OpenMP_Practical_Puzzles_Lab_4)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Word Tokenizer -- Producer & Consumer](./OpenMP_Practical_Puzzles_Lab_4/word_tokenizer.c) |
+| 2 | [Search Engine -- Master & Slave](./OpenMP_Practical_Puzzles_Lab_4/search_engine.c) |
