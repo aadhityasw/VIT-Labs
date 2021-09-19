@@ -100,3 +100,10 @@ mpirun -np <number_of_processors> <output_file_name>
 | 1 | [Hello World with MPI](./MPI_Introduction_Lab_5/hello_world.c) |
 | 2 | [Message Passing with MPI](./MPI_Introduction_Lab_5/message_passing.c) |
 | 3 | [Observe MPI Connection Details](./MPI_Introduction_Lab_5/mpi_info.c) |
+
+
+#### 6. [MPI - Ping Pong](./MPI_Ping_Pong_Lab_6)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Ping Pong Message Transfer with MPI](./MPI_Ping_Pong_Lab_6/ping_pong.c) |
