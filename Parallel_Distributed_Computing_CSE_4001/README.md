@@ -114,3 +114,11 @@ mpirun -np <number_of_processors> <output_file_name>
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
 | 1 | [Broadcasting array sum with MPI](./MPI_Broadcast_Lab_7/array_sum.c) |
+
+
+#### 8. [MPI - Deep Dive](./MPI_Deep_Dive_Lab_8)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Barriers in MPI](./MPI_Deep_Dive_Lab_8/barriers.c) |
+| 2 | [Token Ring Formation with MPI](./MPI_Deep_Dive_Lab_8/token_ring.c) |
