@@ -107,3 +107,10 @@ mpirun -np <number_of_processors> <output_file_name>
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
 | 1 | [Ping Pong Message Transfer with MPI](./MPI_Ping_Pong_Lab_6/ping_pong.c) |
+
+
+#### 7. [MPI - Broadcast](./MPI_Broadcast_Lab_7)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Broadcasting array sum with MPI](./MPI_Broadcast_Lab_7/array_sum.c) |
