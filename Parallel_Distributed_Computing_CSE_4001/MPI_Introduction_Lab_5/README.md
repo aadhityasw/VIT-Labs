@@ -8,4 +8,4 @@ In the second program, we begin the core function of MPI, message passing. We pa
 
 <br>
 
-In the final program of this lab, we use various constructs of MPI, to understand the connection data of the various nodes involved in the communication channel.
+In the final program of this lab, we use various constructs of MPI, to understand the connection data of the various processors involved in the communication channel.

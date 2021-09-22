@@ -143,3 +143,9 @@ mpirun -np <number_of_processors> <output_file_name>
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
 | 1 | [Virtual Chess Fest with MPI](./MPI_Applications_Chess_Fest_Lab_Final/chess.c) |
+
+#### 12. [MPI Communication](./MPI_Communication)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Passing messages between MPI Processors](./MPI_Communication/message_passing.c) |
