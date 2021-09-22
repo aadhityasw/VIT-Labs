@@ -136,3 +136,10 @@ mpirun -np <number_of_processors> <output_file_name>
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
 | 1 | [Elevator Trips with MPI](./MPI_Applications_Elevator_Trips_Lab_10/elevator.c) |
+
+
+#### 11. [MPI Applications - Chess Fest](./MPI_Applications_Chess_Fest_Lab_Final)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Virtual Chess Fest with MPI](./MPI_Applications_Chess_Fest_Lab_Final/chess.c) |
