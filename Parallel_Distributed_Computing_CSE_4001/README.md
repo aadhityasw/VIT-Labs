@@ -122,3 +122,10 @@ mpirun -np <number_of_processors> <output_file_name>
 | ---- | --------------------- |
 | 1 | [Barriers in MPI](./MPI_Deep_Dive_Lab_8/barriers.c) |
 | 2 | [Token Ring Formation with MPI](./MPI_Deep_Dive_Lab_8/token_ring.c) |
+
+
+#### 9. [MPI Applications - Airplane Seating Arrangement](./MPI_Applications_Seat_Arrangemnet_Lab_9)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Airplane Seating Arrangement with MPI](./MPI_Applications_Seat_Arrangemnet_Lab_9/airplane.c) |
