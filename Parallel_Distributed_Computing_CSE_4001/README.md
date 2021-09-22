@@ -129,3 +129,10 @@ mpirun -np <number_of_processors> <output_file_name>
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
 | 1 | [Airplane Seating Arrangement with MPI](./MPI_Applications_Seat_Arrangemnet_Lab_9/airplane.c) |
+
+
+#### 10. [MPI Applications - Elevator Trips](./MPI_Applications_Elevator_Trips_Lab_10)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Elevator Trips with MPI](./MPI_Applications_Elevator_Trips_Lab_10/elevator.c) |
