@@ -1,0 +1,88 @@
+<html>
+    <head>
+        <link type="text/css" rel="stylesheet" href="Home.css" />
+    </head>
+    <body>
+        <style>
+            table, td, tr{
+                border: 2px solid blueviolet;
+            }
+            table{
+                margin-left:auto; 
+                margin-right:auto;
+            }
+            td, tr{
+                padding: 15px;
+                font-family: Arial;
+            }
+            tr{
+                font-size: 12px;
+            }
+            td{
+                font-size: 0.9rem;
+            }
+            h1{
+                text-align: center;
+            }
+            .r1{
+                background-color: cadetblue;
+            }
+            .r2{
+                background-color :chocolate;
+            }
+            .r3{
+                background-color :blueviolet;
+            }
+            .schedule tr:first-child:hover{
+                font-weight:bold;
+                cursor:default;
+                background-color:#B80D9F;
+                color:white;
+            }
+            .byelink:visited{
+                color: green;
+            }
+            .byelink:link{
+                color: yellow;
+            }
+            .byelink:hover{
+                color: red;
+            }
+                        
+        </style>
+        <h1>Table</h1>
+        <table class="schedule">
+            <caption>Html Table</caption>
+            <tr class="r1 hov">
+                <td colspan="3">Html page with 3 columns</td>
+            </tr>
+            <tr class="r2">
+                <td style="font-style: italic; width: 20px;">lorem</td>
+                <td>ipsum</td>
+                <td style="font-weight: bolder">dolor</td>
+            </tr>
+            <tr class="r3">
+                <td style="vertical-align: bottom;">hello</td>
+                <td>good</td>
+                <td><a href="bye.html" class="byelink">bye</a></td>
+            </tr>
+            <tr class="r1">
+                <td colspan="2" style="text-transform: capitalize;">Spans across two columns</td>
+                <td style="text-decoration: line-through">!!!</td>
+            </tr>
+        </table>
+
+        <img src="profile.png" />
+        <br />
+        <ol>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+        </ol>
+        <ul>
+            <li>Web Designer</li>
+            <li>Full Stack Developer</li>
+            <li>Competitive Programmer</li>
+        </ul>
+    </body>
+</html>

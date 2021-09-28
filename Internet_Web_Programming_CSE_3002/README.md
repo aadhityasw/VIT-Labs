@@ -30,3 +30,10 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 | ---- | --------------------- |
 | 1 | [Mapping the map of India](./Image_Mapping_Lab_3/Home.html) |
 | 2 | [Individual States Information](./Image_Mapping_Lab_3/States/) |
+
+
+#### 4. [CSS Introduction - Personal Profile](./Personal_Profile_Lab_4)
+
+| S.no | Title |
+| ---- | --------------------- |
+| 1 | [Personal Profile with CSS](./Personal_Profile_Lab_4/Home.html) |
