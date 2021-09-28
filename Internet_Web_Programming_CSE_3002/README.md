@@ -15,3 +15,10 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 | ---- | --------------------- |
 | 1 | [Personal Website](./Personal_Website_Lab_1/Home.html) |
 | 2 | [Blogging Website](./Personal_Website_Lab_1/Blog.html) |
+
+
+#### 2. [HTML Forms - Event Registration](./Event_Registration_Lab_2)
+
+| S.no | Title |
+| ---- | --------------------- |
+| 1 | [Event Registration Portal](./Event_Registration_Lab_2/Home.html) |

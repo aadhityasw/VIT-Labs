@@ -1,0 +1,105 @@
+<html>
+    <head>
+        <title>Register</title>
+    </head>
+    <body bgcolor="skyblue">
+        <center>
+            <h1>Registration</h1>
+            <form action="Results.html" method="POST">
+                <table cellspacing='10'>
+                    <tr>
+                        <td><b>First Name</b></td>
+                        <td><input type="text" name="fname"></td>
+                    </tr>
+
+                    <tr>
+                        <td><b>Last Name</b></td>
+                        <td><input type="text" name="lname"></td>
+                    </tr>
+                    <tr>
+                        <td><b>Username</b></td>
+                        <td><input type="text" name="uname"></td>
+                    </tr>
+                    <tr>
+                        <td><b>Email Address</b></td>
+                        <td><input type="email" name="emailaddr"></td>
+                    </tr>
+                    <tr>
+                        <td><b>Phone</b></td>
+                        <td><input type="text" name="phone"></td>
+                    </tr>
+                    <tr>
+                        <td><b>Gender</b></td>
+                        <td>
+                            Male <input type="radio" name="Gender" value="Male"><br>
+                            Female <input type="radio" name="Gender" value="Female"><br>
+                            Prefer not to say<input type="radio" name="Gender" value="Prefer not to say" checked>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Organization</b></td>
+                        <td>
+                            <select name="organization">
+                                <option value="VIT">VIT</option>
+                                <option value="IIT">IIT</option>
+                                <option value="NIT">NIT</option>
+                                <option value="IISC">IISC</option>
+                                <option value="IISER">IISER</option>
+                                <option value="microsoft">Microsoft</option>
+                                <option value="google">Google</option>
+                                <option value="facebook">Facebook</option>
+                                <option value="other">Other</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Educational Qualification</b></td>
+                        <td>
+                            <select name="edu-qual">
+                                <option value="kinder">Kindergarten</option>
+                                <option value="mid-sch">Middle School</option>
+                                <option value="high-sch">High School</option>
+                                <option value="ugrad">Undergraduation</option>
+                                <option value="pgrad">Postgraduation</option>
+                                <option value="doc">Doctorate</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><b>Your Website</b></td>
+                        <td><input type="text" name="website"></td>
+                    </tr>
+                    <tr>
+                        <td><b>Languages known</b></td>
+                        <td>
+                            <input type="checkbox" name="language" value="python"> Python
+                            <br>
+                            <input type="checkbox" name="language" value="java"> Java
+                            <br>
+                            <input type="checkbox" name="language" value="c"> C
+                            <br>
+                            <input type="checkbox" name="language" value="cpp"> C++
+                            <br>
+                            <input type="checkbox" name="language" value="csharp"> C#
+                            <br>
+                            <input type="checkbox" name="language" value="swift"> Swift
+                            <br>
+                            <input type="checkbox" name="language" value="kotlin"> Kotlin
+                            <br>
+                        </td>
+                    </tr>
+                </table>
+                <b>List a few of your achievements :</b>
+                <br>
+                <br>
+                <textarea name="Text1" cols="40" rows="5" name="achievements"></textarea>
+                <br>
+                <br>
+                <input type="submit" name="submitform">
+                <br>
+                <br>
+                <input type="reset" name="resetform">
+            </form>
+        </center>
+    </body>
+</html>
