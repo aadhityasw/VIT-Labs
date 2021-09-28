@@ -1,0 +1,97 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="home.css" type="text/css">
+    </head>
+    <body>
+        
+        <div class="verticalspace" />
+        <div >
+            <form method="POST">
+                <div class="dividedbox">
+                    <div class="boxtitle fieldname noinline"> Personal </div>
+                    <table>
+                        <tr>
+                            <td><p class="fieldname">Name</p><p class="star">*</p></td>
+                            <td><input type="text" name="name" class="fieldinput"></td>
+                        </tr>
+                        <tr>
+                            <td><p class="fieldname">Email</p><p class="star">*</p></td>
+                            <td><input type="text" name="email" class="fieldinput"></td>
+                        </tr>
+                        <tr>
+                            <td><p class="fieldname">Phone</p><p class="star">*</p></td>
+                            <td><input type="text" name="phone" class="fieldinput"></td>
+                        </tr>
+                        <tr>
+                            <td><p class="fieldname noinline">Subject</p></td>
+                            <td>
+                                <select class="fieldinput">
+                                    <option value="appointment" selected>Appointment</option>
+                                    <option value="personal">Personal</option>
+                                    <option value="official">Official</option>
+                                </select>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="verticalspace" />
+                <div class="dividedbox">
+                    <div class="boxtitle fieldname noinline"> Message </div>
+                    <table>
+                        <tr>
+                            <td><p class="fieldname">Message</p><p class="star">*</p></td>
+                            <td><textarea name="message" id="message" cols="20" rows="4" style="background-color: rgb(255, 244, 244);"></textarea></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td><input type="submit" class="submit"></td>
+                        </tr>
+                    </table>
+                </div>
+            </form>
+        </div>
+        <div style="margin: auto; width: fit-content; padding: 20px;">
+            <h3>Provide your information</h3>
+            <hr>
+
+            <table>
+                <tr>
+                    <td><p style="display: inline;">Name</p><p class="star">*</p></td>
+                    <td><input type="text" name="name" class="inputtypes" autofocus></td>
+                </tr>
+                <tr>
+                    <td><p style="display: inline;">Email</p><p class="star">*</p></td>
+                    <td><input type="text" name="email" class="inputtypes"></td>
+                </tr>
+                <tr>
+                    <td><p style="display: inline;">Telephone</p><p class="star">*</p></td>
+                    <td>
+                        <input id="1" type="text" name="phone1" class="inputtypes tel" maxlength="3">
+                        <p class="withinline">-</p>
+                        <input id="2" type="text" name="phone2" class="inputtypes tel" maxlength="3">
+                        <p class="withinline">-</p>
+                        <input id="3" type="text" name="phone3" class="inputtypes tel" maxlength="3">
+                    </td>
+                </tr>
+                <tr>
+                    <td><p style="display: inline;">Regarding</p></td>
+                    <td>
+                        <select class="inputtypes">
+                            <option value="general" selected>General</option>
+                            <option value="personal">Personal</option>
+                            <option value="official">Official</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td><p style="display: inline;">Message</p><p class="star">*</p></td>
+                    <td><textarea class="inputtypes" name="message" id="message" cols="20" rows="4" style="display: inline;"></textarea></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><input type="submit" class="submit2"></td>
+                </tr>
+            </table>
+        </div>
+    </body>
+</html>

@@ -37,3 +37,10 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 | S.no | Title |
 | ---- | --------------------- |
 | 1 | [Personal Profile with CSS](./Personal_Profile_Lab_4/Home.html) |
+
+
+#### 5. [CSS Forms - Interactive Registration Portal](./Registration_Portal_Lab_5)
+
+| S.no | Title |
+| ---- | --------------------- |
+| 1 | [Interactive Registration Portal](./Registration_Portal_Lab_5/Home.html) |
