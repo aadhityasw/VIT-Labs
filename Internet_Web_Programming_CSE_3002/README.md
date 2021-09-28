@@ -22,3 +22,11 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 | S.no | Title |
 | ---- | --------------------- |
 | 1 | [Event Registration Portal](./Event_Registration_Lab_2/Home.html) |
+
+
+#### 3. [HTML - Image Mapping](./Image_Mapping_Lab_3)
+
+| S.no | Title |
+| ---- | --------------------- |
+| 1 | [Mapping the map of India](./Image_Mapping_Lab_3/Home.html) |
+| 2 | [Individual States Information](./Image_Mapping_Lab_3/States/) |
