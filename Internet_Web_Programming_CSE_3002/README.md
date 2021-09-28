@@ -9,3 +9,9 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 
 ## List of Programs
 
+#### 1. [HTML Introduction - Personal Website](./Personal_Website_Lab_1)
+
+| S.no | Title |
+| ---- | --------------------- |
+| 1 | [Personal Website](./Personal_Website_Lab_1/Home.html) |
+| 2 | [Blogging Website](./Personal_Website_Lab_1/Blog.html) |
