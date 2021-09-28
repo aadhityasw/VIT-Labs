@@ -43,4 +43,4 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 
 | S.no | Title |
 | ---- | --------------------- |
-| 1 | [Interactive Registration Portal](./Registration_Portal_Lab_5/Home.html) |
+| 1 | [Interactive Registration Portal](./Registration_Portal_Lab_5/home.html) |
