@@ -1,0 +1,14 @@
+.top-container {
+    font-family:'Sacramento', cursive;
+    text-align:center;
+    display:inline-block;
+    width:100%;
+    padding-top:10px; 
+}
+.purch{
+    width:100%;
+    font-size:20px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    border:none; 
+    border-radius:5px; 
+}

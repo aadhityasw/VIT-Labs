@@ -1,0 +1,41 @@
+<html> 
+    <head>
+        <title>Shopping website using PHP</title>
+        <link rel="stylesheet" href="home.css">
+    </head>
+    <body>
+        <h1>Shopping</h1>
+
+        <table>
+            <tr>
+                <td>
+                    <form action="table.php" method="GET">
+                        <input type="text" value="SHOE12A" name="itemcode" readonly> $<input type="text" value="1770" name="price" readonly>
+                        <input type="number" value="0" name="amt">
+                        <input type="submit" class="purch" value="Purchase">
+                    </form>
+                        <br>
+                    <form action="del.php" method="GET">
+                        <input type="hidden" value="SHOE12A" name="delcode">
+                        <input type="submit" class="purch" value="Delete">
+                    </form>
+                </td>
+                <td>
+                    <br>
+                    <form action="table.php" method="GET">
+                        <input type="text" value="WATCH14B" name="itemcode" readonly> $<input type="text" value="5000" name="price" readonly size=10> <input type="number" value="0" name="amt">
+                        <input type="submit" class="purch" value="Purchase">
+                    </form>
+                    <br>
+                    <form action="del.php" method="GET">
+                        <input type="hidden" value="WATCH14B" name="delcode">
+                        <input type="submit" class="purch" value="Delete">
+                    </form>
+                </td>
+            </tr>
+        </table>
+        <form action="calc.php" method="GET">
+            <input type="submit" class="purch" value="Show Total Cost" style="width:50%;"> 
+        </form>
+    </body>
+</html>

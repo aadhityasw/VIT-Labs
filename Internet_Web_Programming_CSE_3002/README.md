@@ -88,3 +88,10 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 | S.no | Title |
 | ---- | --------------------- |
 | 1 | [IRCTC Clone](./Train_Ticket_Booking_Lab_11/home.html) |
+
+
+#### 12. [PHP - Sessions and Cookies](./Shooping_Cart_Lab_12)
+
+| S.no | Title |
+| ---- | --------------------- |
+| 1 | [VMart Shopping Store](./Shooping_Cart_Lab_12/home.html) |
