@@ -72,3 +72,12 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 | S.no | Title |
 | ---- | --------------------- |
 | 1 | [Search Engine](./Search_Engine_Lab_9/home.html) |
+
+
+#### 10. [PHP – Basics and Arrays](./PHP_Basics_Lab_10)
+
+| S.no | Title |
+| ---- | --------------------- |
+| 1 | [LuLu Supermarket](./PHP_Basics_Lab_10/Supermarket.php) |
+| 2 | [BSNL Tarrif Calculator](./PHP_Basics_Lab_10/tarrif_calculator.php) |
+| 3 | [Elections](./PHP_Basics_Lab_10/elections.php) |
