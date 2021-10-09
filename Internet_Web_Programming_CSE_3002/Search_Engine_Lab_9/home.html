@@ -1,0 +1,65 @@
+<html>
+    <head>
+        <title>J Query</title>
+        <script src="jquery-3.4.1.min.js"></script>
+        <script>
+            $(document).ready(function() {
+                $('#redbtn').mouseover(function() {
+                    $('body').css('background-color','red');
+                });
+                $('#greenbtn').mouseover(function() {
+                    $('body').css('background-color','green');
+                });
+                $('#bluebtn').mouseover(function() {
+                    $('body').css('background-color','blue');
+                });
+                $('#extract-text').click(function() {
+                    var text = "";
+                    for (const iterator of $('#itemlist')) {
+                        text += iterator.innerText;
+                    }
+                    console.log("The extracted text from the list is : " + text);
+                });
+                $('#search').keyup(function() {
+                    var text = $('#search').val();
+                    $('#towns').find('li').each(function() {
+                        var n = $(this)[0].innerText.search(text);
+                        //console.log($(this)[0].innerText + n);
+                        if(n>=0 && text.length>0)
+                        {
+                            $(this).css('font-weight', 'bolder');
+                        }
+                        else
+                        {
+                            $(this).css('font-weight', 'normal');
+                        }
+                    })
+                })
+            });
+        </script>
+    </head>
+    <body>
+        <button id="redbtn">Red</button>
+        <button id="greenbtn">Green</button>
+        <button id="bluebtn">Blue</button>
+        <br>
+        <ul id="itemlist">
+            <li>Computer</li>
+            <li>Books</li>
+            <li>Telephones</li>
+            <li>Mobiles</li>
+            <li>Laptops</li>
+        </ul>
+        <button id="extract-text">Extract Text</button>
+        <br>
+        <br>
+        <ul id="towns">
+            <li>Chennai</li>
+            <li>Mumbai</li>
+            <li>Bangalore</li>
+            <li>Mangalore</li>
+            <li>Calicut</li>
+        </ul>
+        <input type="text" name="search" id="search">
+    </body>
+</html>

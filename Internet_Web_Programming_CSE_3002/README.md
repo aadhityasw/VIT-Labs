@@ -65,3 +65,10 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 | S.no | Title |
 | ---- | --------------------- |
 | 1 | [Dynamic E-Commerce Platform](./Dynamic_Ecommerce_Lab_8/home.html) |
+
+
+#### 9. [JQuery - Search Engine](./Search_Engine_Lab_9)
+
+| S.no | Title |
+| ---- | --------------------- |
+| 1 | [Search Engine](./Search_Engine_Lab_9/home.html) |
