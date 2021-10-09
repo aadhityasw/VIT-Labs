@@ -58,3 +58,10 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 | S.no | Title |
 | ---- | --------------------- |
 | 1 | [Newsroom](./News_Post_Lab_7/home.html) |
+
+
+#### 8. [Ajax - E-Commerce Application](./Dynamic_Ecommerce_Lab_8)
+
+| S.no | Title |
+| ---- | --------------------- |
+| 1 | [Dynamic E-Commerce Platform](./Dynamic_Ecommerce_Lab_8/home.html) |

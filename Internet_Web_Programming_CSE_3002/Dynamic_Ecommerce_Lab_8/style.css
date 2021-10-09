@@ -1,0 +1,25 @@
+html {
+    margin: 0;
+    width: 100%;
+}
+body {
+    margin: auto;
+    width: fit-content;
+    padding: 0;
+}
+
+.website-title {
+    color: brown;
+    margin: auto;
+    padding: auto;
+    width: fit-content;
+}
+
+button, a {
+    padding: 10px;
+}
+
+div {
+    margin : 10px;
+}
+
