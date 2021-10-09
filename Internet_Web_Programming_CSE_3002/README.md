@@ -81,3 +81,10 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 | 1 | [LuLu Supermarket](./PHP_Basics_Lab_10/Supermarket.php) |
 | 2 | [BSNL Tarrif Calculator](./PHP_Basics_Lab_10/tarrif_calculator.php) |
 | 3 | [Elections](./PHP_Basics_Lab_10/elections.php) |
+
+
+#### 11. [PHP Applications – Train Ticket Booking System](./Train_Ticket_Booking_Lab_11)
+
+| S.no | Title |
+| ---- | --------------------- |
+| 1 | [IRCTC Clone](./Train_Ticket_Booking_Lab_11/home.html) |
