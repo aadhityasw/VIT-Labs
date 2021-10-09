@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="Home.css">
+        <script src="Home.js"> </script>
+    </head>
+    <body>
+        <div>
+            <h1>JotForm Products</h1>
+            <hr>
+            <h4>My Products</h4>
+            <form action="" name="productForm" onsubmit="return onSubmit()" method="POST">
+                User Name : <input type="text" name="uname" id="uname" >
+                <br>
+                <br>
+                <input type="checkbox" name="tshirt" id="tshirt" value="tshirt">Jotform T-Shirt <b>$9.99</b>
+                <br>
+                <br>
+                <select name="quantity" id="quantity">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+                Quantity
+                <select name="color" id="color">
+                    <option value="red">Red</option>
+                    <option value="green">Green</option>
+                    <option value="blue">Blue</option>
+                </select>
+                Color
+                <select name="size" id="size">
+                    <option value="xs">XS</option>
+                    <option value="s">S</option>
+                    <option value="m">M</option>
+                    <option value="l">L</option>
+                    <option value="xl">XL</option>
+                    <option value="xxl">XXL</option>
+                </select>
+                Size
+                <br>
+                <br>
+                <input type="checkbox" name="mug" id="mug" value="mug">Jotform Mug <b>$4.99</b>
+                <br><br>
+                <input type="checkbox" name="pencil" id="pencil" value="pencil">Jotform Pencil <b>$2.99</b>
+                <br><br>
+                <input type="checkbox" name="sticker" id="sticker" value="sticker">Jotform Sticker <b>$1.99</b>
+                <br><br>
+                Coupon Code : <input type="text" name="coupon" id="coupon" maxlength="8">
+                <br><br>
+                <br>
+                Total : <p class="totcost" id="totcost">$ 0.00</p>
+                <br><br>
+                <button type="button" class="submitbtn" onclick="onSubmit()">Submit</button>
+            </form>
+            <p id="bill"></p>
+        </div>
+        
+    </body>
+</html>

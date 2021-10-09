@@ -1,0 +1,32 @@
+hr{
+    width : 500px;
+}
+body{
+    margin: auto;
+    padding: auto;
+}
+form{
+    margin: auto;
+}
+.sameline{
+    display: inline;
+}
+.submitbtn{
+    background-color: orange;
+    border-radius: 10px;
+    border-style: ridge;
+    padding : 10px 50px;
+    color: white;
+    margin-left: 150px;
+    font-size:large;
+}
+.totcost{
+    font-style: bold;
+    display: inline;
+}
+div{
+    margin: auto;
+    padding: auto;
+    width: fit-content;
+    margin-top: 50px;
+}

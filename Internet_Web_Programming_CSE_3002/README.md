@@ -44,3 +44,10 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 | S.no | Title |
 | ---- | --------------------- |
 | 1 | [Interactive Registration Portal](./Registration_Portal_Lab_5/home.html) |
+
+
+#### 6. [Javascript - Forms and Validation](./Form_Validation_Lab_6)
+
+| S.no | Title |
+| ---- | --------------------- |
+| 1 | [Miniature E-Commerce Platform](./Form_Validation_Lab_6/home.html) |
