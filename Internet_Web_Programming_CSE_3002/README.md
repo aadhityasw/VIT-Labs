@@ -51,3 +51,10 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 | S.no | Title |
 | ---- | --------------------- |
 | 1 | [Miniature E-Commerce Platform](./Form_Validation_Lab_6/home.html) |
+
+
+#### 7. [Applications - Newsroom](./News_Post_Lab_7)
+
+| S.no | Title |
+| ---- | --------------------- |
+| 1 | [Newsroom](./News_Post_Lab_7/home.html) |

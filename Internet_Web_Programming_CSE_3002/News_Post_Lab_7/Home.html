@@ -1,0 +1,62 @@
+<html>
+    <head>
+        <title>Newsroom</title>
+        <link rel="stylesheet" href="Home.css">
+        <script src="Home.js"></script>
+    </head>
+    <body>
+        <div class="newsroomtitle">
+            <h1>Newsroom</h1>
+        </div>
+        <div class="newsroom">
+            <div class="local" id="local">
+                <h2>Local</h2>
+                <div class="news_content" id="local_in">
+                </div>
+            </div>
+            <div class="world" id="world">
+                <h2>World</h2>
+                <div class="news_content" id="world_in">
+                </div>
+            </div>
+            <div class="sports" id="sports">
+                <h2>Sports</h2>
+                <div class="news_content" id="sports_in">
+                </div>
+            </div>
+        </div>
+        <div class="post">
+            <h1 style="margin-left: 1%;">Post a new News</h1>
+            <form method="POST" name="newNewsForm" onsubmit="formSubmitted()">
+                <table>
+                    <tr>
+                        <td><h3>Title :</h3></td>
+                        <td><input type="text" id="newtitle" name="newtitle"></td>
+                    </tr>
+                    <tr>
+                        <td><h3>Content :</h3></td>
+                        <td><textarea name="newcontent" id="newcontent" cols="60" rows="10"></textarea></td>
+                    </tr>
+                    <tr>
+                        <td><h3>Date :</h3></td>
+                        <td><input type="date" id="newdate"></td>
+                    </tr>
+                    <tr>
+                        <td><h3>Type : </h3></td>
+                        <td>
+                            <select name="newtype" id="newtype">
+                                <option value="local">Local</option>
+                                <option value="world">World</option>
+                                <option value="sports">Sports</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td><button type="submit"  id="submitbtn">Submit</button></td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </body>
+</html>

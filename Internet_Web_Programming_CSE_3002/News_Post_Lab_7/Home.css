@@ -1,0 +1,117 @@
+html {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: auto;
+    width: 100%;
+    background-image: url("bg.png");
+}
+
+.newsroomtitle {
+    width: 100%;
+    padding: 20px;
+    margin: 0px;
+}
+
+.newsroomtitle h1{
+    margin: auto;
+    text-align:center;
+}
+
+.newsroom {
+    height: 1000px;
+    width: 100%;
+}
+
+.newsroom h2{
+    text-align: center;
+}
+
+.local{
+    height: 1000px;
+    width: 33%;
+    float: left;
+    border: solid black;
+    border-width: 1px;
+    margin-left: 0.25%;
+    overflow: scroll;
+}
+
+.news_content{
+    height: fit-content;
+    width: 100%;
+}
+
+.world {
+    height: 1000px;
+    width: 33%;
+    float: left;
+    border: solid black;
+    border-width: 1px;
+    overflow: scroll;
+}
+
+.sports {
+    height: 1000px;
+    width: 33%;
+    float: left;
+    border: solid black;
+    border-width: 1px;
+    overflow: scroll;
+}
+
+.post input,select {
+    width: 250px;
+    height: 40px;
+    font-size: large;
+}
+
+#newcontent {
+    resize: none;
+    scroll-behavior: smooth;
+}
+
+.post h3 {
+    margin: 0px;
+    color: firebrick;
+}
+
+.post table {
+    border-spacing: 3em 2em;
+}
+
+.post table tr td{
+    
+    text-align: center;
+}
+
+.individualNews {
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+    padding: 3px 20px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: cornsilk;
+}
+
+#submitbtn {
+    padding: 20px;
+    font-size: large;
+    background-color: beige;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: brown;
+    cursor: pointer;
+}
+
+h2 {
+    color: chocolate;
+}
+
+h1 {
+    color: darkred;
+}
