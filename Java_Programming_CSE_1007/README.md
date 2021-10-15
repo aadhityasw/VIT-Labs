@@ -66,3 +66,10 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for the 
 | 1 | [Linked List](./Java_Data_Structures_Lab_7/linked_list.java) |
 | 2 | [Array List](./Java_Data_Structures_Lab_7/array_list.java) |
 | 3 | [Hash Map](./Java_Data_Structures_Lab_7/hash_map.java) |
+
+
+#### 8. [Java - File Handling](./Java_File_Handling_Lab_8)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Restaurant Tips Calculation](./Java_File_Handling_Lab_8/restaurant.java) |
