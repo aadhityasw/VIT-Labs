@@ -25,3 +25,11 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for the 
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
 | 1 | [Complex Numbers](./Complex_Numbers_Lab_2/complex_numbers.java) |
+
+
+#### 3. [Java - Inherritence and File Management](./Inheritance_and_Files_Lab_3)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Employee Salary Calculator](./Inheritance_and_Files_Lab_3/employee_salary.java) |
+| 2 | [Zathra Population](./Inheritance_and_Files_Lab_3/population.java) |

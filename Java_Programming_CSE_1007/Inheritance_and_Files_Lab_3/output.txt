@@ -1,0 +1,900 @@
+Test Case 1 :
+Initial Acrobots : 7146
+Initial Bouncoids : 9656
+Eternal Parameter alpha : 36
+Eternal Parameter beta : 21
+Duration : 46
+Final Acrobats : 7651
+Final Bouncoids : 8435
+-----------------------------------------------------------------------------------
+Test Case 2 :
+Initial Acrobots : 4853
+Initial Bouncoids : 1109
+Eternal Parameter alpha : 33
+Eternal Parameter beta : 44
+Duration : 80
+Final Acrobats : 2754
+Final Bouncoids : 1228
+-----------------------------------------------------------------------------------
+Test Case 3 :
+Initial Acrobots : 10805
+Initial Bouncoids : 11509
+Eternal Parameter alpha : 67
+Eternal Parameter beta : 23
+Duration : 100
+Final Acrobats : 12156
+Final Bouncoids : 7446
+-----------------------------------------------------------------------------------
+Test Case 4 :
+Initial Acrobots : 2306
+Initial Bouncoids : 2306
+Eternal Parameter alpha : 10
+Eternal Parameter beta : 10
+Duration : 99
+Final Acrobats : 2306
+Final Bouncoids : 2306
+-----------------------------------------------------------------------------------
+Test Case 5 :
+Initial Acrobots : 19212
+Initial Bouncoids : 13965
+Eternal Parameter alpha : 16
+Eternal Parameter beta : 84
+Duration : 39
+Final Acrobats : 14564
+Final Bouncoids : 17771
+-----------------------------------------------------------------------------------
+Test Case 6 :
+Initial Acrobots : 4785
+Initial Bouncoids : 3957
+Eternal Parameter alpha : 70
+Eternal Parameter beta : 17
+Duration : 60
+Final Acrobats : 4947
+Final Bouncoids : 2909
+-----------------------------------------------------------------------------------
+Test Case 7 :
+Initial Acrobots : 15857
+Initial Bouncoids : 3336
+Eternal Parameter alpha : 53
+Eternal Parameter beta : 32
+Duration : 1
+Final Acrobats : 15738
+Final Bouncoids : 3330
+-----------------------------------------------------------------------------------
+Test Case 8 :
+Initial Acrobots : 20000
+Initial Bouncoids : 20000
+Eternal Parameter alpha : 50
+Eternal Parameter beta : 50
+Duration : 100
+Final Acrobats : 20000
+Final Bouncoids : 20000
+-----------------------------------------------------------------------------------
+Test Case 9 :
+Initial Acrobots : 8293
+Initial Bouncoids : 19587
+Eternal Parameter alpha : 59
+Eternal Parameter beta : 23
+Duration : 100
+Final Acrobats : 11852
+Final Bouncoids : 11355
+-----------------------------------------------------------------------------------
+Test Case 10 :
+Initial Acrobots : 14959
+Initial Bouncoids : 10841
+Eternal Parameter alpha : 7
+Eternal Parameter beta : 41
+Duration : 36
+Final Acrobats : 12739
+Final Bouncoids : 12266
+-----------------------------------------------------------------------------------
+Test Case 11 :
+Initial Acrobots : 12345
+Initial Bouncoids : 12890
+Eternal Parameter alpha : 10
+Eternal Parameter beta : 13
+Duration : 100
+Final Acrobats : 11993
+Final Bouncoids : 12676
+-----------------------------------------------------------------------------------
+Test Case 12 :
+Initial Acrobots : 10614
+Initial Bouncoids : 17796
+Eternal Parameter alpha : 70
+Eternal Parameter beta : 29
+Duration : 1
+Final Acrobats : 10657
+Final Bouncoids : 17682
+-----------------------------------------------------------------------------------
+Test Case 13 :
+Initial Acrobots : 10805
+Initial Bouncoids : 11509
+Eternal Parameter alpha : 67
+Eternal Parameter beta : 23
+Duration : 1
+Final Acrobats : 10852
+Final Bouncoids : 11455
+-----------------------------------------------------------------------------------
+Test Case 14 :
+Initial Acrobots : 17484
+Initial Bouncoids : 5213
+Eternal Parameter alpha : 28
+Eternal Parameter beta : 9
+Duration : 81
+Final Acrobats : 10930
+Final Bouncoids : 4511
+-----------------------------------------------------------------------------------
+Test Case 15 :
+Initial Acrobots : 14456
+Initial Bouncoids : 8044
+Eternal Parameter alpha : 33
+Eternal Parameter beta : 4
+Duration : 16
+Final Acrobats : 13816
+Final Bouncoids : 7688
+-----------------------------------------------------------------------------------
+Test Case 16 :
+Initial Acrobots : 12748
+Initial Bouncoids : 12748
+Eternal Parameter alpha : 10
+Eternal Parameter beta : 10
+Duration : 99
+Final Acrobats : 12748
+Final Bouncoids : 12748
+-----------------------------------------------------------------------------------
+Test Case 17 :
+Initial Acrobots : 0
+Initial Bouncoids : 0
+Eternal Parameter alpha : 10
+Eternal Parameter beta : 15
+Duration : 13
+Final Acrobats : 0
+Final Bouncoids : 0
+-----------------------------------------------------------------------------------
+Test Case 18 :
+Initial Acrobots : 10535
+Initial Bouncoids : 19809
+Eternal Parameter alpha : 31
+Eternal Parameter beta : 16
+Duration : 100
+Final Acrobats : 12234
+Final Bouncoids : 13479
+-----------------------------------------------------------------------------------
+Test Case 19 :
+Initial Acrobots : 7531
+Initial Bouncoids : 4646
+Eternal Parameter alpha : 20
+Eternal Parameter beta : 77
+Duration : 1
+Final Acrobats : 7476
+Final Bouncoids : 4672
+-----------------------------------------------------------------------------------
+Test Case 20 :
+Initial Acrobots : 3967
+Initial Bouncoids : 742
+Eternal Parameter alpha : 78
+Eternal Parameter beta : 14
+Duration : 0
+Final Acrobats : 3967
+Final Bouncoids : 742
+-----------------------------------------------------------------------------------
+Test Case 21 :
+Initial Acrobots : 8293
+Initial Bouncoids : 19587
+Eternal Parameter alpha : 59
+Eternal Parameter beta : 23
+Duration : 0
+Final Acrobats : 8293
+Final Bouncoids : 19587
+-----------------------------------------------------------------------------------
+Test Case 22 :
+Initial Acrobots : 10614
+Initial Bouncoids : 17796
+Eternal Parameter alpha : 70
+Eternal Parameter beta : 29
+Duration : 0
+Final Acrobats : 10614
+Final Bouncoids : 17796
+-----------------------------------------------------------------------------------
+Test Case 23 :
+Initial Acrobots : 0
+Initial Bouncoids : 17370
+Eternal Parameter alpha : 34
+Eternal Parameter beta : 53
+Duration : 20
+Final Acrobats : 0
+Final Bouncoids : 14217
+-----------------------------------------------------------------------------------
+Test Case 24 :
+Initial Acrobots : 0
+Initial Bouncoids : 19326
+Eternal Parameter alpha : 27
+Eternal Parameter beta : 66
+Duration : 98
+Final Acrobats : 0
+Final Bouncoids : 7252
+-----------------------------------------------------------------------------------
+Test Case 25 :
+Initial Acrobots : 6644
+Initial Bouncoids : 16664
+Eternal Parameter alpha : 21
+Eternal Parameter beta : 58
+Duration : 0
+Final Acrobats : 6644
+Final Bouncoids : 16664
+-----------------------------------------------------------------------------------
+Test Case 26 :
+Initial Acrobots : 4883
+Initial Bouncoids : 17472
+Eternal Parameter alpha : 23
+Eternal Parameter beta : 25
+Duration : 9
+Final Acrobats : 4874
+Final Bouncoids : 16397
+-----------------------------------------------------------------------------------
+Test Case 27 :
+Initial Acrobots : 19848
+Initial Bouncoids : 1752
+Eternal Parameter alpha : 50
+Eternal Parameter beta : 20
+Duration : 69
+Final Acrobats : 10947
+Final Bouncoids : 1456
+-----------------------------------------------------------------------------------
+Test Case 28 :
+Initial Acrobots : 0
+Initial Bouncoids : 14311
+Eternal Parameter alpha : 60
+Eternal Parameter beta : 31
+Duration : 35
+Final Acrobats : 0
+Final Bouncoids : 10083
+-----------------------------------------------------------------------------------
+Test Case 29 :
+Initial Acrobots : 8168
+Initial Bouncoids : 1028
+Eternal Parameter alpha : 37
+Eternal Parameter beta : 29
+Duration : 53
+Final Acrobats : 5250
+Final Bouncoids : 999
+-----------------------------------------------------------------------------------
+Test Case 30 :
+Initial Acrobots : 2105
+Initial Bouncoids : 838
+Eternal Parameter alpha : 56
+Eternal Parameter beta : 9
+Duration : 30
+Final Acrobats : 1857
+Final Bouncoids : 748
+-----------------------------------------------------------------------------------
+Test Case 31 :
+Initial Acrobots : 19639
+Initial Bouncoids : 14452
+Eternal Parameter alpha : 9
+Eternal Parameter beta : 43
+Duration : 41
+Final Acrobats : 16480
+Final Bouncoids : 16628
+-----------------------------------------------------------------------------------
+Test Case 32 :
+Initial Acrobots : 18335
+Initial Bouncoids : 6151
+Eternal Parameter alpha : 92
+Eternal Parameter beta : 7
+Duration : 79
+Final Acrobats : 12662
+Final Bouncoids : 3165
+-----------------------------------------------------------------------------------
+Test Case 33 :
+Initial Acrobots : 20000
+Initial Bouncoids : 20000
+Eternal Parameter alpha : 49
+Eternal Parameter beta : 51
+Duration : 100
+Final Acrobats : 19600
+Final Bouncoids : 20131
+-----------------------------------------------------------------------------------
+Test Case 34 :
+Initial Acrobots : 3588
+Initial Bouncoids : 14180
+Eternal Parameter alpha : 23
+Eternal Parameter beta : 77
+Duration : 20
+Final Acrobats : 3218
+Final Bouncoids : 12564
+-----------------------------------------------------------------------------------
+Test Case 35 :
+Initial Acrobots : 4224
+Initial Bouncoids : 4224
+Eternal Parameter alpha : 10
+Eternal Parameter beta : 10
+Duration : 99
+Final Acrobats : 4224
+Final Bouncoids : 4224
+-----------------------------------------------------------------------------------
+Test Case 36 :
+Initial Acrobots : 15103
+Initial Bouncoids : 12327
+Eternal Parameter alpha : 9
+Eternal Parameter beta : 71
+Duration : 100
+Final Acrobats : 8070
+Final Bouncoids : 15333
+-----------------------------------------------------------------------------------
+Test Case 37 :
+Initial Acrobots : 8788
+Initial Bouncoids : 18082
+Eternal Parameter alpha : 28
+Eternal Parameter beta : 52
+Duration : 62
+Final Acrobats : 7573
+Final Bouncoids : 14386
+-----------------------------------------------------------------------------------
+Test Case 38 :
+Initial Acrobots : 3967
+Initial Bouncoids : 742
+Eternal Parameter alpha : 78
+Eternal Parameter beta : 14
+Duration : 1
+Final Acrobats : 3939
+Final Bouncoids : 738
+-----------------------------------------------------------------------------------
+Test Case 39 :
+Initial Acrobots : 5712
+Initial Bouncoids : 12653
+Eternal Parameter alpha : 7
+Eternal Parameter beta : 57
+Duration : 23
+Final Acrobats : 5093
+Final Bouncoids : 11719
+-----------------------------------------------------------------------------------
+Test Case 40 :
+Initial Acrobots : 6577
+Initial Bouncoids : 0
+Eternal Parameter alpha : 27
+Eternal Parameter beta : 66
+Duration : 49
+Final Acrobats : 4040
+Final Bouncoids : 0
+-----------------------------------------------------------------------------------
+Test Case 41 :
+Initial Acrobots : 13681
+Initial Bouncoids : 0
+Eternal Parameter alpha : 52
+Eternal Parameter beta : 37
+Duration : 76
+Final Acrobats : 6401
+Final Bouncoids : 0
+-----------------------------------------------------------------------------------
+Test Case 42 :
+Initial Acrobots : 10088
+Initial Bouncoids : 4471
+Eternal Parameter alpha : 24
+Eternal Parameter beta : 28
+Duration : 39
+Final Acrobats : 8229
+Final Bouncoids : 4549
+-----------------------------------------------------------------------------------
+Test Case 43 :
+Initial Acrobots : 10614
+Initial Bouncoids : 17796
+Eternal Parameter alpha : 70
+Eternal Parameter beta : 29
+Duration : 100
+Final Acrobats : 14634
+Final Bouncoids : 11058
+-----------------------------------------------------------------------------------
+Test Case 44 :
+Initial Acrobots : 6956
+Initial Bouncoids : 16023
+Eternal Parameter alpha : 10
+Eternal Parameter beta : 85
+Duration : 69
+Final Acrobats : 4145
+Final Bouncoids : 12661
+-----------------------------------------------------------------------------------
+Test Case 45 :
+Initial Acrobots : 3033
+Initial Bouncoids : 10996
+Eternal Parameter alpha : 10
+Eternal Parameter beta : 0
+Duration : 89
+Final Acrobats : 3300
+Final Bouncoids : 6234
+-----------------------------------------------------------------------------------
+Test Case 46 :
+Initial Acrobots : 2340
+Initial Bouncoids : 12734
+Eternal Parameter alpha : 55
+Eternal Parameter beta : 0
+Duration : 0
+Final Acrobats : 2340
+Final Bouncoids : 12734
+-----------------------------------------------------------------------------------
+Test Case 47 :
+Initial Acrobots : 9788
+Initial Bouncoids : 17236
+Eternal Parameter alpha : 18
+Eternal Parameter beta : 29
+Duration : 99
+Final Acrobats : 8786
+Final Bouncoids : 12837
+-----------------------------------------------------------------------------------
+Test Case 48 :
+Initial Acrobots : 6644
+Initial Bouncoids : 16664
+Eternal Parameter alpha : 21
+Eternal Parameter beta : 58
+Duration : 1
+Final Acrobats : 6619
+Final Bouncoids : 16589
+-----------------------------------------------------------------------------------
+Test Case 49 :
+Initial Acrobots : 994
+Initial Bouncoids : 10636
+Eternal Parameter alpha : 26
+Eternal Parameter beta : 16
+Duration : 19
+Final Acrobats : 1013
+Final Bouncoids : 8953
+-----------------------------------------------------------------------------------
+Test Case 50 :
+Initial Acrobots : 9069
+Initial Bouncoids : 17684
+Eternal Parameter alpha : 39
+Eternal Parameter beta : 61
+Duration : 90
+Final Acrobats : 7427
+Final Bouncoids : 13083
+-----------------------------------------------------------------------------------
+Test Case 51 :
+Initial Acrobots : 15237
+Initial Bouncoids : 13608
+Eternal Parameter alpha : 9
+Eternal Parameter beta : 61
+Duration : 14
+Final Acrobats : 14124
+Final Bouncoids : 14629
+-----------------------------------------------------------------------------------
+Test Case 52 :
+Initial Acrobots : 17330
+Initial Bouncoids : 0
+Eternal Parameter alpha : 34
+Eternal Parameter beta : 53
+Duration : 59
+Final Acrobats : 9602
+Final Bouncoids : 0
+-----------------------------------------------------------------------------------
+Test Case 53 :
+Initial Acrobots : 4821
+Initial Bouncoids : 4837
+Eternal Parameter alpha : 35
+Eternal Parameter beta : 61
+Duration : 0
+Final Acrobats : 4821
+Final Bouncoids : 4837
+-----------------------------------------------------------------------------------
+Test Case 54 :
+Initial Acrobots : 4763
+Initial Bouncoids : 5279
+Eternal Parameter alpha : 14
+Eternal Parameter beta : 86
+Duration : 97
+Final Acrobats : 2359
+Final Bouncoids : 5504
+-----------------------------------------------------------------------------------
+Test Case 55 :
+Initial Acrobots : 4859
+Initial Bouncoids : 18209
+Eternal Parameter alpha : 23
+Eternal Parameter beta : 47
+Duration : 18
+Final Acrobats : 4652
+Final Bouncoids : 16182
+-----------------------------------------------------------------------------------
+Test Case 56 :
+Initial Acrobots : 0
+Initial Bouncoids : 10352
+Eternal Parameter alpha : 52
+Eternal Parameter beta : 37
+Duration : 11
+Final Acrobats : 0
+Final Bouncoids : 9274
+-----------------------------------------------------------------------------------
+Test Case 57 :
+Initial Acrobots : 6320
+Initial Bouncoids : 18866
+Eternal Parameter alpha : 42
+Eternal Parameter beta : 4
+Duration : 80
+Final Acrobats : 8547
+Final Bouncoids : 11049
+-----------------------------------------------------------------------------------
+Test Case 58 :
+Initial Acrobots : 2980
+Initial Bouncoids : 7453
+Eternal Parameter alpha : 8
+Eternal Parameter beta : 3
+Duration : 27
+Final Acrobats : 3017
+Final Bouncoids : 6375
+-----------------------------------------------------------------------------------
+Test Case 59 :
+Initial Acrobots : 10795
+Initial Bouncoids : 0
+Eternal Parameter alpha : 37
+Eternal Parameter beta : 42
+Duration : 56
+Final Acrobats : 6173
+Final Bouncoids : 0
+-----------------------------------------------------------------------------------
+Test Case 60 :
+Initial Acrobots : 8293
+Initial Bouncoids : 19587
+Eternal Parameter alpha : 59
+Eternal Parameter beta : 23
+Duration : 1
+Final Acrobats : 8323
+Final Bouncoids : 19445
+-----------------------------------------------------------------------------------
+Test Case 61 :
+Initial Acrobots : 0
+Initial Bouncoids : 6698
+Eternal Parameter alpha : 37
+Eternal Parameter beta : 42
+Duration : 57
+Final Acrobats : 0
+Final Bouncoids : 3799
+-----------------------------------------------------------------------------------
+Test Case 62 :
+Initial Acrobots : 12509
+Initial Bouncoids : 10981
+Eternal Parameter alpha : 52
+Eternal Parameter beta : 3
+Duration : 39
+Final Acrobats : 13266
+Final Bouncoids : 9088
+-----------------------------------------------------------------------------------
+Test Case 63 :
+Initial Acrobots : 15857
+Initial Bouncoids : 3336
+Eternal Parameter alpha : 53
+Eternal Parameter beta : 32
+Duration : 0
+Final Acrobats : 15857
+Final Bouncoids : 3336
+-----------------------------------------------------------------------------------
+Test Case 64 :
+Initial Acrobots : 2738
+Initial Bouncoids : 2738
+Eternal Parameter alpha : 10
+Eternal Parameter beta : 10
+Duration : 99
+Final Acrobats : 2738
+Final Bouncoids : 2738
+-----------------------------------------------------------------------------------
+Test Case 65 :
+Initial Acrobots : 10535
+Initial Bouncoids : 19809
+Eternal Parameter alpha : 31
+Eternal Parameter beta : 16
+Duration : 1
+Final Acrobats : 10551
+Final Bouncoids : 19700
+-----------------------------------------------------------------------------------
+Test Case 66 :
+Initial Acrobots : 0
+Initial Bouncoids : 0
+Eternal Parameter alpha : 10
+Eternal Parameter beta : 15
+Duration : 0
+Final Acrobats : 0
+Final Bouncoids : 0
+-----------------------------------------------------------------------------------
+Test Case 67 :
+Initial Acrobots : 283
+Initial Bouncoids : 12225
+Eternal Parameter alpha : 10
+Eternal Parameter beta : 36
+Duration : 56
+Final Acrobats : 283
+Final Bouncoids : 7116
+-----------------------------------------------------------------------------------
+Test Case 68 :
+Initial Acrobots : 10595
+Initial Bouncoids : 17901
+Eternal Parameter alpha : 32
+Eternal Parameter beta : 16
+Duration : 19
+Final Acrobats : 10921
+Final Bouncoids : 16368
+-----------------------------------------------------------------------------------
+Test Case 69 :
+Initial Acrobots : 3531
+Initial Bouncoids : 5404
+Eternal Parameter alpha : 32
+Eternal Parameter beta : 27
+Duration : 0
+Final Acrobats : 3531
+Final Bouncoids : 5404
+-----------------------------------------------------------------------------------
+Test Case 70 :
+Initial Acrobots : 7362
+Initial Bouncoids : 6924
+Eternal Parameter alpha : 13
+Eternal Parameter beta : 42
+Duration : 4
+Final Acrobats : 7267
+Final Bouncoids : 7006
+-----------------------------------------------------------------------------------
+Test Case 71 :
+Initial Acrobots : 18019
+Initial Bouncoids : 15714
+Eternal Parameter alpha : 55
+Eternal Parameter beta : 5
+Duration : 95
+Final Acrobats : 18097
+Final Bouncoids : 9806
+-----------------------------------------------------------------------------------
+Test Case 72 :
+Initial Acrobots : 1416
+Initial Bouncoids : 4129
+Eternal Parameter alpha : 89
+Eternal Parameter beta : 3
+Duration : 81
+Final Acrobats : 2690
+Final Bouncoids : 2022
+-----------------------------------------------------------------------------------
+Test Case 73 :
+Initial Acrobots : 9000
+Initial Bouncoids : 16858
+Eternal Parameter alpha : 39
+Eternal Parameter beta : 61
+Duration : 5
+Final Acrobats : 8900
+Final Bouncoids : 16571
+-----------------------------------------------------------------------------------
+Test Case 74 :
+Initial Acrobots : 9550
+Initial Bouncoids : 13256
+Eternal Parameter alpha : 5
+Eternal Parameter beta : 54
+Duration : 66
+Final Acrobats : 6916
+Final Bouncoids : 12650
+-----------------------------------------------------------------------------------
+Test Case 75 :
+Initial Acrobots : 15857
+Initial Bouncoids : 3336
+Eternal Parameter alpha : 53
+Eternal Parameter beta : 32
+Duration : 100
+Final Acrobats : 8101
+Final Bouncoids : 2754
+-----------------------------------------------------------------------------------
+Test Case 76 :
+Initial Acrobots : 15103
+Initial Bouncoids : 12327
+Eternal Parameter alpha : 9
+Eternal Parameter beta : 71
+Duration : 1
+Final Acrobats : 14999
+Final Bouncoids : 12403
+-----------------------------------------------------------------------------------
+Test Case 77 :
+Initial Acrobots : 10535
+Initial Bouncoids : 19809
+Eternal Parameter alpha : 31
+Eternal Parameter beta : 16
+Duration : 0
+Final Acrobats : 10535
+Final Bouncoids : 19809
+-----------------------------------------------------------------------------------
+Test Case 78 :
+Initial Acrobots : 10292
+Initial Bouncoids : 5060
+Eternal Parameter alpha : 80
+Eternal Parameter beta : 16
+Duration : 0
+Final Acrobats : 10292
+Final Bouncoids : 5060
+-----------------------------------------------------------------------------------
+Test Case 79 :
+Initial Acrobots : 7531
+Initial Bouncoids : 4646
+Eternal Parameter alpha : 20
+Eternal Parameter beta : 77
+Duration : 0
+Final Acrobats : 7531
+Final Bouncoids : 4646
+-----------------------------------------------------------------------------------
+Test Case 80 :
+Initial Acrobots : 12345
+Initial Bouncoids : 12890
+Eternal Parameter alpha : 10
+Eternal Parameter beta : 13
+Duration : 1
+Final Acrobats : 12341
+Final Bouncoids : 12889
+-----------------------------------------------------------------------------------
+Test Case 81 :
+Initial Acrobots : 10805
+Initial Bouncoids : 11509
+Eternal Parameter alpha : 67
+Eternal Parameter beta : 23
+Duration : 0
+Final Acrobats : 10805
+Final Bouncoids : 11509
+-----------------------------------------------------------------------------------
+Test Case 82 :
+Initial Acrobots : 20000
+Initial Bouncoids : 20000
+Eternal Parameter alpha : 51
+Eternal Parameter beta : 49
+Duration : 100
+Final Acrobats : 20099
+Final Bouncoids : 19699
+-----------------------------------------------------------------------------------
+Test Case 83 :
+Initial Acrobots : 3967
+Initial Bouncoids : 742
+Eternal Parameter alpha : 78
+Eternal Parameter beta : 14
+Duration : 100
+Final Acrobats : 2011
+Final Bouncoids : 437
+-----------------------------------------------------------------------------------
+Test Case 84 :
+Initial Acrobots : 3717
+Initial Bouncoids : 13910
+Eternal Parameter alpha : 14
+Eternal Parameter beta : 86
+Duration : 28
+Final Acrobats : 3033
+Final Bouncoids : 11932
+-----------------------------------------------------------------------------------
+Test Case 85 :
+Initial Acrobots : 15593
+Initial Bouncoids : 1426
+Eternal Parameter alpha : 19
+Eternal Parameter beta : 44
+Duration : 2
+Final Acrobats : 15304
+Final Bouncoids : 1434
+-----------------------------------------------------------------------------------
+Test Case 86 :
+Initial Acrobots : 18355
+Initial Bouncoids : 12916
+Eternal Parameter alpha : 2
+Eternal Parameter beta : 18
+Duration : 58
+Final Acrobats : 15295
+Final Bouncoids : 14195
+-----------------------------------------------------------------------------------
+Test Case 87 :
+Initial Acrobots : 613
+Initial Bouncoids : 0
+Eternal Parameter alpha : 60
+Eternal Parameter beta : 31
+Duration : 4
+Final Acrobats : 590
+Final Bouncoids : 0
+-----------------------------------------------------------------------------------
+Test Case 88 :
+Initial Acrobots : 17732
+Initial Bouncoids : 17732
+Eternal Parameter alpha : 10
+Eternal Parameter beta : 10
+Duration : 99
+Final Acrobats : 17732
+Final Bouncoids : 17732
+-----------------------------------------------------------------------------------
+Test Case 89 :
+Initial Acrobots : 6644
+Initial Bouncoids : 16664
+Eternal Parameter alpha : 21
+Eternal Parameter beta : 58
+Duration : 100
+Final Acrobats : 4591
+Final Bouncoids : 10811
+-----------------------------------------------------------------------------------
+Test Case 90 :
+Initial Acrobots : 10292
+Initial Bouncoids : 5060
+Eternal Parameter alpha : 80
+Eternal Parameter beta : 16
+Duration : 100
+Final Acrobats : 7480
+Final Bouncoids : 2707
+-----------------------------------------------------------------------------------
+Test Case 91 :
+Initial Acrobots : 17167
+Initial Bouncoids : 721
+Eternal Parameter alpha : 31
+Eternal Parameter beta : 54
+Duration : 0
+Final Acrobats : 17167
+Final Bouncoids : 721
+-----------------------------------------------------------------------------------
+Test Case 92 :
+Initial Acrobots : 14626
+Initial Bouncoids : 14507
+Eternal Parameter alpha : 70
+Eternal Parameter beta : 26
+Duration : 18
+Final Acrobats : 15535
+Final Bouncoids : 13407
+-----------------------------------------------------------------------------------
+Test Case 93 :
+Initial Acrobots : 15103
+Initial Bouncoids : 12327
+Eternal Parameter alpha : 9
+Eternal Parameter beta : 71
+Duration : 0
+Final Acrobats : 15103
+Final Bouncoids : 12327
+-----------------------------------------------------------------------------------
+Test Case 94 :
+Initial Acrobots : 5618
+Initial Bouncoids : 5688
+Eternal Parameter alpha : 68
+Eternal Parameter beta : 31
+Duration : 54
+Final Acrobats : 6211
+Final Bouncoids : 4673
+-----------------------------------------------------------------------------------
+Test Case 95 :
+Initial Acrobots : 12345
+Initial Bouncoids : 12890
+Eternal Parameter alpha : 10
+Eternal Parameter beta : 13
+Duration : 0
+Final Acrobats : 12345
+Final Bouncoids : 12890
+-----------------------------------------------------------------------------------
+Test Case 96 :
+Initial Acrobots : 7531
+Initial Bouncoids : 4646
+Eternal Parameter alpha : 20
+Eternal Parameter beta : 77
+Duration : 100
+Final Acrobats : 4129
+Final Bouncoids : 6643
+-----------------------------------------------------------------------------------
+Test Case 97 :
+Initial Acrobots : 2582
+Initial Bouncoids : 16071
+Eternal Parameter alpha : 55
+Eternal Parameter beta : 29
+Duration : 0
+Final Acrobats : 2582
+Final Bouncoids : 16071
+-----------------------------------------------------------------------------------
+Test Case 98 :
+Initial Acrobots : 2645
+Initial Bouncoids : 14082
+Eternal Parameter alpha : 59
+Eternal Parameter beta : 41
+Duration : 76
+Final Acrobats : 3011
+Final Bouncoids : 7846
+-----------------------------------------------------------------------------------
+Test Case 99 :
+Initial Acrobots : 10292
+Initial Bouncoids : 5060
+Eternal Parameter alpha : 80
+Eternal Parameter beta : 16
+Duration : 1
+Final Acrobats : 10272
+Final Bouncoids : 5029
+-----------------------------------------------------------------------------------
+Test Case 100 :
+Initial Acrobots : 5826
+Initial Bouncoids : 3432
+Eternal Parameter alpha : 22
+Eternal Parameter beta : 46
+Duration : 55
+Final Acrobats : 4553
+Final Bouncoids : 3937
+-----------------------------------------------------------------------------------
