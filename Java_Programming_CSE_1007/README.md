@@ -19,3 +19,9 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for the 
 | 1 | [Digit Sum Prime Numbers](./OpenMP_Introduction_Lab_1/prime_count.java) |
 | 2 | [Hamiltonian Path](./OpenMP_Introduction_Lab_1/hamiltonian_path.java) |
 
+
+#### 2. [Complex Number Arithmetic](./Complex_Numbers_Lab_2)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Complex Numbers](./Complex_Numbers_Lab_2/complex_numbers.java) |
