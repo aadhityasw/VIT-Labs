@@ -33,3 +33,10 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for the 
 | ---- | --------------------- |
 | 1 | [Employee Salary Calculator](./Inheritance_and_Files_Lab_3/employee_salary.java) |
 | 2 | [Zathra Population](./Inheritance_and_Files_Lab_3/population.java) |
+
+
+#### 4. [Java - Polymorphism](./Payroll_System_Lab_4)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Payroll System](./Payroll_System_Lab_4/payroll.java) |
