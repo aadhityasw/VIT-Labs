@@ -57,3 +57,12 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for the 
 | ---- | --------------------- |
 | 1 | [Geometric Shapes](./Java_UML_Inheritance_Lab_6/shapes.java) |
 | 2 | [Customer Payment System](./Java_UML_Inheritance_Lab_6/payment.java) |
+
+
+#### 7. [Java - Data Structures](./Java_Data_Structures_Lab_7)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Linked List](./Java_Data_Structures_Lab_7/linked_list.java) |
+| 2 | [Array List](./Java_Data_Structures_Lab_7/array_list.java) |
+| 3 | [Hash Map](./Java_Data_Structures_Lab_7/hash_map.java) |
