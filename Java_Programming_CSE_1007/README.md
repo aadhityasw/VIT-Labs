@@ -1,0 +1,14 @@
+# Parallel and Distributed Computing - CSE4001
+
+
+## Setup
+
+These labs require the use of Java JDK and JRE. Installation of these are relatively simple and there are many online guides available for the same ([Install Java](https://java.com/en/download/help/download_options.html)).
+
+I would suggest the installation of `Java version 8`, as it supports `Java FX` and other frameworks we will be working with during the labs.
+
+I would suggest the use of any code editors like `VS Code` or `Sublime` for the earlier stages of the lab as we would be covering the basic concepts of programming with Java. As for the later portion, I would suggest the use of `Apache Netbeans IDE` for working with Java FX and other such frameworks.
+
+
+## List of Programs
+
