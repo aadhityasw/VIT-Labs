@@ -40,3 +40,12 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for the 
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
 | 1 | [Payroll System](./Payroll_System_Lab_4/payroll.java) |
+
+
+#### 5. [Java - Multithreading](./Java_Multithreading_Lab_5)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Divisors](./Java_Multithreading_Lab_5/divisors.java) |
+| 2 | [Sieve of Eratosthenes](./Java_Multithreading_Lab_5/sieve.java) |
+| 3 | [Producer Consumer problem](./Java_Multithreading_Lab_5/producer_consumer.java) |
