@@ -1,0 +1,45 @@
+<html><head>
+  <SCRIPT src="http://java.com/js/dtjava.js"></SCRIPT>
+<script>
+    function launchApplication(jnlpfile) {
+        dtjava.launch(            {
+                url : 'Registration.jnlp',
+                jnlp_content : 'PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPGpubHAgc3BlYz0iMS4wIiB4bWxuczpqZng9Imh0dHA6Ly9qYXZhZnguY29tIiBocmVmPSJSZWdpc3RyYXRpb24uam5scCI+CiAgPGluZm9ybWF0aW9uPgogICAgPHRpdGxlPlJlZ2lzdHJhdGlvbjwvdGl0bGU+CiAgICA8dmVuZG9yPnN0dWRlbnQ8L3ZlbmRvcj4KICAgIDxkZXNjcmlwdGlvbj5udWxsPC9kZXNjcmlwdGlvbj4KICAgIDxvZmZsaW5lLWFsbG93ZWQvPgogIDwvaW5mb3JtYXRpb24+CiAgPHJlc291cmNlcz4KICAgIDxqMnNlIHZlcnNpb249IjEuNisiIGhyZWY9Imh0dHA6Ly9qYXZhLnN1bi5jb20vcHJvZHVjdHMvYXV0b2RsL2oyc2UiLz4KICAgIDxqYXIgaHJlZj0iUmVnaXN0cmF0aW9uLmphciIgc2l6ZT0iMTA0MDciIGRvd25sb2FkPSJlYWdlciIgLz4KICA8L3Jlc291cmNlcz4KICA8amZ4OmphdmFmeC1kZXNjICB3aWR0aD0iODAwIiBoZWlnaHQ9IjYwMCIgbWFpbi1jbGFzcz0icmVnaXN0cmF0aW9uLlJlZ2lzdHJhdGlvbiIgIG5hbWU9IlJlZ2lzdHJhdGlvbiIgLz4KICA8dXBkYXRlIGNoZWNrPSJhbHdheXMiLz4KPC9qbmxwPgo='
+            },
+            {
+                javafx : '8.0+'
+            },
+            {}
+        );
+        return false;
+    }
+</script>
+
+<script>
+    function javafxEmbedregistration() {
+        dtjava.embed(
+            {
+                id : 'registration',
+                url : 'Registration.jnlp',
+                placeholder : 'javafx-app-placeholder',
+                width : '800',
+                height : '600',
+                jnlp_content : 'PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPGpubHAgc3BlYz0iMS4wIiB4bWxuczpqZng9Imh0dHA6Ly9qYXZhZnguY29tIiBocmVmPSJSZWdpc3RyYXRpb24uam5scCI+CiAgPGluZm9ybWF0aW9uPgogICAgPHRpdGxlPlJlZ2lzdHJhdGlvbjwvdGl0bGU+CiAgICA8dmVuZG9yPnN0dWRlbnQ8L3ZlbmRvcj4KICAgIDxkZXNjcmlwdGlvbj5udWxsPC9kZXNjcmlwdGlvbj4KICAgIDxvZmZsaW5lLWFsbG93ZWQvPgogIDwvaW5mb3JtYXRpb24+CiAgPHJlc291cmNlcz4KICAgIDxqMnNlIHZlcnNpb249IjEuNisiIGhyZWY9Imh0dHA6Ly9qYXZhLnN1bi5jb20vcHJvZHVjdHMvYXV0b2RsL2oyc2UiLz4KICAgIDxqYXIgaHJlZj0iUmVnaXN0cmF0aW9uLmphciIgc2l6ZT0iMTA0MDciIGRvd25sb2FkPSJlYWdlciIgLz4KICA8L3Jlc291cmNlcz4KICA8amZ4OmphdmFmeC1kZXNjICB3aWR0aD0iODAwIiBoZWlnaHQ9IjYwMCIgbWFpbi1jbGFzcz0icmVnaXN0cmF0aW9uLlJlZ2lzdHJhdGlvbiIgIG5hbWU9IlJlZ2lzdHJhdGlvbiIgLz4KICA8dXBkYXRlIGNoZWNrPSJhbHdheXMiLz4KPC9qbmxwPgo='
+            },
+            {
+                javafx : '8.0+'
+            },
+            {}
+        );
+    }
+    <!-- Embed FX application into web page once page is loaded -->
+    dtjava.addOnloadCallback(javafxEmbedregistration);
+</script>
+
+</head><body>
+<h2>Test page for <b>Registration</b></h2>
+  <b>Webstart:</b> <a href='Registration.jnlp' onclick="return launchApplication('Registration.jnlp');">click to launch this app as webstart</a><br><hr><br>
+
+  <!-- Applet will be inserted here -->
+  <div id='javafx-app-placeholder'></div>
+</body></html>

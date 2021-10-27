@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Registration.jnlp">
+  <information>
+    <title>Registration</title>
+    <vendor>student</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Registration.jar" size="10407" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="registration.Registration"  name="Registration" />
+  <update check="always"/>
+</jnlp>

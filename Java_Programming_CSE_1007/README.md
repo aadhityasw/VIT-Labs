@@ -82,3 +82,11 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for the 
 | 1 | [ASCII Decoding](./Exception_Handling_Lab_9/ascii_decoding.java) |
 | 2 | [Vector File Parsing](./Exception_Handling_Lab_9/vector_parse.java) |
 | 3 | [Exception Handling - Exploration](./Exception_Handling_Lab_9/exceptions.java) |
+
+
+#### 10. [Java - Generics and FX](./Generics_and_FX_Lab_10)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Print Arrays](./Generics_and_FX_Lab_10/print_array.java) |
+| 2 | [Registration Forms](./Generics_and_FX_Lab_10/Registration) |
