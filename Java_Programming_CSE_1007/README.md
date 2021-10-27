@@ -12,73 +12,73 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for the 
 
 ## List of Programs
 
-#### 1. [Java - Introduction](./Java_Introduction_Lab_1)
+#### 1. [Java - Introduction](./Introduction_Lab_1)
 
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
-| 1 | [Digit Sum Prime Numbers](./OpenMP_Introduction_Lab_1/prime_count.java) |
-| 2 | [Hamiltonian Path](./OpenMP_Introduction_Lab_1/hamiltonian_path.java) |
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Digit Sum Prime Numbers](./Introduction_Lab_1/prime_count.java) |
+| 2 | [Hamiltonian Path](./Introduction_Lab_1/hamiltonian_path.java) |
 
 
 #### 2. [Complex Number Arithmetic](./Complex_Numbers_Lab_2)
 
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
+| S.no | Title |
+| ---- | ----- |
 | 1 | [Complex Numbers](./Complex_Numbers_Lab_2/complex_numbers.java) |
 
 
 #### 3. [Java - Inheritance and File Management](./Inheritance_and_Files_Lab_3)
 
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
+| S.no | Title |
+| ---- | ----- |
 | 1 | [Employee Salary Calculator](./Inheritance_and_Files_Lab_3/employee_salary.java) |
 | 2 | [Zathra Population](./Inheritance_and_Files_Lab_3/population.java) |
 
 
 #### 4. [Java - Polymorphism](./Payroll_System_Lab_4)
 
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
+| S.no | Title |
+| ---- | ----- |
 | 1 | [Payroll System](./Payroll_System_Lab_4/payroll.java) |
 
 
-#### 5. [Java - Multithreading](./Java_Multithreading_Lab_5)
+#### 5. [Java - Multithreading](./Multithreading_Lab_5)
 
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
-| 1 | [Divisors](./Java_Multithreading_Lab_5/divisors.java) |
-| 2 | [Sieve of Eratosthenes](./Java_Multithreading_Lab_5/sieve.java) |
-| 3 | [Producer Consumer problem](./Java_Multithreading_Lab_5/producer_consumer.java) |
-
-
-#### 6. [Java - UML Inheritance](./Java_UML_Inheritance_Lab_6)
-
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
-| 1 | [Geometric Shapes](./Java_UML_Inheritance_Lab_6/shapes.java) |
-| 2 | [Customer Payment System](./Java_UML_Inheritance_Lab_6/payment.java) |
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Divisors](./Multithreading_Lab_5/divisors.java) |
+| 2 | [Sieve of Eratosthenes](./Multithreading_Lab_5/sieve.java) |
+| 3 | [Producer Consumer problem](./Multithreading_Lab_5/producer_consumer.java) |
 
 
-#### 7. [Java - Data Structures](./Java_Data_Structures_Lab_7)
+#### 6. [Java - UML Inheritance](./UML_Inheritance_Lab_6)
 
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
-| 1 | [Linked List](./Java_Data_Structures_Lab_7/linked_list.java) |
-| 2 | [Array List](./Java_Data_Structures_Lab_7/array_list.java) |
-| 3 | [Hash Map](./Java_Data_Structures_Lab_7/hash_map.java) |
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Geometric Shapes](./UML_Inheritance_Lab_6/shapes.java) |
+| 2 | [Customer Payment System](./UML_Inheritance_Lab_6/payment.java) |
 
 
-#### 8. [Java - File Handling](./Java_File_Handling_Lab_8)
+#### 7. [Java - Data Structures](./Data_Structures_Lab_7)
 
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
-| 1 | [Restaurant Tips Calculation](./Java_File_Handling_Lab_8/restaurant.java) |
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Linked List](./Data_Structures_Lab_7/linked_list.java) |
+| 2 | [Array List](./Data_Structures_Lab_7/array_list.java) |
+| 3 | [Hash Map](./Data_Structures_Lab_7/hash_map.java) |
+
+
+#### 8. [Java - File Handling](./File_Handling_Lab_8)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Restaurant Tips Calculation](./File_Handling_Lab_8/restaurant.java) |
 
 
 #### 9. [Java - Exception Handling](./Exception_Handling_Lab_9)
 
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
+| S.no | Title |
+| ---- | ----- |
 | 1 | [ASCII Decoding](./Exception_Handling_Lab_9/ascii_decoding.java) |
 | 2 | [Vector File Parsing](./Exception_Handling_Lab_9/vector_parse.java) |
 | 3 | [Exception Handling - Exploration](./Exception_Handling_Lab_9/exceptions.java) |
