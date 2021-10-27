@@ -73,3 +73,12 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for the 
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
 | 1 | [Restaurant Tips Calculation](./Java_File_Handling_Lab_8/restaurant.java) |
+
+
+#### 9. [Java - Exception Handling](./Exception_Handling_Lab_9)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [ASCII Decoding](./Exception_Handling_Lab_9/ascii_decoding.java) |
+| 2 | [Vector File Parsing](./Exception_Handling_Lab_9/vector_parse.java) |
+| 3 | [Exception Handling - Exploration](./Exception_Handling_Lab_9/exceptions.java) |
