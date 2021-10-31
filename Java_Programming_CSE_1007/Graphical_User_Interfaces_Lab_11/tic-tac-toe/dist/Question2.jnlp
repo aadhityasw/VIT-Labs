@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Question2.jnlp">
+  <information>
+    <title>Question2</title>
+    <vendor>aadhitya</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Question2.jar" size="32579" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="question2.Question2"  name="Question2" />
+  <update check="always"/>
+</jnlp>

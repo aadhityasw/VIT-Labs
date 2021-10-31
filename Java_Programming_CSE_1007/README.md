@@ -90,3 +90,12 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for the 
 | ---- | ----- |
 | 1 | [Print Arrays](./Generics_and_FX_Lab_10/print_array.java) |
 | 2 | [Registration Forms](./Generics_and_FX_Lab_10/Registration) |
+
+
+#### 11. [Java - Graphical User Interfaces with FX](./Graphical_User_Interfaces_Lab_11)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Interactive Forms](./Graphical_User_Interfaces_Lab_11/forms/) |
+| 2 | [Tic Tac Toe](./Graphical_User_Interfaces_Lab_11/tic-tac-toe/) |
+| 3 | [Photo Gallery](./Graphical_User_Interfaces_Lab_11/gallery/) |
