@@ -106,3 +106,13 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for the 
 | S.no | Title |
 | ---- | ----- |
 | 1 | [Employee Payroll System](./OOPS_Lab_12/) |
+
+
+#### 13. [Java - Files and Data Structures](./Files_and_Data_Structures_Lab_13)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Find Longest and Shortest word in a file](./Files_and_Data_Structures_Lab_13/file_longest_shortest_word.java) |
+| 2 | [List Files in a Folder](./Files_and_Data_Structures_Lab_13/list_directory.java) |
+| 3 | [ArrayList Operations](./Files_and_Data_Structures_Lab_13/array_list.java) |
+| 4 | [HashSet Operations](./Files_and_Data_Structures_Lab_13/hash_set.java) |
