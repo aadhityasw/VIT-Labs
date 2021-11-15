@@ -116,3 +116,10 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for the 
 | 2 | [List Files in a Folder](./Files_and_Data_Structures_Lab_13/list_directory.java) |
 | 3 | [ArrayList Operations](./Files_and_Data_Structures_Lab_13/array_list.java) |
 | 4 | [HashSet Operations](./Files_and_Data_Structures_Lab_13/hash_set.java) |
+
+
+#### 14. [Java FX - Covid Kiosk](./Covid_Kiosk_Lab_14)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [COVID19 Stats Kiosk](./Covid_Kiosk_Lab_14/COVID/src/covid/COVID.java) |
