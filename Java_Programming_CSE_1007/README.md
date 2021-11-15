@@ -99,3 +99,10 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for the 
 | 1 | [Interactive Forms](./Graphical_User_Interfaces_Lab_11/forms/) |
 | 2 | [Tic Tac Toe](./Graphical_User_Interfaces_Lab_11/tic-tac-toe/) |
 | 3 | [Photo Gallery](./Graphical_User_Interfaces_Lab_11/gallery/) |
+
+
+#### 12. [Java - Object Oriented Concepts](./OOPS_Lab_12)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Employee Payroll System](./OOPS_Lab_12/) |
