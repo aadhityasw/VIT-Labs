@@ -1,0 +1,36 @@
+.headdiv{
+    width: 1000px;
+    height:120px;
+    background-color: rgb(200, 200, 150);
+    margin: auto;
+}
+.maindiv{
+    width: 1000px;
+    margin: auto;
+}
+h1{
+    padding: 0%;
+    margin: 0em;
+    padding-left: 5px;
+}
+table{
+    margin: auto;
+    width: 1000px;
+}
+td,tr{
+    padding: 20px;
+}
+input{
+    border-top: solid gray;
+    border-left: solid gray;
+    height: 30px;
+}
+textarea{
+    height: 200px;
+    width: 200px;
+    resize: none;
+    overflow: scroll;
+}
+button{
+    padding: 10px;
+}

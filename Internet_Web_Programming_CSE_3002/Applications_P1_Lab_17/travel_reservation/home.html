@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="home.css" type="text/css">
+    </head>
+    <body>
+        <div>
+            <h1>Travel Reservation form</h1>
+            <h2>* denotes mandatory</h2>
+            <p>Full name*:</p>
+            <input type="text" placeholder="FirstName LastName" name="full_name" autofocus ><br>
+            <p>address*:</p>
+            <input type="text" placeholder="EMAIL_ADDRESS" name="email_address" ><br>
+            <p>Select Tour Package*:</p>
+            <select name = "dropdown">
+                <option value="Goa" >Goa</option>
+                <option value="Ooty">Ooty</option>
+                <option value="Paris">Paris</option>
+                <option value="New York">New York</option>
+            </select><br>
+            <p>Arrival date*:</p>
+            <input type="text" placeholder="mm/dd/yyyy" name="date" ><br>
+            <p>Number of person*:</p>
+            <input type="number" placeholder="UNKNOWN_TYPE" name="members" ><br>
+            <p>What would you want to avail?*</p>
+            Boarding<input type="checkbox" name="la" value="Boarding"> 
+            <br>
+            Fooding<input type="checkbox" name="la" value="Fooding"> 
+            <br>
+            Sight seeing<input type="checkbox" name="la" value="Sight"> 
+            <br>
+            <p> Coupon code:</p>
+            <input type="text" placeholder="UNKNOWN_TYPE" name="discount" ><br>
+            <p>Terms and conditions*</p>
+            <input type="radio" value="Iagree" name="rad" checked>I agree
+            <input type="radio" value="Idisagree" name="rad">I disagree<br>
+            <br>
+            <button type="submit" name="submit">
+                Complete reservation
+            </button>
+        </div>
+    </body>
+</html>

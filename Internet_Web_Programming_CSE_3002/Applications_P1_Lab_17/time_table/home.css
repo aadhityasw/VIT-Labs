@@ -1,0 +1,37 @@
+body{
+    margin: auto;
+    padding: auto;
+}
+table,td,tr,th{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+table{
+    margin: auto;
+}
+th{
+    font: bolder 14px ;
+    font-family: Calibri sans-serif
+}
+td{
+    font: 12px Arial;
+}
+td:nth-child(1){
+    background-color: violet
+}
+td:nth-child(2){
+    background-color: indigo
+}
+td:nth-child(3){
+    background-color: blue
+}
+td:nth-child(4){
+    background-color: green
+}
+td:nth-child(5){
+    background-color: yellow
+}
+h1{
+    font-style: bold;
+}

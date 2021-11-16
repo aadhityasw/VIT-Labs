@@ -1,0 +1,14 @@
+table{
+    border: 2px solid lightgray;
+    margin: auto;
+    width: 500px;
+}
+th{
+    background-color: lightgray;
+}
+tr,th,td{
+    padding: 20px;
+}
+tr:nth-child(2n){
+    background-color:rgb(170, 225, 20);
+}

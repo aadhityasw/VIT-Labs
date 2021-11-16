@@ -124,3 +124,14 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 | S.no | Title |
 | ---- | --------------------- |
 | 1 | [Creation of new text Modules](./DOM_Lab_16/) |
+
+
+#### 17. [IWP Applications - Part I](./Applications_P1_Lab_17)
+
+| S.no | Title |
+| ---- | --------------------- |
+| 1 | [Time Table](./Applications_P1_Lab_17/time_table) |
+| 2 | [Zebra Striping table](./Applications_P1_Lab_17/zebra_table) |
+| 3 | [Navigation Bar](./Applications_P1_Lab_17/nav_bar) |
+| 4 | [Student Information Form](./Applications_P1_Lab_17/student_form) |
+| 5 | [Travel Reservation Form](./Applications_P1_Lab_17/travel_reservation) |

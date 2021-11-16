@@ -1,0 +1,40 @@
+body{
+    margin: 0%;
+}
+.navbar{
+    list-style-type:none;
+    padding: 0px
+}
+.navbar li{ 
+    display: inline-block;
+    position: relative;
+    padding: 10px;
+    font-size: x-large;
+}
+.main{
+    background-color: green;
+    width: 100%;
+}
+.navbar li div{
+    display:block;
+    position: absolute;
+    visibility: hidden;
+    background-color:green;
+}
+li {
+    color: white;
+}
+.navbar li:hover{
+    cursor: pointer;
+}
+.navbar li:hover div{
+    visibility: visible;
+}
+li:hover{
+    color: orange;
+}
+.navbar li>div>ul{
+    display: block;
+    padding: 2px;
+    list-style-type: none;
+}   

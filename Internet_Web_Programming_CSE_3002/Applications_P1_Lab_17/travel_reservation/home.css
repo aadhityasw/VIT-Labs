@@ -1,0 +1,12 @@
+div{
+    margin: auto;
+    padding: auto;
+    width: fit-content;
+}
+p{
+    margin: 10px;
+    display: block;
+}
+input,button{
+    padding: 10px;
+}
