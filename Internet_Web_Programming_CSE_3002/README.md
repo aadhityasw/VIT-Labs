@@ -95,3 +95,12 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 | S.no | Title |
 | ---- | --------------------- |
 | 1 | [VMart Shopping Store](./Shooping_Cart_Lab_12/home.html) |
+
+
+#### 13. [Web Applications - Calculator and Forms](./Forms_and_Calculator_Lab_13)
+
+| S.no | Title |
+| ---- | --------------------- |
+| 1 | [Calculator](./Forms_and_Calculator_Lab_13/Calculator/home.php) |
+| 2 | [Admission Form](./Forms_and_Calculator_Lab_13/Admission/home.php) |
+

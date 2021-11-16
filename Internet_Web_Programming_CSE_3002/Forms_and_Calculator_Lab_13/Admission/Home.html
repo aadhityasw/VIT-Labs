@@ -1,0 +1,61 @@
+<html>
+    <head>
+        <script src="index.js"></script>
+        <title>School Admission</title>
+    </head>
+    <body onload="displayDate()">
+        <h1>School Admissions</h1>
+        <h5 id="date"></h5>
+        <form onsubmit="formSubmitted()" method="post" id="admission">
+            <table>
+                <tr>
+                    <td>Application Number</td>
+                    <td>
+                        <input type="number" name="Application Number" id="applno">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Name</td>
+                    <td>
+                        <input type="text" name="Name" id="name">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Standard</td>
+                    <td>
+                        <select name="std" id="std">
+                            <option value="1">1st Standard</option>
+                            <option value="2">2nd Standard</option>
+                            <option value="3">3rd Standard</option>
+                            <option value="4">4th Standard</option>
+                            <option value="5">5th Standard</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Email</td>
+                    <td>
+                        <input type="text" name="email" id="email">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Captcha</td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="text" name="Captcha" id="captcha" onclick="generateCaptcha()">
+                    </td>
+                    <td>
+                        <input type="text" name="captcha-entered" id="captcha-entered">
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <button type="submit">Submit</button>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>
