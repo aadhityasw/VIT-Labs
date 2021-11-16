@@ -1,0 +1,33 @@
+body {
+    margin: auto;
+    padding: 0px;
+    padding-top: 30px;
+}
+
+h1 {
+    margin: auto;
+    padding-bottom: 50px;
+    width: fit-content;
+}
+
+table {
+    margin: auto;
+    padding: 0px;
+
+}
+
+tr, td {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+td {
+    font-weight: bold;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+td:hover {
+    background-color: aqua;
+    font-weight: bolder;
+}

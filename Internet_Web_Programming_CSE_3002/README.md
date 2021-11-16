@@ -135,3 +135,12 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 | 3 | [Navigation Bar](./Applications_P1_Lab_17/nav_bar) |
 | 4 | [Student Information Form](./Applications_P1_Lab_17/student_form) |
 | 5 | [Travel Reservation Form](./Applications_P1_Lab_17/travel_reservation) |
+
+
+#### 18. [IWP Applications - Part II](./Applications_P2_Lab_18)
+
+| S.no | Title |
+| ---- | --------------------- |
+| 1 | [Leave Processing Application](./Applications_P2_Lab_18/leave_processing) |
+| 2 | [Number Search](./Applications_P2_Lab_18/number_search) |
+| 3 | [Calendar](./Applications_P2_Lab_18/calendar) |
