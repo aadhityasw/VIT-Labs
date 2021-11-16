@@ -1,0 +1,29 @@
+<!-- JS DOM -->
+<html>
+    <head>
+        <script>
+            function test()
+            {
+                var x = document.getElementById("boddy");
+                //x[0].innerHTML = "<h1> HA HA HA HA HA </h1>";
+                //var v = x[0].getElementsByTagName("input")[0];
+                //x[0].removeChild(v);
+                //x[0].setAttribute('onclick', 'alert("HI")');
+                var par = document.createElement("h1");
+                var tx = document.createTextNode("jxcvndfil");
+                par.appendChild(tx);
+                x.appendChild(par);
+                console.log(x);
+                event.preventDefault();
+            }
+        </script>
+    </head>
+    <body id="boddy">
+        <form action="" method="post" onsubmit=" return test()" id="ff">
+            <input type="text" name="" id="tesst" class="fclass">
+            <input type="submit" value="Submit" id="boddy">
+        </form>
+        <h1 class="fclass">hi</h1>
+        <h1>h22</h1>
+    </body>
+</html>

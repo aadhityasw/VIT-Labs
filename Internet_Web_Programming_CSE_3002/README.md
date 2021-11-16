@@ -117,3 +117,10 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 | S.no | Title |
 | ---- | --------------------- |
 | 1 | [Registration Form](./Database_Connectivity_Lab_15/) |
+
+
+#### 16. [JS - Explore DOM](./DOM_Lab_16)
+
+| S.no | Title |
+| ---- | --------------------- |
+| 1 | [Creation of new text Modules](./DOM_Lab_16/) |
