@@ -1,0 +1,100 @@
+<html>
+    <head>
+        <title>Form Validation</title>
+        <script src='index.js'></script>
+        <style>
+            body {
+                margin: auto;
+                padding: 0%;
+            }
+            .error {
+                color: red;
+                font-weight: bolder;
+            }
+        </style>
+    </head>
+
+    <body>
+        <br><br><br>
+        <h1 style="width: fit-content; margin: auto;">Personal Details</h1>
+        <br><br><br>
+
+        <form onsubmit="formSubmitted()" style="width: fit-content; margin: auto;">
+            <table>
+                <tr>
+                    <th>First Name</th>
+                    <td><input type="text" name="name" id="name" onchange="checkName()"></td>
+                    <td><p id="name_error" class="error" style="display: none;">Invalid Name</p></td>
+                </tr>
+                <tr>
+                    <th>Email</th>
+                    <td><input type="email" id="email" onchange="checkEmail()" ></td>
+                    <td><p id="email_error" class="error" style="display: none;">Invalid Email Address</p></td>
+                </tr>
+                <tr>
+                    <th>Phone</th>
+                    <td><input type="number" name="phone" id="phone" onchange="checkPhone()"></td>
+                    <td><p id="phone_error" class="error" style="display: none;">Invalid Phone Number</p></td>
+                </tr>
+                <tr>
+                    <th>Password</th>
+                    <td><input type="password" name="pass" id="pass" onchange="checkPassword()"></td>
+                    <td><p id="pass_error" class="error" style="display: none;">Invalid Password</p></td>
+                </tr>
+                <tr>
+                    <th>Verify Password</th>
+                    <td><input type="text" name="vpass" id="vpass" onchange="verifyPassword()"></td>
+                    <td><p id="vpass_error" class="error" style="display: none;">Passwords do not match</p></td>
+                </tr>
+                <tr>
+                    <th>Date of Birth</th>
+                    <td>
+                        <select name="month" id="month">
+                            <option value="1" selected>1-Jan</option>
+                            <option value="2" >2-Feb</option>
+                            <option value="3" >3-Mar</option>
+                            <option value="4" >5-Apr</option>
+                            <option value="5" >6-May</option>
+                            <option value="6" >7-Jun</option>
+                            <option value="7" >8-Jul</option>
+                            <option value="8" >9-Aug</option>
+                            <option value="9" >10-Sept</option>
+                            <option value="10" >1-Oct</option>
+                            <option value="11" >1-Nov</option>
+                            <option value="12" >1-Dec</option>
+                        </select>
+                        <select name="date" id="date">
+                            <option value="1" selected>1</option>
+                            <option value="2" >1</option>
+                            <option value="3" >1</option>
+                            <option value="4" >1</option>
+                            <option value="5" >1</option>
+                            <option value="6" >1</option>
+                            <option value="20" >1</option>
+                            <option value="30" >1</option>
+                        </select>
+                        <input type="number" name="year" id="year" onchange="checkYear()" style="width: 5em;">
+                        <td><p id="year_error" class="error" style="display: none;">Invalid Year</p></td>
+                    </td>
+                </tr>
+                <tr>
+                    <th>Weight</th>
+                    <td>
+                        <input type="number" name="weight" id="weight" onchange="checkWeight()" style="width: 5em;">
+                        <select name="wm" id="wm">
+                            <option value="lb" selected>lb</option>
+                            <option value="kg">kg</option>
+                        </select>
+                        <td><p id="weight_error" class="error" style="display: none;">Invalid Weight</p></td>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td colspan="2">
+                        <button type="submit">Submit</button>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>
