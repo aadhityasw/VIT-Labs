@@ -102,5 +102,11 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 | S.no | Title |
 | ---- | --------------------- |
 | 1 | [Calculator](./Forms_and_Calculator_Lab_13/Calculator/home.php) |
-| 2 | [Admission Form](./Forms_and_Calculator_Lab_13/Admission/home.php) |
+| 2 | [Admission Form](./Forms_and_Calculator_Lab_13/Admission/home.html) |
 
+
+#### 14. [PHP - Email Server](./Email_Lab_14)
+
+| S.no | Title |
+| ---- | --------------------- |
+| 1 | [Email Server](./Email_Lab_14/) |
