@@ -112,7 +112,7 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 | 1 | [Email Server](./Email_Lab_14/) |
 
 
-#### 14. [PHP and MySQL - Database Connectivity](./Database_Connectivity_Lab_15)
+#### 15. [PHP and MySQL - Database Connectivity](./Database_Connectivity_Lab_15)
 
 | S.no | Title |
 | ---- | --------------------- |
