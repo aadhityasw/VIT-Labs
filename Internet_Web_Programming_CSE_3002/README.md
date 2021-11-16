@@ -110,3 +110,10 @@ PHP can be installed by many means, but I recommend the use of XAMPP which comes
 | S.no | Title |
 | ---- | --------------------- |
 | 1 | [Email Server](./Email_Lab_14/) |
+
+
+#### 14. [PHP and MySQL - Database Connectivity](./Database_Connectivity_Lab_15)
+
+| S.no | Title |
+| ---- | --------------------- |
+| 1 | [Registration Form](./Database_Connectivity_Lab_15/) |
