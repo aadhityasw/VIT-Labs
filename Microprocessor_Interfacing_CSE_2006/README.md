@@ -16,3 +16,8 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for prog
 
 ## List of Programs
 
+#### 1. [Exploring Adressing Modes](./Addressing_Modes_Lab_1)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Addition of two Numbers](./Addressing_Modes_Lab_1/addition.asm) |
