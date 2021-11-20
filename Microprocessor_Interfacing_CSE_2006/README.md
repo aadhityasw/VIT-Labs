@@ -21,3 +21,12 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for prog
 | S.no | Title |
 | ---- | ----- |
 | 1 | [Addition of two Numbers](./Addressing_Modes_Lab_1/addition.asm) |
+
+
+#### 2. [Arithmetic Calculations](./Arithmetic_Calculations_Lab_2)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Addition with 16 bit registers](./Arithmetic_Calculations_Lab_2/addition_16bit.asm) |
+| 2 | [Addition with 8 bit registers](./Arithmetic_Calculations_Lab_2/addition_8bit.asm) |
+| 3 | [Multiplication](./Arithmetic_Calculations_Lab_2/multiplication.asm) |
