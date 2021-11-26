@@ -49,3 +49,11 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for prog
 | 2 | [Sort Array in Ascending order](./Array_Manipulations_Lab_4/sort_asc.asm) |
 | 3 | [Smallest number in array](./Array_Manipulations_Lab_4/smallest.asm) |
 | 4 | [Largest number in array](./Array_Manipulations_Lab_4/largest.asm) |
+
+
+#### 5. [Base Conversion and Matrices](./Base_Conversion_and_Matrices_Lab_5)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [BCD to Hexadecimal](./Base_Conversion_and_Matrices_Lab_5/bcd_to_hex.asm) |
+| 2 | [Sum of Matrices](./Base_Conversion_and_Matrices_Lab_5/matrix_sum.asm) |
