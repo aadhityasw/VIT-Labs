@@ -82,3 +82,10 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for prog
 | S.no | Title |
 | ---- | ----- |
 | 1 | [Rotate Motor](./Stepper_Motor_Lab_8/rotate.asm) |
+
+
+#### 9. [Signal Conversion](./Signal_Conversion_Lab_9)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Analog to Digital Converter](./Signal_Conversion_Lab_9/converter.asm) |
