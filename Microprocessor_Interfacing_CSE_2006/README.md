@@ -39,3 +39,13 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for prog
 | 1 | [Addition](./Arrays_Lab_3/addition.asm) |
 | 2 | [Multiplication](./Arrays_Lab_3/multiplication.asm) |
 | 3 | [Fibonacci Series](./Arrays_Lab_3/fibonacci.asm) |
+
+
+#### 4. [Array Manipulations](./Array_Manipulations_Lab_4)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Sort Array in Descending order](./Array_Manipulations_Lab_4/sort_desc.asm) |
+| 2 | [Sort Array in Ascending order](./Array_Manipulations_Lab_4/sort_asc.asm) |
+| 3 | [Smallest number in array](./Array_Manipulations_Lab_4/smallest.asm) |
+| 4 | [Largest number in array](./Array_Manipulations_Lab_4/largest.asm) |
