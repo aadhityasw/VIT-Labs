@@ -66,3 +66,12 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for prog
 | 1 | [Two's Complement](./Math_Calculations_Lab_6/two_complement.asm) |
 | 2 | [Permutation](./Math_Calculations_Lab_6/permutation.asm) |
 | 3 | [Combination](./Math_Calculations_Lab_6/combination.asm) |
+
+
+#### 7. [Strings](./Strings_Lab_7)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Scan data](./Strings_Lab_7/data_scan.asm) |
+| 2 | [Equal Strings](./Strings_Lab_7/equal_strings.asm) |
+| 3 | [String Reverse](./Strings_Lab_7/string_reverse.asm) |
