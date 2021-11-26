@@ -57,3 +57,12 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for prog
 | ---- | ----- |
 | 1 | [BCD to Hexadecimal](./Base_Conversion_and_Matrices_Lab_5/bcd_to_hex.asm) |
 | 2 | [Sum of Matrices](./Base_Conversion_and_Matrices_Lab_5/matrix_sum.asm) |
+
+
+#### 6. [Mathematic Calculations](./Math_Calculations_Lab_6)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Two's Complement](./Math_Calculations_Lab_6/two_complement.asm) |
+| 2 | [Permutation](./Math_Calculations_Lab_6/permutation.asm) |
+| 3 | [Combination](./Math_Calculations_Lab_6/combination.asm) |
