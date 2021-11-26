@@ -75,3 +75,10 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for prog
 | 1 | [Scan data](./Strings_Lab_7/data_scan.asm) |
 | 2 | [Equal Strings](./Strings_Lab_7/equal_strings.asm) |
 | 3 | [String Reverse](./Strings_Lab_7/string_reverse.asm) |
+
+
+#### 8. [Stepper Motor](./Stepper_Motor_Lab_8)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Rotate Motor](./Stepper_Motor_Lab_8/rotate.asm) |
