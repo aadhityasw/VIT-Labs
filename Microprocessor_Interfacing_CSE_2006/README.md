@@ -90,3 +90,13 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for prog
 | S.no | Title |
 | ---- | ----- |
 | 1 | [Analog to Digital Converter](./Signal_Conversion_Lab_9/converter.asm) |
+
+
+#### 10. [Applications with MASM](./Applications_Lab_10)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Divisibility](./Applications_Lab_10/divisibility.asm) |
+| 2 | [Time Delays](./Applications_Lab_10/delay.asm) |
+| 3 | [Number Comparator](./Applications_Lab_10/comparator.asm) |
+| 4 | [Sorting Array](./Applications_Lab_10/array_sort.asm) |
