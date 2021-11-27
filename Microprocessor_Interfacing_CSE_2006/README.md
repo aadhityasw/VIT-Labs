@@ -100,3 +100,7 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for prog
 | 2 | [Time Delays](./Applications_Lab_10/delay.asm) |
 | 3 | [Number Comparator](./Applications_Lab_10/comparator.asm) |
 | 4 | [Sorting Array](./Applications_Lab_10/array_sort.asm) |
+
+
+
+Note : The PDF version of the submissions for the labs 1 till 9 are available together as a single file uploaded to this folder. You can access it in this location : [Microprocessor_Labs.pdf](./Microprocessor_Labs.pdf).
