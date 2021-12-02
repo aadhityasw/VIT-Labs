@@ -7,7 +7,7 @@ These labs require the use of a linux machine, but dont worry if you use any oth
 
 In case you do not have a linux environment, I would suggest the use of a Virtual Machine to run your linux environment. As I have used this as well, I will mention the procedure to use this for the following labs.
 
-The setup procedure consists of installing the Oracle Virtual Box, and then running a Ubuntu Virtual Machine inside. This being said, you can use any linux distros instead of Ubuntu. You can use [this article](https://www.wikihow.com/Install-Ubuntu-on-VirtualBox) from wikihow for the installation process.
+The setup procedure consists of installing the Oracle Virtual Box, and then running a Ubuntu Virtual Machine inside. This being said, you can use any linux distros instead of Ubuntu. You can use [this article](https://www.wikihow.com/Install-Ubuntu-on-VirtualBox) from wikihow for the installation process. You will also require the NASM compiler for certain labs, so ensure that this is installed and set up.
 
 Also feel free to follow any other tutorial if you find it simpler, and if you do find any add them here for others to use.
 
