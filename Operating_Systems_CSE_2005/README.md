@@ -24,4 +24,11 @@ In this lab, we explore a few basic linux terminal commands just to get comforta
 
 #### 2. [Printing Characters](./Printing_Characters_Lab_2)
 
-In this lab, we use the c language to create an image to print a character to the screen.
+In this lab, we use the assembly language to create an image to print a character to the screen.
+
+
+#### 3. [Printing Strings](./Printing_Strings_Lab_3)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Name Display](./Printing_Strings_Lab_3/print_name.asm) |
