@@ -1,0 +1,19 @@
+# Operating Systems - CSE2005
+
+
+## Setup
+
+These labs require the use of a linux machine, but dont worry if you use any other operating systems. The programs can be executed in any environments directly, but the procedure for this would slightly differ based on the operating system and are not being disscussed here.
+
+In case you do not have a linux environment, I would suggest the use of a Virtual Machine to run your linux environment. As I have used this as well, I will mention the procedure to use this for the following labs.
+
+The setup procedure consists of installing the Oracle Virtual Box, and then running a Ubuntu Virtual Machine inside. This being said, you can use any linux distros instead of Ubuntu. You can use [this article](https://www.wikihow.com/Install-Ubuntu-on-VirtualBox) from wikihow for the installation process.
+
+Also feel free to follow any other tutorial if you find it simpler, and if you do find any add them here for others to use.
+
+I would suggest the use of any code editors like `VS Code` or `Sublime` for programming, as they provide syntax highlighting and have intellisense features which simplify your coding process.
+
+
+
+## List of Programs
+
