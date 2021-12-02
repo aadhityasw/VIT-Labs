@@ -17,3 +17,13 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for prog
 
 ## List of Programs
 
+#### 1. [Exploring Basic Linux Commands](./Linux_Commands_Lab_1)
+
+In this lab, we explore a few basic linux terminal commands just to get comfortable with the new operating system.
+
+
+
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Addition of two Numbers](./Addressing_Modes_Lab_1/addition.asm) |
