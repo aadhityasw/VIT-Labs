@@ -22,8 +22,6 @@ I would suggest the use of any code editors like `VS Code` or `Sublime` for prog
 In this lab, we explore a few basic linux terminal commands just to get comfortable with the new operating system.
 
 
+#### 2. [Printing Characters](./Printing_Characters_Lab_2)
 
-
-| S.no | Title |
-| ---- | ----- |
-| 1 | [Addition of two Numbers](./Addressing_Modes_Lab_1/addition.asm) |
+In this lab, we use the c language to create an image to print a character to the screen.
