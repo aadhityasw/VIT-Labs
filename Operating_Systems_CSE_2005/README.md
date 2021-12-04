@@ -33,3 +33,11 @@ In this lab, we use the assembly language to create an image to print a characte
 | ---- | ----- |
 | 1 | [Name Display](./Printing_Strings_Lab_3/print_name.asm) |
 | 2 | [Infinite Loops](./Printing_Strings_Lab_3/infinite_loops.asm) |
+
+
+#### 4. [Multithreading - Forks](./Multithreading_Forks_Lab_4)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Message From Threads](./Multithreading_Forks_Lab_4/threads.c) |
+| 2 | [Thread ID's](./Multithreading_Forks_Lab_4/multiple_forks.c) |
