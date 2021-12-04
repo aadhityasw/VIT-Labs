@@ -32,3 +32,4 @@ In this lab, we use the assembly language to create an image to print a characte
 | S.no | Title |
 | ---- | ----- |
 | 1 | [Name Display](./Printing_Strings_Lab_3/print_name.asm) |
+| 2 | [Infinite Loops](./Printing_Strings_Lab_3/infinite_loops.asm) |
