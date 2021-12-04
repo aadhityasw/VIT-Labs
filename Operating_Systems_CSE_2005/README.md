@@ -41,3 +41,13 @@ In this lab, we use the assembly language to create an image to print a characte
 | ---- | ----- |
 | 1 | [Message From Threads](./Multithreading_Forks_Lab_4/threads.c) |
 | 2 | [Thread ID's](./Multithreading_Forks_Lab_4/multiple_forks.c) |
+
+
+#### 5. [Multithreading - Basics](./Multithreading_Basics_Lab_5)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Thread Data](./Multithreading_Basics_Lab_5/print_thread_data.c) |
+| 2 | [Functions for Threads](./Multithreading_Basics_Lab_5/thread_functions.c) |
+| 3 | [Semaphores](./Multithreading_Basics_Lab_5/semaphores.c) |
+| 4 | [Multitasking](./Multithreading_Basics_Lab_5/multitasking.c) |
