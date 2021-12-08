@@ -1,5 +1,5 @@
 ifneq ($(KERNELRELEASE),)
-	obj-m := A.o
+	obj-m := kernel_data.o
 else
 	KERNELDIR ?= /lib/modules/$(shell uname -r)/build
 	PWD := $(shell pwd)
