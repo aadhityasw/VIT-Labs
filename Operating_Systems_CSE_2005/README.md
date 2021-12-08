@@ -51,3 +51,11 @@ In this lab, we use the assembly language to create an image to print a characte
 | 2 | [Functions for Threads](./Multithreading_Basics_Lab_5/thread_functions.c) |
 | 3 | [Semaphores](./Multithreading_Basics_Lab_5/semaphores.c) |
 | 4 | [Multitasking](./Multithreading_Basics_Lab_5/multitasking.c) |
+
+
+#### 6. [Multithreading - KThreads](./Kernel_Threads_Lab_6)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Kernel Threads Workflow](./Kernel_Threads_Lab_6/k_thread_workflow/k_thread_workflow.c) |
+| 2 | [Kernel Data](./Kernel_Threads_Lab_6/kernel_data/kernel_data.c) |
