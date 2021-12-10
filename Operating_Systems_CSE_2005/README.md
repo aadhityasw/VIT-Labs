@@ -76,3 +76,10 @@ In this lab, we use the assembly language to create an image to print a characte
 | S.no | Title |
 | ---- | ----- |
 | 1 | [Scheduling Algorithms](./Scheduling_Algorithms_Lab_8/scheduling.c) |
+
+
+#### 9. [Deadlocks](./Deadlocks_Lab_9)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Deadlock Identification](./Deadlocks_Lab_9/deadlock.c) |
