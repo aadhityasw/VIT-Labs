@@ -60,3 +60,12 @@ In this lab, we use the assembly language to create an image to print a characte
 | 1 | [Kernel Threads Workflow](./Kernel_Threads_Lab_6/k_thread_workflow/k_thread_workflow.c) |
 | 2 | [Kernel Data](./Kernel_Threads_Lab_6/kernel_data/kernel_data.c) |
 | 3 | [Kernel Thread Function](./Kernel_Threads_Lab_6/kernel_thread_function/kernel_thread.c) |
+
+
+#### 7. [Multithreading - Classical Problems](./Classical_Problems_Lab_7)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Producer Consumer](./Classical_Problems_Lab_7/producer_consumer.c) |
+| 2 | [Dining Philosopher](./Classical_Problems_Lab_7/dining_philosopher.c) |
+| 3 | [Reader Writer](./Classical_Problems_Lab_7/reader_writer.c) |
