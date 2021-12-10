@@ -69,3 +69,10 @@ In this lab, we use the assembly language to create an image to print a characte
 | 1 | [Producer Consumer](./Classical_Problems_Lab_7/producer_consumer.c) |
 | 2 | [Dining Philosopher](./Classical_Problems_Lab_7/dining_philosopher.c) |
 | 3 | [Reader Writer](./Classical_Problems_Lab_7/reader_writer.c) |
+
+
+#### 8. [Job Scheduling Algorithms](./Scheduling_Algorithms_Lab_8)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Scheduling Algorithms](./Scheduling_Algorithms_Lab_8/scheduling.c) |
