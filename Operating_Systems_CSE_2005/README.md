@@ -83,3 +83,10 @@ In this lab, we use the assembly language to create an image to print a characte
 | S.no | Title |
 | ---- | ----- |
 | 1 | [Deadlock Identification](./Deadlocks_Lab_9/deadlock.c) |
+
+
+#### 10. [Memory Allocation](./Memory_Allocation_Lab_10)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Dynamic Memory Allocation Strategies](./Memory_Allocation_Lab_10/allocation_strategies.cpp) |
