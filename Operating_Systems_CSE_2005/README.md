@@ -99,3 +99,10 @@ In this lab, we use the assembly language to create an image to print a characte
 | 1 | [Forks](./Applications_Lab_11/forks.c) |
 | 2 | [Sorting](./Applications_Lab_11/sorting.c) |
 | 3 | [Zombie and Orphan Processes](./Applications_Lab_11/zombie_orphan.c) |
+
+
+#### 12. [Kernel Modules](./Kernel_Modules_Lab_12)
+
+| S.no | Title |
+| ---- | ----- |
+| 1 | [Process Creation Kernel Module](./Kernel_Modules_Lab_12/kernel.c) |
