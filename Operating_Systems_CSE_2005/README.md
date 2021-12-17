@@ -92,10 +92,10 @@ In this lab, we use the assembly language to create an image to print a characte
 | 1 | [Dynamic Memory Allocation Strategies](./Memory_Allocation_Lab_10/allocation_strategies.cpp) |
 
 
-#### 11. [Applications - Part I](./Applications_Part1_Lab_11)
+#### 11. [Applications](./Applications_Lab_11)
 
 | S.no | Title |
 | ---- | ----- |
-| 1 | [Forks](./Applications_Part1_Lab_11/forks.c) |
-| 2 | [Sorting](./Applications_Part1_Lab_11/sorting.c) |
-| 3 | [Zombie and Orphan Processes](./Applications_Part1_Lab_11/zombie_orphan.c) |
+| 1 | [Forks](./Applications_Lab_11/forks.c) |
+| 2 | [Sorting](./Applications_Lab_11/sorting.c) |
+| 3 | [Zombie and Orphan Processes](./Applications_Lab_11/zombie_orphan.c) |
