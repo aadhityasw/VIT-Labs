@@ -84,3 +84,10 @@ We have also dealt with hidden data streams in the NTFS file systems, and have d
 In this exercise, we analyse the forensic image of the drives of FAT, GPT or NTFS file formats.
 
 * [Disk Explorer](https://www.runtime.org/diskexplorer.htm)
+
+
+#### 9. [File Signature Analysis](./File_Signatures_Lab_9)
+
+In this exercise, we analyse the file formats namely how they are identified by the file management system and also thus by the operating systems.
+
+* [Winhex Hexadecimal Editor](https://x-ways.net/winhex/)
