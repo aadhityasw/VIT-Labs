@@ -17,6 +17,9 @@ There is also a slew of softwares, and web applications which are required to co
 2. [Microsoft’s Log Parser Tool](https://www.microsoft.com/en-us/download/details.aspx?id=24659)
 3. [Microsoft Event Viewer](https://docs.microsoft.com/en-us/host-integration-server/core/windows-event-viewer1)
 4. [Event Log Explorer](https://eventlogxp.com/download.php)
+5. [Strings utility](https://docs.microsoft.com/en-us/sysinternals/downloads/strings)
+6. [Event Log Explorer](https://www.digital-detective.net/dcode/)
+7. [7Zip](https://www.7-zip.org/download.html)
 
 
 
@@ -43,3 +46,11 @@ In this exercise, we will use this tool to find the events like log in log out a
 * [Microsoft Event Viewer](https://docs.microsoft.com/en-us/host-integration-server/core/windows-event-viewer1)
 * [Event Log Explorer](https://eventlogxp.com/download.php)
 
+
+#### 4. [File forensics](./File_Forensics_Lab_4)
+
+In this exercise, we analyse the properties of word (DOCX) files, like viewing it under different circumstances, using different tools and performing date encodings.
+
+* [Strings utility](https://docs.microsoft.com/en-us/sysinternals/downloads/strings)
+* [Event Log Explorer](https://www.digital-detective.net/dcode/)
+* [7Zip](https://www.7-zip.org/download.html)
