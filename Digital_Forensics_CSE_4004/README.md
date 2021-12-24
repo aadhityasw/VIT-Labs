@@ -28,6 +28,7 @@ There is also a slew of softwares, and web applications which are required to co
 13. [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec)
 14. [EaseUS](http://down.easeus.com/product/drw_trial)
 15. [Active UnDelete](http://www.active-undelete.com/undelete.htm)
+16. [Disk Drill](https://www.disk-drill.com)
 
 
 
@@ -108,3 +109,10 @@ In this exercise, we deal with the recovering and restoring files from deleted p
 * [EaseUS](http://down.easeus.com/product/drw_trial)
 * [Active UnDelete](http://www.active-undelete.com/undelete.htm)
 
+
+#### 11. [File Carving](./File_Carving_Lab_11)
+
+In this exercise, we analyse the file and data carving to recover hidden files from within other files, or to recover files from partitions or disk images which are invisible in standard disk management tools, or are visible as unallocated region due to various reasons ranging from it being corrupted to a suspect hiding confidential data in such regions. .
+
+* [Winhex Hexadecimal Editor](https://x-ways.net/winhex/)
+* [Disk Drill](https://www.disk-drill.com)
