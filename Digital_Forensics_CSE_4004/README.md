@@ -60,3 +60,7 @@ In this exercise, we analyse the properties of word (DOCX) files, like viewing i
 
 In this exercise, we have dealt with and seen how the command line tools and the shell commands are run, a few examples of how powerful they are, and also seen how such commands can be grouped together and executed at once like executing scripts using batch files.
 
+
+#### 6. [Identifying file types](./File_Formats_Lab_6)
+
+In this exercise, we analyse the various file extensions and formats available and popularly used.
