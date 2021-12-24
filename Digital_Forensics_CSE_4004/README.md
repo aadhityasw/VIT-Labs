@@ -23,6 +23,11 @@ There is also a slew of softwares, and web applications which are required to co
 8. [Winhex Hexadecimal Editor](https://x-ways.net/winhex/)
 9. [Streams utility](https://docs.microsoft.com/en-us/sysinternals/downloads/streams)
 10. [Disk Explorer](https://www.runtime.org/diskexplorer.htm)
+11. [Windows Disk Management Tool](https://docs.microsoft.com/en-us/windows-server/storage/disk-management/overview-of-disk-management)
+12. [Test Disk](https://www.cgsecurity.org/wiki/TestDisk)
+13. [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec)
+14. [EaseUS](http://down.easeus.com/product/drw_trial)
+15. [Active UnDelete](http://www.active-undelete.com/undelete.htm)
 
 
 
@@ -91,3 +96,15 @@ In this exercise, we analyse the forensic image of the drives of FAT, GPT or NTF
 In this exercise, we analyse the file formats namely how they are identified by the file management system and also thus by the operating systems.
 
 * [Winhex Hexadecimal Editor](https://x-ways.net/winhex/)
+
+
+#### 10. [Recovering Deleted Partitions and Deleted Files](./Partition_Recovery_Lab_10)
+
+In this exercise, we deal with the recovering and restoring files from deleted partitions of a hard disk drive and also from partitions which are invisible in standard disk management tools, or are visible as unallocated region due to various reasons ranging from it being corrupted to a suspect hiding confidential data in such regions..
+
+* [Windows Disk Management Tool](https://docs.microsoft.com/en-us/windows-server/storage/disk-management/overview-of-disk-management)
+* [Test Disk](https://www.cgsecurity.org/wiki/TestDisk)
+* [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec)
+* [EaseUS](http://down.easeus.com/product/drw_trial)
+* [Active UnDelete](http://www.active-undelete.com/undelete.htm)
+
