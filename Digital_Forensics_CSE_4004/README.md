@@ -22,6 +22,7 @@ There is also a slew of softwares, and web applications which are required to co
 7. [7Zip](https://www.7-zip.org/download.html)
 8. [Winhex Hexadecimal Editor](https://x-ways.net/winhex/)
 9. [Streams utility](https://docs.microsoft.com/en-us/sysinternals/downloads/streams)
+10. [Disk Explorer](https://www.runtime.org/diskexplorer.htm)
 
 
 
@@ -76,3 +77,10 @@ We have also dealt with hidden data streams in the NTFS file systems, and have d
 
 * [Winhex Hexadecimal Editor](https://x-ways.net/winhex/)
 * [Streams utility](https://docs.microsoft.com/en-us/sysinternals/downloads/streams)
+
+
+#### 8. [Investigating NTFS / FAT/ Linux drives](./Investigating_Drives_Lab_8)
+
+In this exercise, we analyse the forensic image of the drives of FAT, GPT or NTFS file formats.
+
+* [Disk Explorer](https://www.runtime.org/diskexplorer.htm)
