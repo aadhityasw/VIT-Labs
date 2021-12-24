@@ -15,6 +15,8 @@ There is also a slew of softwares, and web applications which are required to co
 
 1. [An online Hashing Web Application](http://www.fileformat.info/tool/hash.htm)
 2. [Microsoft’s Log Parser Tool](https://www.microsoft.com/en-us/download/details.aspx?id=24659)
+3. [Microsoft Event Viewer](https://docs.microsoft.com/en-us/host-integration-server/core/windows-event-viewer1)
+4. [Event Log Explorer](https://eventlogxp.com/download.php)
 
 
 
@@ -32,4 +34,12 @@ We here deal with the concept of hashing text, files of different formats using 
 We have in this experiment, analysed directories on the hard disk using `Microsoft’s Log Parser Tool`, and performed tasks like knowing the top 10 largest or smallest files in a directory, etc.
 
 * [Microsoft’s Log Parser Tool](https://www.microsoft.com/en-us/download/details.aspx?id=24659)
+
+
+#### 3. [Event log analysis](./Event_Logs_Lab_3)
+
+In this exercise, we will use this tool to find the events like log in log out and an attempt to query the existence of blank password user account, etc.
+
+* [Microsoft Event Viewer](https://docs.microsoft.com/en-us/host-integration-server/core/windows-event-viewer1)
+* [Event Log Explorer](https://eventlogxp.com/download.php)
 
