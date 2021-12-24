@@ -20,6 +20,8 @@ There is also a slew of softwares, and web applications which are required to co
 5. [Strings utility](https://docs.microsoft.com/en-us/sysinternals/downloads/strings)
 6. [Event Log Explorer](https://www.digital-detective.net/dcode/)
 7. [7Zip](https://www.7-zip.org/download.html)
+8. [Winhex Hexadecimal Editor](https://x-ways.net/winhex/)
+9. [Streams utility](https://docs.microsoft.com/en-us/sysinternals/downloads/streams)
 
 
 
@@ -64,3 +66,13 @@ In this exercise, we have dealt with and seen how the command line tools and the
 #### 6. [Identifying file types](./File_Formats_Lab_6)
 
 In this exercise, we analyse the various file extensions and formats available and popularly used.
+
+
+#### 7. [Comparing file structures using a Hex editor](./File_Structures_Lab_7)
+
+In this exercise, we analyse the file formats namely how they are identified by the file management system and also thus by the operating systems.
+
+We have also dealt with hidden data streams in the NTFS file systems, and have discussed ways in which to track them and also to open them.
+
+* [Winhex Hexadecimal Editor](https://x-ways.net/winhex/)
+* [Streams utility](https://docs.microsoft.com/en-us/sysinternals/downloads/streams)
