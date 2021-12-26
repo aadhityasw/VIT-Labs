@@ -34,6 +34,7 @@ There is also a slew of softwares, and web applications which are required to co
 19. [Hxd Hex Editor](https://mh-nexus.de/en/hxd/)
 20. [Hex Workshop](http://www.hexworkshop.com)
 21. [Bitlocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview)
+22. [Autopsy](https://www.autopsy.com)
 
 
 
@@ -150,3 +151,11 @@ Listed below are a few online web applications which can be used to perform anal
 
 * https://dnschecker.org/email-header-analyzer.php
 
+
+#### 15. [Applications](./Applications_Lab_15)
+
+In this exercise, we refresh over the previous topics to have a better grasp on the concepts.
+
+* [Test Disk](https://www.cgsecurity.org/wiki/TestDisk)
+* [Active UnDelete](http://www.active-undelete.com/undelete.htm)
+* [Autopsy](https://www.autopsy.com)
