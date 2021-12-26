@@ -35,6 +35,7 @@ There is also a slew of softwares, and web applications which are required to co
 20. [Hex Workshop](http://www.hexworkshop.com)
 21. [Bitlocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview)
 22. [Autopsy](https://www.autopsy.com)
+23. [Dcode](https://www.digital-detective.net/dcode/)
 
 
 
@@ -69,6 +70,7 @@ In this exercise, we analyse the properties of word (DOCX) files, like viewing i
 * [Strings utility](https://docs.microsoft.com/en-us/sysinternals/downloads/strings)
 * [Event Log Explorer](https://www.digital-detective.net/dcode/)
 * [7Zip](https://www.7-zip.org/download.html)
+* [Dcode](https://www.digital-detective.net/dcode/)
 
 
 #### 5. [Windows Command Line](./Windows_Command_Line_Lab_5)
@@ -150,6 +152,8 @@ In this exercise, we analyse email headers which provide useful functionalities 
 Listed below are a few online web applications which can be used to perform analysis on email headers.
 
 * https://dnschecker.org/email-header-analyzer.php
+* https://toolbox.googleapps.com/apps/messageheader/analyzeheader
+* https://mailheader.org/
 
 
 #### 15. [Applications](./Applications_Lab_15)

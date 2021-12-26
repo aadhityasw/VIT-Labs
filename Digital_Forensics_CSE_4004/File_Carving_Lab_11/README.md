@@ -23,3 +23,8 @@ For this exercise. take two images from a site such as http://dftt.sourceforge.n
 
 
 Include screenshots in your submission. 
+
+
+## References
+
+* https://resources.infosecinstitute.com/topic/file-carving/

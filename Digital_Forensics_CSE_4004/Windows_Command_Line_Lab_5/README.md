@@ -35,4 +35,14 @@ See https://docs.microsoft.com/en-us/windows-server/administration/windows-comma
 Take screenshots in both cases and include them in your submission.
 
 Note: The ARP (Address Resolution Protocol) cache is a collection of ARP entries (mostly dynamic) that are created when a hostname is resolved to an IP address and then an IP address is resolved to a MAC address (so the computer can effectively communicate with the IP address). ARP cache has the disadvantage of being used by hackers and cyber attackers. ARP cache helps the attackers hide behind a fake IP address and do the harm without being caught. ARP cache can also help to prevent the attacks. 
+
 (see https://en.wikipedia.org/wiki/ARP_cache)
+
+
+
+## References
+
+* https://www.digitalcitizen.life/command-prompt-advanced-networking-commands/
+* https://www.windowscentral.com/how-create-and-run-batch-file-windows-10
+* https://stackoverflow.com/questions/5898763/how-do-i-get-the-ip-address-into-a-batch-file-variable
+* https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
