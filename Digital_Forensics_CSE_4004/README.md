@@ -30,6 +30,10 @@ There is also a slew of softwares, and web applications which are required to co
 15. [Active UnDelete](http://www.active-undelete.com/undelete.htm)
 16. [Disk Drill](https://www.disk-drill.com)
 17. [Windows Registry Editor](https://www.regedit.us/)
+18. [Microsoft Diskpart](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/diskpart)
+19. [Hxd Hex Editor](https://mh-nexus.de/en/hxd/)
+20. [Hex Workshop](http://www.hexworkshop.com)
+21. [Bitlocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview)
 
 
 
@@ -124,3 +128,15 @@ In this exercise, we analyse the file and data carving to recover hidden files f
 In this exercise, we analyse the various keys associated with the Windows operating system, namely how we can use this internal data tool to explore the various scenarios which is done during a forensic investigation.
 
 * [Windows Registry Editor](https://www.regedit.us/)
+
+
+#### 13. [Data hiding techniques](./Data_Hiding_Lab_13)
+
+In this exercise, we analyse the possible methods for hiding data, and also discussed on how such hidden data can be identified and even retrieved for that matter. We have also shown these with appropriate evidence in execution.
+
+* [Microsoft Diskpart](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/diskpart)
+* [Windows Disk Management Tool](https://docs.microsoft.com/en-us/windows-server/storage/disk-management/overview-of-disk-management)
+* [Hxd Hex Editor](https://mh-nexus.de/en/hxd/)
+* [Hex Workshop](http://www.hexworkshop.com)
+* [Encryption / Decryption Web Tools](https://aesencryption.net)
+* [Bitlocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview)
