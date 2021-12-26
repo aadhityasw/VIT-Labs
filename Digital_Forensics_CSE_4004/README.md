@@ -140,3 +140,13 @@ In this exercise, we analyse the possible methods for hiding data, and also disc
 * [Hex Workshop](http://www.hexworkshop.com)
 * [Encryption / Decryption Web Tools](https://aesencryption.net)
 * [Bitlocker](https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview)
+
+
+#### 14. [Email forensics](./Email_Forensics_Lab_14)
+
+In this exercise, we analyse email headers which provide useful functionalities for ease of forensic analysis. This is especially a booming field of digital forensics, as we humans rely on emails and other such forms of such communications.
+
+Listed below are a few online web applications which can be used to perform analysis on email headers.
+
+* https://dnschecker.org/email-header-analyzer.php
+
