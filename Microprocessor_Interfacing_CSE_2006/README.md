@@ -14,6 +14,35 @@ Also feel free to follow any other tutorial if you find it simpler, and if you d
 I would suggest the use of any code editors like `VS Code` or `Sublime` for programming, as they provide syntax highlighting and have intellisense features which simplify your coding process.
 
 
+## Steps For Execution
+
+In order to compile and execute the programs, we would need a MASM compiler, and as specfied above, we will be using it in a DOS BOX environment.
+
+* Perform the following stels after opening the dosbox application
+```bash
+mount c ~/8086
+c:
+cd bin
+```
+
+* To Create or edit a file from inside the DOSBOX environment
+```bash
+edit <filename.asm>
+```
+
+* To compile and execute the code (we use debug command)
+```bash
+masm <filename.asm>
+link <filename.obj>
+debug <filename.exe>
+```
+The debug command has a few flags as follows, which serve a specfic purpose :
+* `-u`  -  To display all instructions
+* `-g <instruction code of hlt instruction>`
+* `-q`  -  To quit
+* `-d <address of ds>:<offset of data segment if specfied otherwise 0000>`  -  To get data segment
+
+
 ## List of Programs
 
 #### 1. [Exploring Adressing Modes](./Addressing_Modes_Lab_1)
