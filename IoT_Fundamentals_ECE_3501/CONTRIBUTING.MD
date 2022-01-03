@@ -58,3 +58,35 @@ docker container commit <name_of_container> <docker_username>/<image_name>
 docker push <docker_username>/<image_name>
 ```
 You can use any container registry of your choice, I have provided an example with docker, but there are others including the ones offered by github(ghcr), etc.
+
+
+
+
+## Using Node Red Installation
+
+If you do choose to install node red directly on your system instead of using a docker container, here are a few key points to know, some of these can also be used for the usage with docker container as well
+
+* To know the version of node red installed Also runs the server
+```bash
+node-red -v
+```
+
+* To run the node red server
+```bash
+node-red
+```
+
+* To open the server that is run `http://127.0.0.1:1880/`
+
+* If you get any error while running this or shutting down or restarting the server, you can follow these steps, but they are just informal and just seemed to work for me :)
+
+It should also me mentioned that I used a Mac OSX environment, and so some of this might not be suited for other environments
+
+
+In case node red is stuck
+
+*  * Open Terminal.
+*  * Run the command with the port used : example : `lsof -i :<port_number>` (example : `lsof -i :1880`)
+*  * You will get an output with ProcessID - PID if some process is running on it..
+*  * Now kill the process by running the following command : `kill -9 <PID>` (example : `kill -9 4133`)
+
