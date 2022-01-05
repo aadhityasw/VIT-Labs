@@ -1,0 +1,43 @@
+.button
+{
+	-fx-font: normal bold 10px 'Tahoma';
+	-fx-border-radius:10;
+	-fx-border-insets:5;
+
+}
+#graph.button
+{
+	-fx-font: normal 15px 'Tahoma';
+	-fx-border-radius:10;
+	-fx-background-color: grey;
+	-fx-text-fill: white;
+	-fx-border-color:white;
+	-fx-border-width:2;
+}
+.label
+{
+	-fx-font: normal bold 15px 'Verdana';
+}
+#conf.label
+{
+	-fx-font: normal bold 15px 'Verdana';
+	-fx-text-fill: orange;
+}
+#act.label
+{
+	-fx-font: normal bold 15px 'Verdana';
+	-fx-text-fill:dodgerblue ;
+
+}
+#rec.label
+{
+	-fx-font: normal bold 15px 'Verdana';
+	-fx-text-fill:lawngreen ;
+
+}
+#dec.label
+{
+	-fx-font: normal bold 15px 'Verdana';
+	-fx-text-fill:red ;
+	
+}
