@@ -69,3 +69,8 @@ A template for MPI constructs, and a basic program to get a hang of different co
 We will also display the details of the processor in the system.
 
 
+3. [MPI - Scatter and Gather Constructs](./average_scatter_gather.c)
+
+A program to find the average of a few numbers using the `Scatter and Gather` constructs of `MPI`.
+
+
