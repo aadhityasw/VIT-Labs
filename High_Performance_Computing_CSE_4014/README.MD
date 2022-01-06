@@ -58,3 +58,7 @@ mpirun -np 3 --oversubscribe a.out
 
 ## Index
 
+1. [Fibonacci Series](./fibonacci_series.c)
+
+In this, we use the Open MP constructs to use multiple threads to compute and store the fibonacci series in a parallel manner.
+
