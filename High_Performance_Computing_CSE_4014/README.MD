@@ -74,3 +74,8 @@ We will also display the details of the processor in the system.
 A program to find the average of a few numbers using the `Scatter and Gather` constructs of `MPI`.
 
 
+4. [MPI - Reduction](./average_reduction.c)
+
+A program to find the average of a few numbers using the `Scatter and Reduce` constructs of `MPI`.
+
+
