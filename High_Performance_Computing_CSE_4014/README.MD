@@ -79,3 +79,29 @@ A program to find the average of a few numbers using the `Scatter and Gather` co
 A program to find the average of a few numbers using the `Scatter and Reduce` constructs of `MPI`.
 
 
+5. [MPI - Passing Integers](./send_recv_integers.c)
+
+A program to send and recieve integers between two processes.
+
+
+6. [MPI - Passing Strings](./send_recv_strings.c)
+
+A program to send and recieve string messages between two processes.
+Note : This program has not been written by me, but instead the author has been credited in the code.
+
+
+7. [MPI - Message Passing with Probing](./probing.c)
+
+A program to send and recieve string messages between two processes with probing using `MPI_Probe` and `MPI_Get_count` constructs.
+
+
+8. [MPI - Passing Arrays](./send_recv_arrays.c)
+
+A program to send and recieve arrays of integers between two processes.
+
+
+9. [MPI - Message Broadcast](./broadcast.c)
+
+A program to broadcast messages from one process to all other processes. This is mainly used for data synchronization among the processes and is achieved through the `MPI_Bcast` construct.
+
+
