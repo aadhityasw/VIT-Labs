@@ -33,3 +33,6 @@ A bunch of codes done in the labs of various courses during Undergrad.
 
 
 10. [Operating Systems - CSE2005](./Operating_Systems_CSE_2005)
+
+
+11. [High Performance Computing - CSE4014](./High_Performance_Computing_CSE_4014)
