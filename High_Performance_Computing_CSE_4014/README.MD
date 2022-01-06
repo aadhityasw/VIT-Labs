@@ -105,3 +105,11 @@ A program to send and recieve arrays of integers between two processes.
 A program to broadcast messages from one process to all other processes. This is mainly used for data synchronization among the processes and is achieved through the `MPI_Bcast` construct.
 
 
+10. [MPI - Ping Pong](./ping_pong.c)
+
+A program which will cause a message to bounce back and forth between two processes till a condition is met.
+
+
+11. [MPI - Token Ring](./token_ring.c)
+
+A program which will arrange multiple processes in the form of a ring and make a message float through them. The message passes from say `Process 1` through all other processes and returns back to `Process 1`.
