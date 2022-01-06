@@ -62,3 +62,10 @@ mpirun -np 3 --oversubscribe a.out
 
 In this, we use the Open MP constructs to use multiple threads to compute and store the fibonacci series in a parallel manner.
 
+
+2. [Inter Process Communication - Introduction](./processor_details.c)
+
+A template for MPI constructs, and a basic program to get a hang of different constructs used with MPI. <br>
+We will also display the details of the processor in the system.
+
+
