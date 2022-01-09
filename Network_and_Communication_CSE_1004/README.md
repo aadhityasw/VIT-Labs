@@ -11,7 +11,7 @@ In this course, we will manily deal with establishing TCP or UDP connections bet
 
 3. [IP Address Validator](./IP_Address_Validator_Lab_3)
 
-4. [](./_Lab_4)
+4. [Binary Calculations](./Binary_Calculations_Lab_4)
 
 5. [](./_Lab_5)
 
