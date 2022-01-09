@@ -17,6 +17,6 @@ In this course, we will manily deal with establishing TCP or UDP connections bet
 
 6. [TCP Connection - Echo](./TCP_Echo_Lab_6)
 
-7. [](./_Lab_7)
+7. [TCP Packet Analysis](./TCP_Packet_Analysis_Lab_7)
 
 8. [](./_Lab_8)
