@@ -36,3 +36,6 @@ A bunch of codes done in the labs of various courses during Undergrad.
 
 
 11. [High Performance Computing - CSE4014](./High_Performance_Computing_CSE_4014)
+
+
+12. [Software Engineering - CSE3001](./Software_Engineering_CSE_3001)
