@@ -19,4 +19,4 @@ In this course, we will manily deal with establishing TCP or UDP connections bet
 
 7. [TCP Packet Analysis](./TCP_Packet_Analysis_Lab_7)
 
-8. [](./_Lab_8)
+8. [Wireshark](./Wireshark_Lab_8)
