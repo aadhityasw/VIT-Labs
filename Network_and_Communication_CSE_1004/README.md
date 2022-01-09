@@ -20,3 +20,5 @@ In this course, we will manily deal with establishing TCP or UDP connections bet
 7. [TCP Packet Analysis](./TCP_Packet_Analysis_Lab_7)
 
 8. [Wireshark](./Wireshark_Lab_8)
+
+9. [Python Client Server](./Python_Sockets_Lab_9)
