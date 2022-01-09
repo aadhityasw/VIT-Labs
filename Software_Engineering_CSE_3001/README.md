@@ -11,3 +11,8 @@ Here we will be looking at a few programs which are used for the analysis of the
 ### 1. [Cocomo](./Cocomo_Lab_1)
 
 The Constructive Cost Model is a procedural software cost estimation model developed by Barry W. Boehm. The model parameters are derived from fitting a regression formula using data from historical projects.
+
+
+### 2. [Earn Value Analysis](./EVA_Lab_2)
+
+Earned Value Analysis (EVA) is one of the key tools and techniques used in Project Management, to have an understanding of how the project is progressing. EVA implies gauging the progress based on earnings or money. Both, schedule and cost are calculated on the basis of EVA.
