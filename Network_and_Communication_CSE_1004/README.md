@@ -9,7 +9,7 @@ In this course, we will manily deal with establishing TCP or UDP connections bet
 
 2. [Error Detection using Parity](./Error_Detection_Lab_2)
 
-3. [](./_Lab_3)
+3. [IP Address Validator](./IP_Address_Validator_Lab_3)
 
 4. [](./_Lab_4)
 
