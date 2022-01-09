@@ -13,7 +13,7 @@ In this course, we will manily deal with establishing TCP or UDP connections bet
 
 4. [Binary Calculations](./Binary_Calculations_Lab_4)
 
-5. [](./_Lab_5)
+5. [UDP Connection](./UDP_Connection_Lab_5)
 
 6. [](./_Lab_6)
 
