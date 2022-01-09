@@ -15,7 +15,7 @@ In this course, we will manily deal with establishing TCP or UDP connections bet
 
 5. [UDP Connection](./UDP_Connection_Lab_5)
 
-6. [](./_Lab_6)
+6. [TCP Connection - Echo](./TCP_Echo_Lab_6)
 
 7. [](./_Lab_7)
 
