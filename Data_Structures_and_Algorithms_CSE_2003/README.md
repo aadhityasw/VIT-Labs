@@ -26,3 +26,11 @@ In case you do not have prior experience with docker and want to learn more, do 
 | 4 | [String Sort](./Arrays_and_Strings_Lab_1/string_sort.cpp) |
 | 5 | [Partial Array Sort](./Arrays_and_Strings_Lab_1/partial_array_sort.cpp) |
 | 6 | [Sorted Array Insertion](./Arrays_and_Strings_Lab_1/sorted_array_insertion.cpp) |
+
+
+#### 2. [Object Manipulation and Stacks](./Objects_and_Stacks_Lab_2)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [College Admittance](./Objects_and_Stacks_Lab_2/college_admission.cpp) |
+| 2 | [Stack Operations](./Objects_and_Stacks_Lab_2/stack_operations.cpp) |
