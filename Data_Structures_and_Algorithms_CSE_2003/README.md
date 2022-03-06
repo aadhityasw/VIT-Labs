@@ -34,3 +34,17 @@ In case you do not have prior experience with docker and want to learn more, do 
 | ---- | --------------------- |
 | 1 | [College Admittance](./Objects_and_Stacks_Lab_2/college_admission.cpp) |
 | 2 | [Stack Operations](./Objects_and_Stacks_Lab_2/stack_operations.cpp) |
+
+
+#### 3. [Stacks and Queues](./Stacks_and_Queues_Lab_3)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Balls in Containers](./Stacks_and_Queues_Lab_3/container_balls.cpp) |
+| 2 | [Big Bussiness Idea](./Stacks_and_Queues_Lab_3/bussiness_idea.cpp) |
+| 3 | [Postfix Notation](./Stacks_and_Queues_Lab_3/postfix_notation.cpp) |
+| 4 | [Palindrome with Stacks](./Stacks_and_Queues_Lab_3/stack_palindrome.cpp) |
+| 5 | [Decimal to Binary Convertion](./Stacks_and_Queues_Lab_3/decimal_to_binary.cpp) |
+| 6 | [College Counselling](./Stacks_and_Queues_Lab_3/college_counselling.cpp) |
+| 7 | [Stutter](./Stacks_and_Queues_Lab_3/stutter.cpp) |
+| 8 | [Mirror](./Stacks_and_Queues_Lab_3/mirror.cpp) |
