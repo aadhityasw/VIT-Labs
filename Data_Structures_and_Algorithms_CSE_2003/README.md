@@ -48,3 +48,14 @@ In case you do not have prior experience with docker and want to learn more, do 
 | 6 | [College Counselling](./Stacks_and_Queues_Lab_3/college_counselling.cpp) |
 | 7 | [Stutter](./Stacks_and_Queues_Lab_3/stutter.cpp) |
 | 8 | [Mirror](./Stacks_and_Queues_Lab_3/mirror.cpp) |
+
+
+#### 4. [Linked List](./Linked_List_Lab_4)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Singly Linked List](./Linked_List_Lab_4/linked_list.cpp) |
+| 2 | [Merge List](./Linked_List_Lab_4/merge_list.cpp) |
+| 3 | [Self Adjusting List](./Linked_List_Lab_4/self_adjusting_list.cpp) |
+| 4 | [Queue using Linked List](./Linked_List_Lab_4/queue.cpp) |
+| 5 | [Stack using Linked List](./Linked_List_Lab_4/stack.cpp) |
