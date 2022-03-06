@@ -59,3 +59,14 @@ In case you do not have prior experience with docker and want to learn more, do 
 | 3 | [Self Adjusting List](./Linked_List_Lab_4/self_adjusting_list.cpp) |
 | 4 | [Queue using Linked List](./Linked_List_Lab_4/queue.cpp) |
 | 5 | [Stack using Linked List](./Linked_List_Lab_4/stack.cpp) |
+
+
+#### 5. [Binary Search Trees](./Binary_Search_Trees_Lab_5)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [BST](./Binary_Search_Trees_Lab_5/bst.cpp) |
+| 2 | [Inorder Conversions](./Binary_Search_Trees_Lab_5/inorder_conversion.cpp) |
+| 3 | [Root to Leaf Path](./Binary_Search_Trees_Lab_5/root_to_leaf_path.cpp) |
+| 4 | [BST Mirror](./Binary_Search_Trees_Lab_5/bst_mirror.cpp) |
+
