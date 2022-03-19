@@ -80,3 +80,24 @@ In case you do not have prior experience with docker and want to learn more, do 
 | 3 | [Sorted List Insertion](./Sorting_Lab_6/sorted_list_insertion_1.cpp) |
 | 4 | [Merge Sort](./Sorting_Lab_6/merge_sort.cpp) |
 | 5 | [Quick Sort](./Sorting_Lab_6/quick_sort.cpp) |
+
+
+#### 7. [Recursion](./Recursion_Lab_7)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [String Reverse](./Recursion_Lab_7/string_reverse.cpp) |
+| 2 | [Prime Numbers](./Recursion_Lab_7/prime_number.cpp) |
+
+
+#### 8. [Additional Problem Statements](./Additional_Lab_8)
+
+**Note : Not all problem statements have been solved in this lab, feel free to solve the rest and commit them here.**
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | SMS Dictionary |
+| 2 | [The Great Escape](./Additional_Lab_8/great_escape.cpp) |
+| 3 | Number Triples |
+| 4 | Advertising hoardings |
+| 5 | [Dividing Sequences](./Additional_Lab_8/dividing_sequences.cpp) |
