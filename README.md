@@ -2,7 +2,7 @@
 A bunch of codes done in the labs of various courses during Undergrad.
 
 
-# Index
+## List of Courses
 
 
 1. [Web Mining - CSE3014](./Web_Mining_CSE3024)
@@ -45,3 +45,24 @@ A bunch of codes done in the labs of various courses during Undergrad.
 
 
 13. [Data Structures and Algorithms - CSE2003](./Data_Structures_and_Algorithms_CSE_2003)
+
+
+
+
+## List of Packages
+
+1. [IoT Toolkit](https://github.com/aadhityasw/VIT-Labs/pkgs/container/iot-nodered)
+
+A docker image containing the node-red and a few more addons required to complete the [IoT Fundamentals](./IoT_Fundamentals_ECE_3501) and [IoT Domain Analyst](IoT_Domain_Analyst_ECE_3502) courses.
+
+
+2. [Kali Vulnerability Toolkit](https://github.com/aadhityasw/VIT-Labs/pkgs/container/kali-vulnerability-tools)
+
+A docker image of the kali linux distro, but also containing a few vulnerability analysis tools preconfigured.
+
+
+
+
+## Contributing
+
+Refer to the [Contributing.md](./Contributing.md) file for details on how you can contribute your code to this repository.
