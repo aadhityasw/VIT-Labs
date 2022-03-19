@@ -70,3 +70,13 @@ In case you do not have prior experience with docker and want to learn more, do 
 | 3 | [Root to Leaf Path](./Binary_Search_Trees_Lab_5/root_to_leaf_path.cpp) |
 | 4 | [BST Mirror](./Binary_Search_Trees_Lab_5/bst_mirror.cpp) |
 
+
+#### 6. [Sorting](./Sorting_Lab_6)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [String Sort](./Sorting_Lab_6/string_sort.cpp) |
+| 2 | [Sort Odd Indices](./Sorting_Lab_6/odd_index_sort.cpp) |
+| 3 | [Sorted List Insertion](./Sorting_Lab_6/sorted_list_insertion_1.cpp) |
+| 4 | [Merge Sort](./Sorting_Lab_6/merge_sort.cpp) |
+| 5 | [Quick Sort](./Sorting_Lab_6/quick_sort.cpp) |
