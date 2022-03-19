@@ -65,4 +65,4 @@ A docker image of the kali linux distro, but also containing a few vulnerability
 
 ## Contributing
 
-Refer to the [Contributing.md](./Contributing.md) file for details on how you can contribute your code to this repository.
+Refer to the [Contributing.md](./CONTRIBUTING.md) file for details on how you can contribute your code to this repository.
