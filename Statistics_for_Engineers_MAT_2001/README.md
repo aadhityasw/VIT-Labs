@@ -23,3 +23,11 @@ The `R` programming language is primarily used in this course, and the setup req
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
 | 1 | [Analysing External Data](./Data_Analysis_Lab_2/data_analysis.r) |
+
+
+#### 3. [Probabilities](./Probabilities_Lab_3)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Random Experiments](./Probabilities_Lab_3/random_experiments.r) |
+| 2 | [Random Variables](./Probabilities_Lab_3/random_variables.r) |
