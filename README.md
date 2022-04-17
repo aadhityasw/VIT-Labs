@@ -47,6 +47,8 @@ A bunch of codes done in the labs of various courses during Undergrad.
 13. [Data Structures and Algorithms - CSE2003](./Data_Structures_and_Algorithms_CSE_2003)
 
 
+14. [Statistics for Engineers - MAT2001](./Statistics_for_Engineers_MAT_2001)
+
 
 
 ## List of Packages
