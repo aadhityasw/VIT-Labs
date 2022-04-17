@@ -31,3 +31,16 @@ The `R` programming language is primarily used in this course, and the setup req
 | ---- | --------------------- |
 | 1 | [Random Experiments](./Probabilities_Lab_3/random_experiments.r) |
 | 2 | [Random Variables](./Probabilities_Lab_3/random_variables.r) |
+
+
+#### 4. [Binomial Theorem](./Binomial_Theorem_Lab_4)
+
+
+#### 5. [Correlation and Regression](./Correlation_and_Regression_Lab_5)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Data Analysis](./Correlation_and_Regression_Lab_5/data_analysis.r) |
+| 2 | [Pearson Correlation](./Correlation_and_Regression_Lab_5/pearson.r) |
+| 3 | [Spearman Rank Correlation](./Correlation_and_Regression_Lab_5/spearman.r) |
+| 4 | [Regression](./Correlation_and_Regression_Lab_5/regression.r) |
