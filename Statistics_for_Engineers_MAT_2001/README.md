@@ -89,3 +89,10 @@ The `R` programming language is primarily used in this course, and the setup req
 | 2 | [Nitrogen Yield](./F_and_Chi_Squared_Test_Lab_10/nitrogen_yield.r) |
 | 3 | [Students](./F_and_Chi_Squared_Test_Lab_10/students.r) |
 
+
+#### 11. [Annova](./Annova_Lab_11)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Sales](./Annova_Lab_11/material_weights.r) |
+| 2 | [Machine Assembly](./Annova_Lab_11/nitrogen_yield.r) |
