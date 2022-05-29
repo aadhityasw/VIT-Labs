@@ -53,3 +53,10 @@ The `R` programming language is primarily used in this course, and the setup req
 | 1 | [Multiple Linear Regression](./Regression_and_Distribution_Lab_6/multiple_linear_regression.r) |
 | 2 | [Poission and Normal Distribution](./Regression_and_Distribution_Lab_6/pearson.r) |
 
+
+#### 7. [Normal Distributions](./Normal_Distribution_Lab_7)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Sequence of numbers between -10 and 10 incrementing by 0.1](./Normal_Distribution_Lab_7/sequence_1.r) |
+| 2 | [Sequence of 200 numbers with x=-3 to 3](./Normal_Distribution_Lab_7/sequence_2.r) |
