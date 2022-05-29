@@ -60,3 +60,12 @@ The `R` programming language is primarily used in this course, and the setup req
 | ---- | --------------------- |
 | 1 | [Sequence of numbers between -10 and 10 incrementing by 0.1](./Normal_Distribution_Lab_7/sequence_1.r) |
 | 2 | [Sequence of 200 numbers with x=-3 to 3](./Normal_Distribution_Lab_7/sequence_2.r) |
+
+
+#### 8. [Area Under Curve and Large Samples](./AUC_and_Large_Samples_Lab_8)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [AUC Problems](./AUC_and_Large_Samples_Lab_8/auc_problems.r) |
+| 2 | [Cable Manufacturing](./AUC_and_Large_Samples_Lab_8/cable_mannufacturing.r) |
+| 3 | [Penguin Weights](./AUC_and_Large_Samples_Lab_8/penguin_weights.r) |
