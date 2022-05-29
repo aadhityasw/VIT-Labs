@@ -79,3 +79,13 @@ The `R` programming language is primarily used in this course, and the setup req
 | 2 | [Apple Harvestation](./Population_Proportion_and_Small_Samples_Lab_9/apple_harvestation.r) |
 | 3 | [Salmonella Outbreak](./Population_Proportion_and_Small_Samples_Lab_9/salmonella_outbreak.r) |
 | 4 | [Intelligence](./Population_Proportion_and_Small_Samples_Lab_9/intelligence.r) |
+
+
+#### 10. [F test and Chi Squared Test](./F_and_Chi_Squared_Test_Lab_10)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Material Weights](./F_and_Chi_Squared_Test_Lab_10/material_weights.r) |
+| 2 | [Nitrogen Yield](./F_and_Chi_Squared_Test_Lab_10/nitrogen_yield.r) |
+| 3 | [Students](./F_and_Chi_Squared_Test_Lab_10/students.r) |
+
