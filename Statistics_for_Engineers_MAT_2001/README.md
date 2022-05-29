@@ -96,3 +96,16 @@ The `R` programming language is primarily used in this course, and the setup req
 | ---- | --------------------- |
 | 1 | [Sales](./Annova_Lab_11/material_weights.r) |
 | 2 | [Machine Assembly](./Annova_Lab_11/nitrogen_yield.r) |
+
+
+#### 12. [Applications](./Applications_Lab_12)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Dataframes](./Applications_Lab_12/dataframes.r) |
+| 2 | [Random Number Generation](./Applications_Lab_12/random_number.r) |
+| 3 | [Binomial Distribution](./Applications_Lab_12/binomial.r) |
+| 4 | [English Quiz](./Applications_Lab_12/english_quiz.r) |
+| 5 | [Discrete Random Variable](./Applications_Lab_12/discrete_random_variable.r) |
+| 6 | [Matrix Generation](./Applications_Lab_12/matrix.r) |
+
