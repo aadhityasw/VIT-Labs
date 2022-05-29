@@ -44,3 +44,12 @@ The `R` programming language is primarily used in this course, and the setup req
 | 2 | [Pearson Correlation](./Correlation_and_Regression_Lab_5/pearson.r) |
 | 3 | [Spearman Rank Correlation](./Correlation_and_Regression_Lab_5/spearman.r) |
 | 4 | [Regression](./Correlation_and_Regression_Lab_5/regression.r) |
+
+
+#### 6. [Multiple Linear Regression and Poisson Normal Distributions](./Regression_and_Distribution_Lab_6)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Multiple Linear Regression](./Regression_and_Distribution_Lab_6/multiple_linear_regression.r) |
+| 2 | [Poission and Normal Distribution](./Regression_and_Distribution_Lab_6/pearson.r) |
+
