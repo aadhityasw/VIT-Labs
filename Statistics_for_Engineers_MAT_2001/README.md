@@ -69,3 +69,13 @@ The `R` programming language is primarily used in this course, and the setup req
 | 1 | [AUC Problems](./AUC_and_Large_Samples_Lab_8/auc_problems.r) |
 | 2 | [Cable Manufacturing](./AUC_and_Large_Samples_Lab_8/cable_mannufacturing.r) |
 | 3 | [Penguin Weights](./AUC_and_Large_Samples_Lab_8/penguin_weights.r) |
+
+
+#### 9. [Population Proportion and Small Samples](./Population_Proportion_and_Small_Samples_Lab_9)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Elections](./Population_Proportion_and_Small_Samples_Lab_9/elections.r) |
+| 2 | [Apple Harvestation](./Population_Proportion_and_Small_Samples_Lab_9/apple_harvestation.r) |
+| 3 | [Salmonella Outbreak](./Population_Proportion_and_Small_Samples_Lab_9/salmonella_outbreak.r) |
+| 4 | [Intelligence](./Population_Proportion_and_Small_Samples_Lab_9/intelligence.r) |
