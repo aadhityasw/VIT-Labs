@@ -50,6 +50,9 @@ A bunch of codes done in the labs of various courses during Undergrad.
 14. [Statistics for Engineers - MAT2001](./Statistics_for_Engineers_MAT_2001)
 
 
+15. [Database Management Systems - CSE2004](./Database_Management_Systems_CSE2004)
+
+
 
 ## List of Packages
 
