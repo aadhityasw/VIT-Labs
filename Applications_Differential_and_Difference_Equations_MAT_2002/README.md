@@ -58,15 +58,36 @@ The labs in this section require MATLAB software. There are other open source al
 | 1 | [Cauchy Legendre Euler](./Cauchy_Legendre_Euler_Lab_7/CauchyLegendreEuler.m) |
 
 
-#### 8. [](./_Lab_8)
+#### 8. [Solving Differential Equations - Matrix Method](./Matrix_Method_Lab_8)
 
 | S.no | Name of the Method |
 | ---- | --------------------- |
-| 1 | [](./Matrices_Lab_1) |
+| 1 | [Solving Differential Equations - Matrix Method](./Matrix_Method_Lab_8/MatrixMethod.m) |
 
 
-#### 9. [](./_Lab_9)
+#### 9. [Laplace Transforms](./Laplace_Transform_Lab_9)
 
 | S.no | Name of the Method |
 | ---- | --------------------- |
-| 1 | [](./Matrices_Lab_1) |
+| 1 | [Laplace Transforms](./Laplace_Transform_Lab_9/LaplaceTransform.m) |
+
+
+#### 10. [Power Series](./Power_Series_Lab_10)
+
+| S.no | Name of the Method |
+| ---- | --------------------- |
+| 1 | [Power Series](./Power_Series_Lab_10/HomogenousPowerSeries.m) |
+
+
+#### 11. [Difference Equations](./Difference_Equations_Lab_11)
+
+| S.no | Name of the Method |
+| ---- | --------------------- |
+| 1 | [Difference Equations](./Difference_Equations_Lab_11/DifferenceEquation.m) |
+
+
+#### 12. [Z Transform](./Z_Transform_Lab_12)
+
+| S.no | Name of the Method |
+| ---- | --------------------- |
+| 1 | [Z Transform](./Z_Transform_Lab_12/ZTransform.m) |
