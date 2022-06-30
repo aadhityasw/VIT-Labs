@@ -53,6 +53,9 @@ A bunch of codes done in the labs of various courses during Undergrad.
 15. [Database Management Systems - CSE2004](./Database_Management_Systems_CSE2004)
 
 
+16. [Applications of Differential and Difference Equations - MAT2002](./Applications_Differential_and_Difference_Equations_MAT_2002)
+
+
 
 ## List of Packages
 
