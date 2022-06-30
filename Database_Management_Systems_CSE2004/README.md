@@ -69,3 +69,24 @@ Use any guide online for installing the `sql server` and configure it.
 | 1 | [Cursors](./PLSQL_Cursors_Lab_8) |
 
 
+#### 9. [PL-SQL Nested Cursors](./PLSQL_Nested_Cursors_Lab_9)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Examination Achievers](./PLSQL_Nested_Cursors_Lab_9/exam_achievers.sql) |
+| 2 | [Employee Management - Loops](./PLSQL_Nested_Cursors_Lab_9/loops.sql) |
+| 3 | [Employee Management - Nested Loops](./PLSQL_Nested_Cursors_Lab_9/nested_loops.sql) |
+
+
+#### 10. [SQL Views](./SQL_Views_Lab_10)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Views](./SQL_Views_Lab_10) |
+
+
+#### 11. [PL-SQL Procedures](./PLSQL_Procedures_Lab_11)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Procedures](./PLSQL_Procedures_Lab_11) |
