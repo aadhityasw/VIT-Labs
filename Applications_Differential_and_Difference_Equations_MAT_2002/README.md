@@ -30,24 +30,43 @@ The labs in this section require MATLAB software. There are other open source al
 | 2 | [Eigen Vector Visualization](./Cannonical_Form_and_Eigen_Vector_Visualization_Lab_3/EigenVisualization.m) |
 
 
-#### 4. [](./_Lab_4)
+#### 4. [Fourier Series](./Fourier_Series_Lab_4)
+
+| S.no | Name of the Method |
+| ---- | --------------------- |
+| 1 | [Fourier Series](./Fourier_Series_Lab_4/FourierSeries.m) |
+
+
+#### 5. [Harmonic Analysis](./Harmonic_Analysis_Lab_5)
+
+| S.no | Name of the Method |
+| ---- | --------------------- |
+| 1 | [Harmonic Analysis](./Harmonic_Analysis_Lab_5/HarmonicAnalysic.m) |
+
+
+#### 6. [Variation of Parameters](./Variation_of_Parameters_Lab_6)
+
+| S.no | Name of the Method |
+| ---- | --------------------- |
+| 1 | [Variation of Parameters](./Variation_of_Parameters_Lab_6/VariationOfParameters.m) |
+
+
+#### 7. [Cauchy Legendre Euler](./Cauchy_Legendre_Euler_Lab_7)
+
+| S.no | Name of the Method |
+| ---- | --------------------- |
+| 1 | [Cauchy Legendre Euler](./Cauchy_Legendre_Euler_Lab_7/CauchyLegendreEuler.m) |
+
+
+#### 8. [](./_Lab_8)
 
 | S.no | Name of the Method |
 | ---- | --------------------- |
 | 1 | [](./Matrices_Lab_1) |
 
 
-#### 5. [](./_Lab_5)
+#### 9. [](./_Lab_9)
 
 | S.no | Name of the Method |
 | ---- | --------------------- |
 | 1 | [](./Matrices_Lab_1) |
-
-
-#### 6. [](./_Lab_6)
-
-| S.no | Name of the Method |
-| ---- | --------------------- |
-| 1 | [](./Matrices_Lab_1) |
-
-
