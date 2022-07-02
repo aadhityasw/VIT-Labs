@@ -27,28 +27,40 @@ The labs in this section cover programming with C and C++ language. So the insta
 | 3 | [Pattern](./C_Loops_Lab_2/pattern.c) |
 | 4 | [Multiplication Tables](./C_Loops_Lab_2/multiplication_tables.c) |
 
+
+#### 3. [C - Matrices](./C_Matrix_Lab_3)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Array Sum](./C_Matrix_Lab_3/array_sum.c) |
+| 2 | [Matrix Sum](./C_Matrix_Lab_3/matrix_sum.c) |
+| 3 | [Second Largest Number in Matrix](./C_Matrix_Lab_3/matrix_second_largest.c) |
+| 4 | [Matrix Arithmetic](./C_Matrix_Lab_3/matrix_arithmetic.c) |
+
+
+#### 4. [C - Strings](./C_Strings_Lab_4)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Letter Frequency](./C_Strings_Lab_4/letter_frequency.c) |
+| 2 | [String Concatenation](./C_Strings_Lab_4/concatenation.c) |
+
+
+#### 5. [C - Functions and Recursion](./C_Functions_and_Recursion_Lab_5)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Function Call by Value](./C_Functions_and_Recursion_Lab_5/call_by_value.c) |
+| 2 | [Function Call by Reference](./C_Functions_and_Recursion_Lab_5/call_by_reference.c) |
+| 3 | [Global Variables](./C_Functions_and_Recursion_Lab_5/global_variables.c) |
+| 4 | [Fibonacci Series](./C_Functions_and_Recursion_Lab_5/fibonacci.c) |
+| 5 | [Number Reverse](./C_Functions_and_Recursion_Lab_5/reverse_number.c) |
+| 6 | [Factorial with Functions](./C_Functions_and_Recursion_Lab_5/factorial_function.c) |
+| 7 | [Factorial with Recursion](./C_Functions_and_Recursion_Lab_5/factorial_recursion.c) |
+| 8 | [Fibonacci Sum](./C_Functions_and_Recursion_Lab_5/fibonacci_sum.c) |
+
+
 <!--
-#### 3. [SQL - Query Operators](./Query_Operators_Lab_3)
-
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
-| 1 | [Boat Management](./Query_Operators_Lab_3) |
-
-
-#### 4. [SQL - Joins](./Joins_Lab_4)
-
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
-| 1 | [Event Management](./Joins_Lab_4) |
-
-
-#### 5. [SQL - Queries I](./Queries_I_Lab_5)
-
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
-| 1 | [Employees Management](./Queries_I_Lab_5) |
-
-
 #### 6. [SQL - Queries II](./Queries_II_Lab_6)
 
 | S.no | Name of the Experiment |
