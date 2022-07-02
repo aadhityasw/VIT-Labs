@@ -1,0 +1,35 @@
+#include<stdio.h>
+int main()
+{
+	int n,rev=0,a,b;
+	scanf("%d",&n);
+	a=n;
+	while(a!=0)
+	{
+		b=a%10;
+		a=a/10;
+		rev=(rev*10)+b;
+	}
+	/*a=n;
+	do
+	{
+		b=a%10;
+		a=a/10;
+		rev=(rev*10)+b;
+	}while(a!=0);*/
+	/*for(a=n;a>0;a=(int)a/10)
+	{
+		printf("Hi\n")
+		b=a%10;
+		rev=(rev*10)+b;
+	}*/
+	printf("%d\n",rev);
+	if(rev==n)
+	{
+		printf("Yes");
+	}
+	else
+	{
+		printf("no");
+	}
+}

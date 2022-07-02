@@ -56,6 +56,9 @@ A bunch of codes done in the labs of various courses during Undergrad.
 16. [Applications of Differential and Difference Equations - MAT2002](./Applications_Differential_and_Difference_Equations_MAT_2002)
 
 
+17. [Problem Solving and Object Oriented Programming - CSE1002](./Problem_Solving_and_OOP_CSE1002)
+
+
 
 ## List of Packages
 
