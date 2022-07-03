@@ -89,26 +89,98 @@ The labs in this section cover programming with C and C++ language. So the insta
 | 3 | [Macros for addition](./C_Macros_Lab_8/addition.c) |
 
 
+#### 9. [C++ - Introduction](./Cpp_Introduction_Lab_9)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Input / Output Operations](./Cpp_Introduction_Lab_9/io_operations.cpp) |
+| 2 | [Functions](./Cpp_Introduction_Lab_9/functions.cpp) |
+| 3 | [Functions with Optional Parameters](./Cpp_Introduction_Lab_9/optional_parameters.cpp) |
+| 4 | [Factorial Recursion](./Cpp_Introduction_Lab_9/factorial_recursion.cpp) |
+| 5 | [Factorial](./Cpp_Introduction_Lab_9/factorial.cpp) |
+
+
+#### 10. [C++ - Exceptions](./Cpp_Exceptions_Lab_10)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Division by Zero Error](./Cpp_Exceptions_Lab_10/division_error.cpp) |
+| 2 | [Exception](./Cpp_Exceptions_Lab_10/catch_exception.cpp) |
+| 3 | [Catch Multiple Exceptions](./Cpp_Exceptions_Lab_10/multiple_catch.cpp) |
+| 4 | [Catch Generic Exception](./Cpp_Exceptions_Lab_10/generic_catch.cpp) |
+
+
+#### 11. [C++ - Classes Part-I](./Cpp_Classes_I_Lab_11)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Addition - I](./Cpp_Classes_I_Lab_11/addition_1.c) |
+| 2 | [Addition - II](./Cpp_Classes_I_Lab_11/addition_2.c) |
+| 3 | [Variable Scope](./Cpp_Classes_I_Lab_11/scope.c) |
+| 4 | [Employee Class](./Cpp_Classes_I_Lab_11/employee.c) |
+
+
+#### 12. [C++ - Classes Part-II](./Cpp_Classes_II_Lab_12)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Bill Generation - I](./Cpp_Classes_II_Lab_12/bill_1.c) |
+| 2 | [Bill Generation - II](./Cpp_Classes_II_Lab_12/bill_2.c) |
+
+
 <!--
-#### 9. [](./PLSQL_Nested_Cursors_Lab_9)
+#### 13. [](./_Lab_13)
 
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
-| 1 | [Examination Achievers](./PLSQL_Nested_Cursors_Lab_9/exam_achievers.sql) |
-| 2 | [Employee Management - Loops](./PLSQL_Nested_Cursors_Lab_9/loops.sql) |
-| 3 | [Employee Management - Nested Loops](./PLSQL_Nested_Cursors_Lab_9/nested_loops.sql) |
+| 1 | [](./_Lab_11) |
 
 
-#### 10. [SQL Views](./SQL_Views_Lab_10)
+#### 14. [](./_Lab_14)
 
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
-| 1 | [Views](./SQL_Views_Lab_10) |
+| 1 | [](./_Lab_11) |
 
 
-#### 11. [PL-SQL Procedures](./PLSQL_Procedures_Lab_11)
+#### 15. [](./_Lab_15)
 
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
-| 1 | [Procedures](./PLSQL_Procedures_Lab_11) |
+| 1 | [](./_Lab_11) |
+
+
+#### 16. [](./_Lab_16)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [](./_Lab_11) |
+
+
+#### 17. [](./_Lab_17)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [](./_Lab_11) |
+
+
+#### 18. [](./_Lab_18)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [](./_Lab_11) |
+
+
+#### 19. [](./_Lab_19)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [](./_Lab_11) |
+
+
+#### 20. [](./_Lab_20)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [](./_Lab_11) |
 ->
