@@ -60,32 +60,37 @@ The labs in this section cover programming with C and C++ language. So the insta
 | 8 | [Fibonacci Sum](./C_Functions_and_Recursion_Lab_5/fibonacci_sum.c) |
 
 
+#### 6. [C - Pointers and Structures](./C_Pointers_and_Structures_Lab_6)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Pointers](./C_Pointers_and_Structures_Lab_6/pointers.c) |
+| 2 | [Student Structure - I](./C_Pointers_and_Structures_Lab_6/student_structure_1.c) |
+| 3 | [Student Structure - II](./C_Pointers_and_Structures_Lab_6/student_structure_2.c) |
+| 4 | [Student Structure - III](./C_Pointers_and_Structures_Lab_6/student_structure_3.c) |
+
+
+#### 7. [C - Structures and Dynamic Memory Allocation](./C_Structures_and_Dynamic_Memory_Lab_7)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Electricity Bill](./C_Structures_and_Dynamic_Memory_Lab_7/electricity_bill.c) |
+| 2 | [Calloc Sample](./C_Structures_and_Dynamic_Memory_Lab_7/calloc_sample.c) |
+| 3 | [Malloc Sample](./C_Structures_and_Dynamic_Memory_Lab_7/malloc_sample.c) |
+| 4 | [Realloc Sample](./C_Structures_and_Dynamic_Memory_Lab_7/realloc_sample.c) |
+
+
+#### 8. [C - Macros](./C_Macros_Lab_8)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Single Line Macros](./C_Macros_Lab_8/single_line_macros.c) |
+| 2 | [Multi-line Macros](./C_Macros_Lab_8/multiline_macros.c) |
+| 3 | [Macros for addition](./C_Macros_Lab_8/addition.c) |
+
+
 <!--
-#### 6. [SQL - Queries II](./Queries_II_Lab_6)
-
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
-| 1 | [Airline Flight Management](./Queries_II_Lab_6) |
-
-
-#### 7. [Procedural SQL](./Procedural_SQL_Lab_7)
-
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
-| 1 | [Even / Odd Number](./Procedural_SQL_Lab_7/odd_even.sql) |
-| 2 | [Armstrong Number](./Procedural_SQL_Lab_7/armstrong.sql) |
-| 3 | [Factorial](./Procedural_SQL_Lab_7/factorial.sql) |
-| 4 | [Palindrome](./Procedural_SQL_Lab_7/palindrome.sql) |
-
-
-#### 8. [PL-SQL Cursors](./PLSQL_Cursors_Lab_8)
-
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
-| 1 | [Cursors](./PLSQL_Cursors_Lab_8) |
-
-
-#### 9. [PL-SQL Nested Cursors](./PLSQL_Nested_Cursors_Lab_9)
+#### 9. [](./PLSQL_Nested_Cursors_Lab_9)
 
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
