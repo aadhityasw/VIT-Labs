@@ -114,56 +114,68 @@ The labs in this section cover programming with C and C++ language. So the insta
 
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
-| 1 | [Addition - I](./Cpp_Classes_I_Lab_11/addition_1.c) |
-| 2 | [Addition - II](./Cpp_Classes_I_Lab_11/addition_2.c) |
-| 3 | [Variable Scope](./Cpp_Classes_I_Lab_11/scope.c) |
-| 4 | [Employee Class](./Cpp_Classes_I_Lab_11/employee.c) |
+| 1 | [Addition - I](./Cpp_Classes_I_Lab_11/addition_1.cpp) |
+| 2 | [Addition - II](./Cpp_Classes_I_Lab_11/addition_2.cpp) |
+| 3 | [Variable Scope](./Cpp_Classes_I_Lab_11/scope.cpp) |
+| 4 | [Employee Class](./Cpp_Classes_I_Lab_11/employee.cpp) |
 
 
 #### 12. [C++ - Classes Part-II](./Cpp_Classes_II_Lab_12)
 
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
-| 1 | [Bill Generation - I](./Cpp_Classes_II_Lab_12/bill_1.c) |
-| 2 | [Bill Generation - II](./Cpp_Classes_II_Lab_12/bill_2.c) |
+| 1 | [Bill Generation - I](./Cpp_Classes_II_Lab_12/bill_1.cpp) |
+| 2 | [Bill Generation - II](./Cpp_Classes_II_Lab_12/bill_2.cpp) |
+
+
+#### 13. [C++ - New Keyword and Constructors](./Cpp_New_Keyword_and_Constructors_Lab_13)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Initialization](./Cpp_New_Keyword_and_Constructors_Lab_13/initialization_variable.cpp) |
+| 2 | [Array Declaration](./Cpp_New_Keyword_and_Constructors_Lab_13/new_arrays.cpp) |
+| 3 | [Constructor](./Cpp_New_Keyword_and_Constructors_Lab_13/constructor.cpp) |
+| 4 | [Parameterized Constructor](./Cpp_New_Keyword_and_Constructors_Lab_13/parameterized_constructor.cpp) |
+| 5 | [Destructors](./Cpp_New_Keyword_and_Constructors_Lab_13/destructor.cpp) |
+| 6 | [Static Variables](./Cpp_New_Keyword_and_Constructors_Lab_13/static_variable.cpp) |
+| 7 | [Variable Scope](./Cpp_New_Keyword_and_Constructors_Lab_13/variable_values.cpp) |
+
+
+#### 14. [C++ - Constructors](./Cpp_Constructors_Lab_14)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Car](./Cpp_Constructors_Lab_14/car.cpp) |
+| 2 | [Person](./Cpp_Constructors_Lab_14/person.cpp) |
+| 3 | [Icecream](./Cpp_Constructors_Lab_14/icecream.cpp) |
+
+
+#### 15. [C++ - Friend Class](./Cpp_Friend_Class_Lab_15)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Numbers - I](./Cpp_Friend_Class_Lab_15/numbers_1.cpp) |
+| 2 | [Numbers - II](./Cpp_Friend_Class_Lab_15/numbers_2.cpp) |
+
+
+#### 16. [C++ - Overloading](./Cpp_Overloading_Lab_16)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Addition Function Overloading](./Cpp_Overloading_Lab_16/addition_function.cpp) |
+| 2 | [Area Calculation](./Cpp_Overloading_Lab_16/area.cpp) |
+
+
+#### 17. [C++ - Operator Overloading](./Cpp_Operator_Overloading_Lab_17)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Operator Overloading](./Cpp_Operator_Overloading_Lab_17/operator_overloading.cpp) |
+| 2 | [Multiple Operator Overloading](./Cpp_Operator_Overloading_Lab_17/multiple_ope_overloading.cpp) |
+| 3 | [Time](./Cpp_Operator_Overloading_Lab_17/time.cpp) |
 
 
 <!--
-#### 13. [](./_Lab_13)
-
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
-| 1 | [](./_Lab_11) |
-
-
-#### 14. [](./_Lab_14)
-
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
-| 1 | [](./_Lab_11) |
-
-
-#### 15. [](./_Lab_15)
-
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
-| 1 | [](./_Lab_11) |
-
-
-#### 16. [](./_Lab_16)
-
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
-| 1 | [](./_Lab_11) |
-
-
-#### 17. [](./_Lab_17)
-
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
-| 1 | [](./_Lab_11) |
-
-
 #### 18. [](./_Lab_18)
 
 | S.no | Name of the Experiment |
