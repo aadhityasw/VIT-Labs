@@ -173,26 +173,94 @@ The labs in this section cover programming with C and C++ language. So the insta
 | 1 | [Operator Overloading](./Cpp_Operator_Overloading_Lab_17/operator_overloading.cpp) |
 | 2 | [Multiple Operator Overloading](./Cpp_Operator_Overloading_Lab_17/multiple_ope_overloading.cpp) |
 | 3 | [Time](./Cpp_Operator_Overloading_Lab_17/time.cpp) |
+| 4 | [Distance](./Cpp_Operator_Overloading_Lab_17/distance.cpp) |
+| 5 | [New and Delete](./Cpp_Operator_Overloading_Lab_17/new_delete.cpp) |
+
+
+#### 18. [C++ - Inherritance](./Cpp_Inherritance_Lab_18)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Inherritance](./Cpp_Inherritance_Lab_18/inherritance_sample.cpp) |
+| 2 | [Student](./Cpp_Inherritance_Lab_18/student.cpp) |
+| 3 | [Shapes](./Cpp_Inherritance_Lab_18/shape.cpp) |
+| 4 | [Employee](./Cpp_Inherritance_Lab_18/employee.cpp) |
+
+
+#### 19. [C++ - Multi-Level Inherritance](./Cpp_Multilevel_Inherritance_Lab_19)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [GATE Score](./Cpp_Multilevel_Inherritance_Lab_19/scores.cpp) |
+| 2 | [Employee Salary](./Cpp_Multilevel_Inherritance_Lab_19/salary.cpp) |
+
+
+#### 20. [C++ - Dynamic Polymorphism](./Cpp_Dynamic_Polymorphism_Lab_20)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Shapes - I](./Cpp_Dynamic_Polymorphism_Lab_20/shapes_1.cpp) |
+| 2 | [Shapes - II](./Cpp_Dynamic_Polymorphism_Lab_20/shapes_2.cpp) |
 
 
 <!--
-#### 18. [](./_Lab_18)
+#### 21. [](./_Lab_21)
 
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
 | 1 | [](./_Lab_11) |
 
 
-#### 19. [](./_Lab_19)
+#### 22. [](./_Lab_22)
 
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
 | 1 | [](./_Lab_11) |
 
 
-#### 20. [](./_Lab_20)
+#### 23. [](./_Lab_23)
 
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
 | 1 | [](./_Lab_11) |
+
+
+#### 24. [](./_Lab_24)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [](./_Lab_11) |
+
+
+#### 25. [](./_Lab_25)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [](./_Lab_11) |
+
+
+#### 26. [](./_Lab_26)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [](./_Lab_11) |
+
+
+#### 27. [](./_Lab_27)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [](./_Lab_11) |
+
+
+#### 28. [](./_Lab_28)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [](./_Lab_11) |
+
+
+
+
+
 ->
