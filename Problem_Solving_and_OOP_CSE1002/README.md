@@ -68,6 +68,7 @@ The labs in this section cover programming with C and C++ language. So the insta
 | 2 | [Student Structure - I](./C_Pointers_and_Structures_Lab_6/student_structure_1.c) |
 | 3 | [Student Structure - II](./C_Pointers_and_Structures_Lab_6/student_structure_2.c) |
 | 4 | [Student Structure - III](./C_Pointers_and_Structures_Lab_6/student_structure_3.c) |
+| 5 | [Time](./C_Pointers_and_Structures_Lab_6/time.c) |
 
 
 #### 7. [C - Structures and Dynamic Memory Allocation](./C_Structures_and_Dynamic_Memory_Lab_7)
@@ -203,64 +204,64 @@ The labs in this section cover programming with C and C++ language. So the insta
 | 2 | [Shapes - II](./Cpp_Dynamic_Polymorphism_Lab_20/shapes_2.cpp) |
 
 
-<!--
-#### 21. [](./_Lab_21)
+#### 21. [C++ - Function Overriding and Abstract Classes](./Cpp_Overriding_and_Abstract_Class_Lab_21)
 
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
-| 1 | [](./_Lab_11) |
+| 1 | [Weapon](./Cpp_Overriding_and_Abstract_Class_Lab_21/weapon.cpp) |
+| 2 | [Job Schedule](./Cpp_Overriding_and_Abstract_Class_Lab_21/schedule.cpp) |
 
 
-#### 22. [](./_Lab_22)
-
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
-| 1 | [](./_Lab_11) |
-
-
-#### 23. [](./_Lab_23)
+#### 22. [C++ - Generic Programming](./Cpp_Generic_Programming_Lab_22)
 
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
-| 1 | [](./_Lab_11) |
+| 1 | [Printing](./Cpp_Generic_Programming_Lab_22/printing.cpp) |
+| 2 | [Swapping - I](./Cpp_Generic_Programming_Lab_22/swapping_1.cpp) |
+| 3 | [Multiplication](./Cpp_Generic_Programming_Lab_22/multiply.cpp) |
+| 4 | [Stack](./Cpp_Generic_Programming_Lab_22/stack.cpp) |
+| 5 | [Swapping - II](./Cpp_Generic_Programming_Lab_22/swapping_2.cpp) |
 
 
-#### 24. [](./_Lab_24)
-
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
-| 1 | [](./_Lab_11) |
-
-
-#### 25. [](./_Lab_25)
+#### 23. [C++ - Vectors](./Cpp_Vectors_Lab_23)
 
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
-| 1 | [](./_Lab_11) |
+| 1 | [Parsing](./Cpp_Vectors_Lab_23/parsing.cpp) |
+| 2 | [Vectors](./Cpp_Vectors_Lab_23/vectors.cpp) |
 
 
-#### 26. [](./_Lab_26)
-
-| S.no | Name of the Experiment |
-| ---- | --------------------- |
-| 1 | [](./_Lab_11) |
-
-
-#### 27. [](./_Lab_27)
+#### 24. [C++ - List](./Cpp_Lists_Lab_24)
 
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
-| 1 | [](./_Lab_11) |
+| 1 | [Lists](./Cpp_Lists_Lab_24/lists.cpp) |
 
 
-#### 28. [](./_Lab_28)
+#### 25. [C++ - Maps and Sets](./Cpp_Map_and_Set_Lab_25)
 
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
-| 1 | [](./_Lab_11) |
+| 1 | [Multimap - I](./Cpp_Map_and_Set_Lab_25/multimap_1.cpp) |
+| 2 | [Multimap - II](./Cpp_Map_and_Set_Lab_25/multimap_2.cpp) |
+| 3 | [Sets](./Cpp_Map_and_Set_Lab_25/sets.cpp) |
 
 
+#### 26. [C++ - Files](./Cpp_Files_Lab_26)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Hello](./Cpp_Files_Lab_26/hello.cpp) |
+| 2 | [Test](./Cpp_Files_Lab_26/test.cpp) |
+| 3 | [Vowels](./Cpp_Files_Lab_26/vowels.cpp) |
 
 
+#### 27. [C++ - Streams](./Cpp_Streams_Lab_27)
 
-->
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [File Position](./Cpp_Streams_Lab_27/position.cpp) |
+| 2 | [Student](./Cpp_Streams_Lab_27/student.cpp) |
+| 3 | [Even Odd](./Cpp_Streams_Lab_27/odd_even.cpp) |
+
+
