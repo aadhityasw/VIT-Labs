@@ -59,6 +59,9 @@ A bunch of codes done in the labs of various courses during Undergrad.
 17. [Problem Solving and Object Oriented Programming - CSE1002](./Problem_Solving_and_OOP_CSE1002)
 
 
+18. [Calculus for Engineers - MAT1011](./Calculus_for_Engineers_MAT1011)
+
+
 
 ## List of Packages
 
