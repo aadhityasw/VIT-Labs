@@ -62,6 +62,9 @@ A bunch of codes done in the labs of various courses during Undergrad.
 18. [Calculus for Engineers - MAT1011](./Calculus_for_Engineers_MAT1011)
 
 
+19. [Problem Solving and Programming - CSE1001](./Problem_Solving_and_Programming_CSE1001)
+
+
 
 ## List of Packages
 
