@@ -1,0 +1,8 @@
+print("Enter the values of a,b,c,d and e.")
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+e=int(input())
+dist=((a*c)+(b*d)+(e))/(((c**2)+(d**2))**0.5)
+print("The distance is :-\t",dist)
