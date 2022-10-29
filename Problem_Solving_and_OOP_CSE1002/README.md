@@ -274,6 +274,7 @@ The labs in this section cover programming with C and C++ language. So the insta
 | 3 | [Lists](./Python_Introduction_Lab_28/python_lists.py) |
 | 4 | [List Operation](./Python_Introduction_Lab_28/list_operation.py) |
 | 5 | [Conditional Statements](./Python_Introduction_Lab_28/conditional_statements.py) |
+| 6 | [Words](./Python_Introduction_Lab_28/words.py) |
 
 
 #### 29. [Python - Matrices](./Python_Matrices_Lab_29)
@@ -282,6 +283,7 @@ The labs in this section cover programming with C and C++ language. So the insta
 | ---- | --------------------- |
 | 1 | [Matrix](./Python_Matrices_Lab_29/matrix.py) |
 | 2 | [Matrix Addition](./Python_Matrices_Lab_29/matrix_addition.py) |
+| 3 | [Matrix Addition - Mini](./Python_Matrices_Lab_29/matrix_addition_mini.py) |
 
 
 #### 30. [Python - Loops](./Python_Loops_Lab_30)
@@ -293,3 +295,49 @@ The labs in this section cover programming with C and C++ language. So the insta
 | 3 | [Frequency of Elements in a List](./Python_Loops_Lab_30/list_element_frequency.py) |
 | 4 | [Weighted Vowels](./Python_Loops_Lab_30/weighted_vowels.py) |
 | 5 | [Sets](./Python_Loops_Lab_30/python_sets.py) |
+| 6 | [Above Average Numbers](./Python_Loops_Lab_30/above_average.py) |
+
+
+#### 31. [Python - Functions](./Python_Functions_Lab_31)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Addition](./Python_Functions_Lab_31/addition.py) |
+| 2 | [Rotate Prime](./Python_Functions_Lab_31/rotate_prime.py) |
+| 3 | [Rotate Factor Sum](./Python_Functions_Lab_31/rotate_factor_sum.py) |
+| 4 | [Global Scope](./Python_Functions_Lab_31/global_scope.py) |
+| 5 | [Return Objects](./Python_Functions_Lab_31/minimum_maximum.py) |
+| 6 | [Triangle](./Python_Functions_Lab_31/triangle.py) |
+| 7 | [Default parameters](./Python_Functions_Lab_31/default_parameters.py) |
+| 8 | [Global Variable](./Python_Functions_Lab_31/global_variable.py) |
+| 9 | [Miscellaneous Arguments](./Python_Functions_Lab_31/miscellaneous_argument.py) |
+
+
+
+#### 32. [Python - Recursion](./Python_Recursion_Lab_32)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Factorial](./Python_Recursion_Lab_32/factorial.py) |
+| 2 | [Reverse String](./Python_Recursion_Lab_32/reverse_string.py) |
+
+
+
+#### 33. [Python - Search and Sort](./Python_Search_and_Sort_Lab_33)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Bubble Sort](./Python_Search_and_Sort_Lab_33/bubble_sort.py) |
+| 2 | [Selection Sort](./Python_Search_and_Sort_Lab_33/selection_sort.py) |
+| 3 | [Insertion Sort](./Python_Search_and_Sort_Lab_33/insertion_sort.py) |
+| 4 | [Sequential Search](./Python_Search_and_Sort_Lab_33/sequential_search.py) |
+| 5 | [Binary Search](./Python_Search_and_Sort_Lab_33/binary_search.py) |
+
+
+#### 34. [Python - Files](./Python_Files_Lab_34)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Average - Part I](./Python_Files_Lab_34/average_p1.py) |
+| 2 | [Average - Part II](./Python_Files_Lab_34/average_p2.py) |
+| 3 | [Sum and Product](./Python_Files_Lab_34/sum_and_product.py) |
