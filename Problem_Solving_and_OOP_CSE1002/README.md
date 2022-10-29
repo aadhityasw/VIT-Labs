@@ -9,13 +9,13 @@ The labs in this section cover programming with C and C++ language. So the insta
 
 ## List of Programs
 
-#### 1. [Introduction to C language](./Introduction_C_Language_Lab_1)
+#### 1. [C - Introduction](./C_Introduction_Lab_1)
 
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
-| 1 | [Input Operations](./Introduction_C_Language_Lab_1/input.c) |
-| 2 | [Calculator](./Introduction_C_Language_Lab_1/calculator.c) |
-| 3 | [Conditional Statements](./Introduction_C_Language_Lab_1/conditional_statements.c) |
+| 1 | [Input Operations](./C_Introduction_Lab_1/input.c) |
+| 2 | [Calculator](./C_Introduction_Lab_1/calculator.c) |
+| 3 | [Conditional Statements](./C_Introduction_Lab_1/conditional_statements.c) |
 
 
 #### 2. [C - Looping Statements](./C_Loops_Lab_2)
@@ -265,3 +265,31 @@ The labs in this section cover programming with C and C++ language. So the insta
 | 3 | [Even Odd](./Cpp_Streams_Lab_27/odd_even.cpp) |
 
 
+#### 28. [Python - Introduction](./Python_Introduction_Lab_28)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Count Vowels in lower case](./Python_Introduction_Lab_28/count_vowels_lower_case.py) |
+| 2 | [Count Vowels in Any case](./Python_Introduction_Lab_28/count_vowels.py) |
+| 3 | [Lists](./Python_Introduction_Lab_28/python_lists.py) |
+| 4 | [List Operation](./Python_Introduction_Lab_28/list_operation.py) |
+| 5 | [Conditional Statements](./Python_Introduction_Lab_28/conditional_statements.py) |
+
+
+#### 29. [Python - Matrices](./Python_Matrices_Lab_29)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Matrix](./Python_Matrices_Lab_29/matrix.py) |
+| 2 | [Matrix Addition](./Python_Matrices_Lab_29/matrix_addition.py) |
+
+
+#### 30. [Python - Loops](./Python_Loops_Lab_30)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [String Palindrome Check](./Python_Loops_Lab_30/palindrome_check.py) |
+| 2 | [Word with maximum vowels](./Python_Loops_Lab_30/max_vowel_word.py) |
+| 3 | [Frequency of Elements in a List](./Python_Loops_Lab_30/list_element_frequency.py) |
+| 4 | [Weighted Vowels](./Python_Loops_Lab_30/weighted_vowels.py) |
+| 5 | [Sets](./Python_Loops_Lab_30/python_sets.py) |
