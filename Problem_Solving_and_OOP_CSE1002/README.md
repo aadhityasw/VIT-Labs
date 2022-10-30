@@ -16,6 +16,15 @@ The labs in this section cover programming with C and C++ language. So the insta
 | 1 | [Input Operations](./C_Introduction_Lab_1/input.c) |
 | 2 | [Calculator](./C_Introduction_Lab_1/calculator.c) |
 | 3 | [Conditional Statements](./C_Introduction_Lab_1/conditional_statements.c) |
+| 4 | [Remainder](./C_Introduction_Lab_1/remainder.c) |
+| 5 | [Chocolates](./C_Introduction_Lab_1/chocolate.c) |
+| 6 | [Increment Operator](./C_Introduction_Lab_1/increment.c) |
+| 7 | [Type Casting](./C_Introduction_Lab_1/type_casting.c) |
+| 8 | [Salary](./C_Introduction_Lab_1/salary.c) |
+| 9 | [Even Numbers](./C_Introduction_Lab_1/even.c) |
+| 10 | [Conditional - If Else](./C_Introduction_Lab_1/conditional_if_else.c) |
+| 11 | [Conditional - Switch Case](./C_Introduction_Lab_1/conditional_switch_case.c) |
+
 
 
 #### 2. [C - Looping Statements](./C_Loops_Lab_2)
