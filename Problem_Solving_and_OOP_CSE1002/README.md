@@ -374,3 +374,15 @@ The labs in this section cover programming with C and C++ language. So the insta
 | 1 | [Square Root](./C_Libraries_Lab_35/square_root.c) |
 | 2 | [Digits Count](./C_Libraries_Lab_35/digit_count.c) |
 | 3 | [Mean Adjusted Array](./C_Libraries_Lab_35/mean_adjusted_array.c) |
+
+
+#### 36. [Python - Applications](./Python_Applications_Lab_36)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Payslip](./Python_Applications_Lab_36/payslip.py) |
+| 2 | [ATM](./Python_Applications_Lab_36/atm.py) |
+| 3 | [BMI](./Python_Applications_Lab_36/bmi.py) |
+| 4 | [Houseflies](./Python_Applications_Lab_36/houseflies.py) |
+| 5 | [Roman Number](./Python_Applications_Lab_36/roman_number.py) |
+| 6 | [Piggybank](./Python_Applications_Lab_36/piggybank.py) |
