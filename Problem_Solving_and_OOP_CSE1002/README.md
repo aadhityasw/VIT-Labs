@@ -32,9 +32,10 @@ The labs in this section cover programming with C and C++ language. So the insta
 | S.no | Name of the Experiment |
 | ---- | --------------------- |
 | 1 | [Palindrome Number](./C_Loops_Lab_2/palindrome.c) |
-| 2 | [Highest Common Factor](./C_Loops_Lab_2/hcf.c) |
+| 2 | [Highest Common Factor - I](./C_Loops_Lab_2/hcf_1.c) |
 | 3 | [Pattern](./C_Loops_Lab_2/pattern.c) |
 | 4 | [Multiplication Tables](./C_Loops_Lab_2/multiplication_tables.c) |
+| 5 | [Highest Common Factor - II](./C_Loops_Lab_2/hcf_2.c) |
 
 
 #### 3. [C - Matrices](./C_Matrix_Lab_3)
@@ -45,6 +46,7 @@ The labs in this section cover programming with C and C++ language. So the insta
 | 2 | [Matrix Sum](./C_Matrix_Lab_3/matrix_sum.c) |
 | 3 | [Second Largest Number in Matrix](./C_Matrix_Lab_3/matrix_second_largest.c) |
 | 4 | [Matrix Arithmetic](./C_Matrix_Lab_3/matrix_arithmetic.c) |
+| 5 | [Diagonal Matrix](./C_Matrix_Lab_3/diagonal_matrix.c) |
 
 
 #### 4. [C - Strings](./C_Strings_Lab_4)
@@ -53,6 +55,14 @@ The labs in this section cover programming with C and C++ language. So the insta
 | ---- | --------------------- |
 | 1 | [Letter Frequency](./C_Strings_Lab_4/letter_frequency.c) |
 | 2 | [String Concatenation](./C_Strings_Lab_4/concatenation.c) |
+| 3 | [String Input - I](./C_Strings_Lab_4/string_input_1.c) |
+| 4 | [String Input - II](./C_Strings_Lab_4/string_input_2.c) |
+| 5 | [String Length](./C_Strings_Lab_4/string_length.c) |
+| 6 | [String Functions](./C_Strings_Lab_4/string_functions.c) |
+| 7 | [Frequency](./C_Strings_Lab_4/frequency.c) |
+| 8 | [Palindrome](./C_Strings_Lab_4/palindrome.c) |
+| 9 | [Capitalized Words](./C_Strings_Lab_4/capitalized_words.c) |
+| 10 | [Shift Characters](./C_Strings_Lab_4/shift_character.c) |
 
 
 #### 5. [C - Functions and Recursion](./C_Functions_and_Recursion_Lab_5)
@@ -67,6 +77,11 @@ The labs in this section cover programming with C and C++ language. So the insta
 | 6 | [Factorial with Functions](./C_Functions_and_Recursion_Lab_5/factorial_function.c) |
 | 7 | [Factorial with Recursion](./C_Functions_and_Recursion_Lab_5/factorial_recursion.c) |
 | 8 | [Fibonacci Sum](./C_Functions_and_Recursion_Lab_5/fibonacci_sum.c) |
+| 9 | [Addition](./C_Functions_and_Recursion_Lab_5/addition.c) |
+| 10 | [Addition with Pointers](./C_Functions_and_Recursion_Lab_5/addition_pointers.c) |
+| 11 | [Array Conditional Increment](./C_Functions_and_Recursion_Lab_5/array_conditional_increment.c) |
+| 12 | [Modify Matrix](./C_Functions_and_Recursion_Lab_5/modify_matrix.c) |
+| 13 | [Predefining Functions](./C_Functions_and_Recursion_Lab_5/predefining_functions.c) |
 
 
 #### 6. [C - Pointers and Structures](./C_Pointers_and_Structures_Lab_6)
@@ -350,3 +365,12 @@ The labs in this section cover programming with C and C++ language. So the insta
 | 1 | [Average - Part I](./Python_Files_Lab_34/average_p1.py) |
 | 2 | [Average - Part II](./Python_Files_Lab_34/average_p2.py) |
 | 3 | [Sum and Product](./Python_Files_Lab_34/sum_and_product.py) |
+
+
+#### 35. [C - Libraries](./C_Libraries_Lab_35)
+
+| S.no | Name of the Experiment |
+| ---- | --------------------- |
+| 1 | [Square Root](./C_Libraries_Lab_35/square_root.c) |
+| 2 | [Digits Count](./C_Libraries_Lab_35/digit_count.c) |
+| 3 | [Mean Adjusted Array](./C_Libraries_Lab_35/mean_adjusted_array.c) |
